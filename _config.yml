@@ -255,7 +255,10 @@ collections:
   resources:
     output: true
     permalink: /:collection/:path/
-  countries:
+  news:
+    output: true
+    permalink: /:collection/:path/
+  events:
     output: true
     permalink: /:collection/:path/
   community:
@@ -305,19 +308,19 @@ defaults:
       layout: single
       author_profile: false
       share: false
-  # _countries
+  # _news
   - scope:
       path: ""
-      type: countries
-    values:
-      layout: single
-      author_profile: true
-      share: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
+      type: news
     values:
       layout: single
       author_profile: false
-      share: true
+      share: false
+  # _events
+  - scope:
+      path: ""
+      type: events
+    values:
+      layout: single
+      author_profile: false
+      share: false
