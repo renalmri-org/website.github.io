@@ -1,10 +1,10 @@
 ## How to edit the  website
 
-The [MRSHub website](https://www.mrshub.org) is generated from simple text files, using the popular static site generator website [Jekyll](https://jekyllrb.com/). It is built and served through the free service [Netlify](https://www.netlify.com/).
+The [renalmri.org](https://www.renalmri.org) using generator website [Jekyll](https://jekyllrb.com/).
 
-The text files that the site is built from live in the 'master' branch of a [GitHub repository](https://github.com/mrshub/mrshub-website/tree/master) of the MRSHub account. Whenever the files in this repository are changed, Netlify compiles the Jekyll files and rebuilds the website automatically.
+The text files that the site is built from live in the 'main' branch of a [GitHub repository](https://github.com/renalMRIAlexandra/renalMRIAlexandra.github.io/tree/main). Whenever the files in this repository are changed, GitHub rebuilds the website automatically.
 
-To maintain and update the MRSHub website, you will need to set up two software packages on your computer:
+To maintain and update the renalmri website, you will need to set up two software packages on your computer:
 - **Jekyll** to test changes locally before committing them to the GitHub repository where the website text files live. Follow the [Jekyll installation guide](https://jekyllrb.com/docs/installation/) to set up Jekyll.
 - **Git** (and optionally the GitHub Desktop software) to track and commit changes you make in your local copy to the website repository.
 
@@ -16,9 +16,9 @@ To maintain and update the MRSHub website, you will need to set up two software 
 
 3. To test the changes you made locally, open a terminal or prompt, navigate to the folder you just created (so you can see the file `_config.yml`).
 
-4. Type the command `jekyll serve` and hit Enter. If you see `jekyll` producing errors at this stage, try using the command `bundle exec jekyll serve` instead. If that does not resolve the problem, re-installe and upgrade Jekyll (follow the [Jekyll installation guide](https://jekyllrb.com/docs/installation/) again). After upgrading to Jekyll 4.2, I previously had to add a deprecated dependency with the command `bundle add webrick` ([instructions here](https://github.com/jekyll/jekyll/issues/8523)).
+4. Type the command `jekyll serve` or `jekyll install` and hit Enter. If you see `jekyll` producing errors at this stage, try using the command `bundle exec jekyll serve` instead. If that does not resolve the problem, re-installe and upgrade Jekyll (follow the [Jekyll installation guide](https://jekyllrb.com/docs/installation/) again).
 
-5. After a while, you should see a line `Server address: http://127.0.0.1:4000/`. You can copy the address into your web browser and test the functionality of the local copy of the site. Make sure that all the changes you made appear. Back in the terminal window, hitting Ctrl-C will stop the local Jekyll server.
+5. After a while, you should see a line `Server address: http://127.0.0.1:4000/`. Enter this address into your web browser.
 
 6. If you're happy with the local rendering of the site, commit the changes back to the 'develop' branch of the repository.
 
