@@ -284,22 +284,14 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _recipes
-  - scope:
-      path: ""
-      type: recipes
-    values:
-      layout: single
-      author_profile: true
-      share: true
   # _resources
   - scope:
       path: ""
       type: resources
     values:
       layout: single
-      author_profile: true
-      share: true
+      author_profile: false
+      share: false
   # _community
   - scope:
       path: ""
