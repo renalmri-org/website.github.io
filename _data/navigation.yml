@@ -12,6 +12,8 @@ main:
     url: /events/
   - title: "About"
     url: /about/
+  - title: "Governance"
+    url: /governance/
 
 # sidebar navigation list sample
 sidebar-sample:
