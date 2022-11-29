@@ -50,13 +50,10 @@ feature_row4:
 ---
 
 {% capture notice-text %}
-Twitter handle: @renalMRI
-
-Check out our [renal MRI resources](https://renalmri.org/news)
 
 
 **Coordinating research on renal MRI biomarkers for clinical practice, drug development and basic research.**
-The rising prevalence of Chronic Kidney Disease (CKD) poses a major public health challenge affecting >10% of the population. There exists an urgent need for better biomarkers to identify patients that are at risk of progression, or are likely to respond to (candidate) therapeutics. Magnetic Resonance Imaging (MRI) biomarkers can help to fill this gap, as they are uniquely able to track disease progression and treatment effects in the tissue itself and in a non-invasive manner (see here for a position statement by leading scientists and clinicians).
+The rising prevalence of Chronic Kidney Disease (CKD) poses a major public health challenge affecting >10% of the population. There exists an urgent need for better biomarkers to identify patients that are at risk of progression, or are likely to respond to (candidate) therapeutics. Magnetic Resonance Imaging (MRI) biomarkers can help to fill this gap, as they are uniquely able to track disease progression and treatment effects in the tissue itself and in a non-invasive manner. See [here](https://academic.oup.com/ndt/article/33/suppl_2/ii4/5078407?login=false) for a position statement by leading scientists and clinicians.
 {% endcapture %}
 
 <div class="notice--info" align="justify">
@@ -68,7 +65,7 @@ BIOMARKERS FOR KIDNEY DISEASE</h1>
 {% capture mrs-workshop-text %}
 In recent years, the clinical interest in renal MRI has accelerated research and development and led to a growing excitement within an emerging multidisciplinary community of nephrologists, radiologists, surgeons, radiographers, physicists, computer scientists, pathologists and physiologists. Bi-annual international meetings have been held since 2015, and national and international consortia have been funded to work on standardization of methods, preclinical research and multi-centre clinical trials. The field has seen an increasing participation from charities and the private sector, including SME's, pharmaceutical industry and MRI scanner manufacturers.
 
-**RENALMRI.org provides a central point of access to the renal MRI community and joins up all stakeholders with an aim to speed up translation into clinical practice, drug development and basic research. Check out our resources [here](https://renalmri.org/news)!**
+**RENALMRI.org provides a central point of access to the renal MRI community and joins up all stakeholders with an aim to speed up translation into clinical practice, drug development and basic research. Check out some of our resources [here](https://renalmri.org/resources)!**
 {% endcapture %}
 
 
@@ -78,7 +75,9 @@ In recent years, the clinical interest in renal MRI has accelerated research and
 </div>
 
 {% capture mrs-workshop-text %}
-RENALMRI.org was created by the ongoing COST Action PARENCHIMA (CA16103) and will continue to be maintained by PARENCHIMA at until the end of the action (1 October 2021). Current planning foresees a handover of RENALMRI.org to a more informal networking of groups with an interest in MRI. A governance approach will be discussed and decided during the final PARENCHIMA meeting on the ISMRM-PARENCHIMA kidney MRI workshop in september 2021, and will be encoded in a dedicated governance section on this website.
+RENALMRI.org is a bottom-up member-led network coordinated by a governing committee consisting of a chair, past chair and vice chair. See [here](https://renalmri.org/governance/) for more detail.
+
+Membership is open - if you want to join the network please contact the chair.
 {% endcapture %}
 
 
@@ -88,23 +87,18 @@ RENALMRI.org was created by the ongoing COST Action PARENCHIMA (CA16103) and wil
 </div>
 
 {% capture notice-text %}
-The core team succeeds the PARENCHIMA Core Team, which consisted of
+The current RENALMRI.org governing committee consists of the following members:
 
-- Steven Sourbron (Chair)
+- [Alexandra Ljimani](mailto:alexandra_ljimani@yahoo.de) (Chair)
 
-- Christoffer Laustsen
+- [Pim Pullens](mailto:Pim.Pullens@uzgent.be) (vice chair)
 
-- Frank Zöllner
+- [Anna Caroli](mailto:acaroli@marionegri.it) (past chair)
 
-- Thoralf Niendorf
-
-- Anna Caroli
-
-- Marcos Wolf
 {% endcapture %}
 
 <div class="notice--info" align="justify">
-  <h1 align="center">RENALMRI.ORG CORE TEAM</h1>
+  <h1 align="center">RENALMRI.ORG GOVERNING COMITTEE</h1>
   {{ notice-text | markdownify }}
 </div>
 
