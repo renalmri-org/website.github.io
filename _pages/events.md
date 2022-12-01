@@ -39,7 +39,7 @@ University of Sheffield, UK
 
 # Location and Travel
 
-## City of Ghent, Belgium
+## City of Ghent/Gent, Belgium
 
 "There's no better place to acquire and share knowledge than Ghent."
 
@@ -51,7 +51,7 @@ Belgium’s conference hotspot excels, both on a national and on an internationa
 
 ### Conference Center "Het Pand"
 
-Conference Center "Het Pand" is located in the historic center of Gent. Hotels, restaurants, and bars are within walking distance.
+Conference Center "Het Pand" is located in the historic center of Ghent. Hotels, restaurants, and bars are within walking distance.
 
 ![Conference center Gent](/assets/images/gent_conference_center.png)
 
@@ -75,6 +75,5 @@ Cities are increasingly making efforts to limit their environmental impact. In G
 
 ![Location Gent](/assets/images/gent_location.png)
 
-# 
 
 
