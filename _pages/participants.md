@@ -5,44 +5,43 @@ toc: true
 author_profile: false
 ---
 
-List of participants
 
 ## 🇦🇹 Austria
 
-* [Dr. Marcos Wolf](google.com)
-* [Prof Siegfried trattnig](google.com)
-* [Dr. Pamela Zolda](google.com)
-* [Prof. Ewald Moser](google.com)
-* [Dr. Barbara Katharina](google.com)
-* [Joey Moser](google.com)
-* [Akira Sumiyoshi](google.com)
+* Dr. Marcos Wolf
+* Prof Siegfried trattnig
+* Dr. Pamela Zolda
+* Prof. Ewald Moser
+* Dr. Barbara Katharina
+* Joey Moser
+* Akira Sumiyoshi
 
 ## 🇧🇪 Belgium
 
-* [Dr. Peeters Roland](google.com)
-* [Dr. ir. Pim Pullens](google.com)
-* [Dr. Raeymaekers Hubert](google.com)
-* [Dr. Patricia van der Niepen](google.com)
-* [Ir. Nathan Sennesael](google.com)
-* [Prof. Pieter De Visschere](google.com)
-* [Prof. Charlotte Debbaut](google.com)
-* [Marijn Speeckaert](google.com)
+* Dr. Peeters Roland
+* Dr. ir. Pim Pullens
+* Dr. Raeymaekers Hubert
+* Dr. Patricia van der Niepen
+* Ir. Nathan Sennesael
+* Prof. Pieter De Visschere
+* Prof. Charlotte Debbaut
+* Marijn Speeckaert
 
 ## 🇭🇷 Croatia
 
-* [Dr. Loncaric Sven](google.com)
-* [Dr. Subasic Marko](google.com)
+* Dr. Loncaric Sven
+* Dr. Subasic Marko
 
 ## 🇨🇾 Cyprus
 
-* [Georgios Menikou](google.com)
-* [Dr. Polycarpou Irene](google.com)
+* Georgios Menikou
+* Dr. Polycarpou Irene
 
 ## 🇨🇿 Czech Republic
 
-* [Dr. Monika Dezortova](google.com)
-* [Dr. Milan Hajek](google.com)
-* [Dr. Janka Slatinská](google.com)
-* [Tereza Dusilova](google.com)
-* [Radek Galabov](google.com)
+* Dr. Monika Dezortova
+* Dr. Milan Hajek
+* Dr. Janka Slatinská
+* Tereza Dusilova
+* Radek Galabov
 
