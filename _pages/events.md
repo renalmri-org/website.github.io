@@ -6,17 +6,7 @@ collection: events
 author_profile: false
 ---
 
----
-title: Events
-layout: collection
-permalink: /events/
-collection: events
-author_profile: false
-previewWebRootPath: /Users/pimpullens/DATA/currentProjects/nefroUZGent/renalmri_org/renalMRIAlexandra.github.io/
----
-
-
-![promo](assets/images/promo_gent.png)
+![promo](/assets/images/promo_gent.png)
 
 # Overview 
 
