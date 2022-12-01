@@ -5,6 +5,8 @@ toc: true
 author_profile: false
 ---
 
+List of participants
+
 ## 🇦🇹 Austria
 
 * [Dr. Marcos Wolf](google.com)
@@ -43,3 +45,4 @@ author_profile: false
 * [Dr. Janka Slatinská](google.com)
 * [Tereza Dusilova](google.com)
 * [Radek Galabov](google.com)
+
