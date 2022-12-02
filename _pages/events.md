@@ -11,7 +11,7 @@ author_profile: false
 The renal MRI community has been organising bi-annual international meeting since 2015. In line with the mission of RENALMRI.org as a community-led organisation, future meetings will follow these core principles:
 
 - Meetings are self-organised by the community but can seek endorsements from stakeholders in nephrology, MR physics, radiology, endocrinology, computer science and other relevant disciplines.
-- Registration fees should be kept to a minimum by keeping costs low and soliciting sponsorship, and should not bias towards any particular discipline. 
+- Registration fees should be kept to a minimum (early bird <300 EUR full fees and <150 EUR student fees) by keeping costs low and soliciting sponsorship, and should not bias towards any particular discipline. 
 - All participants including invited speakers will be treated by the same general principles when offering reimbursements or registration waivers.
 - The *organising committee* commits to returning any profits back to the community to be invested in support activities such as website development and maintenance.
 - In order of priority, the *program committee* should be balanced in terms of the relevant disciplines, gender, level of seniority and regional representation.
