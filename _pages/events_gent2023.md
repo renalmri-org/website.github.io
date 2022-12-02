@@ -1,5 +1,4 @@
 ---
-title: Events
 layout: collection
 permalink: /events/gent2023
 collection: events
@@ -8,35 +7,30 @@ author_profile: false
 
 ![promo](/assets/images/gent_images/gent_promo.png)
 
-# Overview 
 
 We warmly invite you to the 5th International Meeting on Renal Imaging in Ghent, Belgium on September 11-12, 2023. Please save the date! More information on the program will follow soon.
 
-# Program
+# Organising committee
 
-TBA
-
-# Organisers
-
-Chair: TBA
-
-## Committee Members
-
-TBA. Renalmri.org governance aims to create an organising committee composed of all relevant disciplines. 
-
-## Local organising committee
-- Pim Pullens, PhD<br>
+- [Dr. Pim Pullens, PhD](https://research.ugent.be/web/person/pim-pullens-0/en)<br>
 *renalmri.org vice-chair*<br>
 *MR Physicist at Ghent University Hospital & Ghent University*<br> 
 *ISMRM renal MRI studygroup member*
-- Pieter De Visschere, MD PhD<br>*Urogenital radiologist Ghent University Hospital*<br>*active ESUR member*
-- Marijn Speeckaert, MD PhD<br>*Nephrologist Ghent University Hospital*
+- [Prof. Dr. Pieter De Visschere, MD PhD](https://biblio.ugent.be/person/001997424808)<br>*Urogenital radiologist Ghent University Hospital*<br>*active ESUR member*
+- [Prof. Dr. Marijn Speeckaert, MD PhD](https://www.uzgent.be/patient/zoek-een-arts-of-dienst/nefrologie/team/prof-dr-marijn-speeckaert)<br>*Nephrologist Ghent University Hospital*
 
-## Advisor
 
-Prof. Steven Sourbron, PhD<br>
-*Chair in Medical Imaging Physics<br> 
-University of Sheffield, UK*
+# Program committee
+
+ The program committee is responsible for selecting topics, speakers, and proffered papers from submitted abstracts. Names are to be determined but will consist of one member from each of the following disciplines:
+
+ - Nephrologist
+ - MRI physicist or engineer
+ - Radiologist
+ - Endocrinologist
+ - Computer scientist or mathematician
+ - Radiographer
+
 
 # Location and Travel
 
