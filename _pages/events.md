@@ -6,7 +6,7 @@ collection: events
 author_profile: false
 ---
 
-![promo](/assets/images/gent_images/gent_promo.png)
+[![promo](/assets/images/gent_images/gent_promo.png)](https://renalmri.org/events/gent2023)
 
 # Overview 
 
