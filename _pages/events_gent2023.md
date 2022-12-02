@@ -22,7 +22,7 @@ We warmly invite you to the 5th International Meeting on Renal Imaging in Ghent,
 
 # Program committee
 
- The program committee is responsible for selecting topics, speakers, and proffered papers from submitted abstracts. Names are to be determined but will consist of one member from each of the following disciplines:
+ The program committee is responsible for selecting topics, speakers, and proffered papers from submitted abstracts. Names are to be determined (we welcome any suggestions) but we are committed to a balanced committee including one member from each of the following disciplines:
 
  - Nephrologist
  - MRI physicist or engineer
