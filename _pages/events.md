@@ -6,7 +6,7 @@ collection: events
 author_profile: false
 ---
 
-![promo](/assets/images/promo_gent.png)
+![promo](/assets/images/gent_images/promo_gent.png)
 
 # Overview 
 
@@ -46,7 +46,7 @@ University of Sheffield, UK*
 
 Belgium’s conference hotspot excels, both on a national and on an international level, in sectors ranging from art to agro, food, technology and biotech.  Ghent is home to various educational institutions, research centres and knowledge clusters and is simply a nice place to organise a conference: hospitable, charming, historical, sustainable and innovative.  In short, a city on a human scale. 
 
-![City of Gent](/assets/images/gent_city.png)
+![City of Gent](/assets/images/gent_images/gent_city.png)
 
 [Why Gent?](https://visit.gent.be/en/gentcongres/whygent)
 
@@ -54,7 +54,7 @@ Belgium’s conference hotspot excels, both on a national and on an internationa
 
 Conference Center "Het Pand" is located in the historic center of Ghent. Hotels, restaurants, and bars are within walking distance.
 
-![Conference center Gent](/assets/images/gent_conference_center.png)
+![Conference center Gent](/assets/images/gent_images/gent_conference_center.png)
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2507.9888990122!2d3.719349687557983!3d51.05329277360496!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c371416c5282c1%3A0x76f8ffd99df5a019!2sHet%20Pand!5e0!3m2!1sen!2sbe!4v1669894123982!5m2!1sen!2sbe" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
@@ -74,7 +74,7 @@ Cities are increasingly making efforts to limit their environmental impact. In G
 - Paris FR accessible by high speed train (2.5 hrs)
 - Flights to Amsterdam NL have direct train connections to Gent (2 hrs)
 
-![Location Gent](/assets/images/gent_location.png)
+![Location Gent](/assets/images/gent_images/gent_location.png)
 
 
 
