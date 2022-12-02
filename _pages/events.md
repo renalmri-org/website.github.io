@@ -34,7 +34,7 @@ The renal MRI community has been organising bi-annual international meeting sinc
 
 ## 2015 - 1st international renal imaging meeting (Bordeaux)
 
-[![promo](/assets/images/bordeaux.png)](https://sites.google.com/site/renalmriworkshop)
+[![promo](/assets/images/bordeaux_2015.png)](https://sites.google.com/site/renalmriworkshop)
 
 
 
