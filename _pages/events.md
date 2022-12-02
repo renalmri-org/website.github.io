@@ -6,7 +6,7 @@ collection: events
 author_profile: false
 ---
 
-![promo](/assets/images/gent_images/promo_gent.png)
+![promo](/assets/images/gent_images/gent_promo.png)
 
 # Overview 
 
