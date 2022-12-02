@@ -24,7 +24,7 @@ The renal MRI community has been organising bi-annual international meeting sinc
 
 [![promo](/assets/images/lisbon_2021.png)](https://www.ismrm.org/workshops/2021/Kidney/)
 
-## 2019 - 3d international renal imaging meeting (Nottingham)
+## 2019 - 3rd international renal imaging meeting (Nottingham)
 
 [![promo](/assets/images/nottingham_2019.png)](https://www.nottingham.ac.uk/research/groups/spmic/research/uk-renal-imaging-network/3rd-renal-symposium/3rd-international-symposium-on-functional-renal-imaging.aspx)
 
