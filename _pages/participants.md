@@ -57,6 +57,59 @@ author_profile: false
 * Prof. Lally Caitriona
 * Dr. Shahid Salman
 
+## France
+* Prof. Nicolas Grenier
+* Prof. Claudon Michel
+* Dr. Benjamin Taton
+* Prof. Christian Combe
+* Simon Lambert
+
+## Macedonia
+* Prof. Mitko Kostov
+* Pavle Adamovski
+* Dr. Milena Mitrovic
+
+## Germany
+* Prof. Dr. Frank Zöllner
+* Prof. Niendorf Thoralf
+* Dr. Martin Meier
+* Dr. Andreas Pohlmann
+* Dr. Peter Boor
+* Prof. Bernhard Krämer
+* Dr. Notohamiprodjo Mike
+* Dr. Stephan Rodrigo Marticorena Garcia
+* Prof. Dr. Hans-Joerg Wittsack
+* Dr. Rotem Lanzman
+* Dr. Johannes Gregori
+* Prof. Dr. Kai-Uwe Eckardt
+* Dr. Christian Rosenberg
+* Dr. Katja Derlin
+* Dr. Hans-Joachim Mentzel
+* Stabinska Julia
+* Periquito Jodo
+* Bechler Eric
+* Dr. Chacon Caldera Jorge
+* Prof. Dr. Nagel Armin
+* Dr. Alexandra Ljimani
+* Dr. Cecilia Zhang
+* Irene Brumer
+* Dr. Christian Radu
+
+## Greece
+* Prof. George Kagadis
+* Prof. Dimitris Karnabatidis
+* Prof. Spiliopoulos Stavros
+* Dr. Tsantis Stavros
+
+## Hungary
+* Dr. Andrea Fekete
+* Prof. Szabó Attila
+* Dr. Adam Hosszu
+
+## Ireland
+* Prof. Lally Caitriona
+* Dr. Shahid Salman
+
 ## Italy
 * Dr. Longo Dario
 * Dr. Anna Caroli
@@ -207,6 +260,7 @@ author_profile: false
 
 ## Australia
 * Prof. Roger Evans
+* Dr Dana Kim
 
 ## Bosnia And Herzegovina
 * Prof. Sinisa Ristic
@@ -224,5 +278,11 @@ author_profile: false
 * Prof. Dr. Meltem sezis Demirci
 * Assoc. Prof. Dr. Ömer Gürkan DİLEK
 
+## Japan
+* Akira Sumiyoshi
+
 ## Canada
 * Adel Moideen
+
+## China
+* Yanqiu Feng
