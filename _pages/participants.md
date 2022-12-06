@@ -9,7 +9,7 @@ author_profile: false
 ## 🇦🇹️ Austria
 
 * Dr. Marcos Wolf
-* Prof Siegfried trattnig
+* Prof. Siegfried trattnig
 * Dr. Pamela Zolda
 * Prof. Ewald Moser
 * Dr. Barbara Katharina
@@ -130,7 +130,7 @@ author_profile: false
 * Pietro Irrera
 * Dr. Aiello Marco
 * Dr. Borrelli Pasquale
-* Dr Maria Beatrice Damasio
+* Dr. Maria Beatrice Damasio
 * Professor Stefano Palmucci
 
 ## 🇲🇹️ Malta
@@ -156,7 +156,7 @@ author_profile: false
 * Dr. Neil Jerome
 * Lundervold Alexander
 * Erling Andersen
-* Mr Christian Aalborg
+* Mr. Christian Aalborg
 * Professor Hans-Peter MARTI
 
 ## 🇵🇱️ Poland
@@ -251,19 +251,19 @@ author_profile: false
 * Dr. Gillis Keith
 * Taso Manuel
 * Suraj Serai
-* Dr Alex de Crespigny
+* Dr. Alex de Crespigny
 * Professor Srinivas Sridhar
 
 ## 🇦🇺️ Australia
 * Prof. Roger Evans
-* Dr Dana Kim
+* Dr. Dana Kim
 
 ## 🇧🇦️ Bosnia And Herzegovina
 * Prof. Sinisa Ristic
 * Prof. Amira Serifovic-Trbalic
 
 ## 🇮🇳️ India
-* Dr Nitin P Ghonge
+* Dr. Nitin P Ghonge
 
 ## 🇱🇹️ Lithuania
 * Andrejus Bura
