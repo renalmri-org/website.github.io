@@ -6,7 +6,7 @@ author_profile: false
 ---
 
 
-## 🇦🇹 Austria
+## 🇦🇹️ Austria
 
 * Dr. Marcos Wolf
 * Prof Siegfried trattnig
@@ -27,17 +27,17 @@ author_profile: false
 * Prof. Charlotte Debbaut
 * Marijn Speeckaert
 
-## 🇭🇷 Croatia
+## 🇭🇷️ Croatia
 
 * Dr. Loncaric Sven
 * Dr. Subasic Marko
 
-## 🇨🇾 Cyprus
+## 🇨🇾️ Cyprus
 
 * Georgios Menikou
 * Dr. Polycarpou Irene
 
-## 🇨🇿 Czech Republic
+## 🇨🇿️ Czech Republic
 
 * Dr. Monika Dezortova
 * Dr. Milan Hajek
@@ -45,7 +45,7 @@ author_profile: false
 * Tereza Dusilova
 * Radek Galabov
 
-## Denmark
+## 🇩🇰️ Denmark
 * Prof. Laustsen Christoffer
 * Prof. Michael Pedensen
 * Prof. Jespersen Bente
@@ -53,23 +53,19 @@ author_profile: false
 * Dr. Laursen Jens Christian
 * Jens Dam Jensen
 
-## Ireland
-* Prof. Lally Caitriona
-* Dr. Shahid Salman
-
-## France
+## 🇫🇷️ France
 * Prof. Nicolas Grenier
 * Prof. Claudon Michel
 * Dr. Benjamin Taton
 * Prof. Christian Combe
 * Simon Lambert
 
-## Macedonia
+## 🇲🇰️ Macedonia
 * Prof. Mitko Kostov
 * Pavle Adamovski
 * Dr. Milena Mitrovic
 
-## Germany
+## 🇩🇪️ Germany
 * Prof. Dr. Frank Zöllner
 * Prof. Niendorf Thoralf
 * Dr. Martin Meier
@@ -95,22 +91,22 @@ author_profile: false
 * Irene Brumer
 * Dr. Christian Radu
 
-## Greece
+## 🇬🇷️ Greece
 * Prof. George Kagadis
 * Prof. Dimitris Karnabatidis
 * Prof. Spiliopoulos Stavros
 * Dr. Tsantis Stavros
 
-## Hungary
+## 🇭🇺️ Hungary
 * Dr. Andrea Fekete
 * Prof. Szabó Attila
 * Dr. Adam Hosszu
 
-## Ireland
+## 🇮🇪️ Ireland
 * Prof. Lally Caitriona
 * Dr. Shahid Salman
 
-## Italy
+## 🇮🇹️ Italy
 * Dr. Longo Dario
 * Dr. Anna Caroli
 * Prof. Andrea Remuzzi
@@ -137,11 +133,11 @@ author_profile: false
 * Dr Maria Beatrice Damasio
 * Professor Stefano Palmucci
 
-## Malta
+## 🇲🇹️ Malta
 * Dr. Valerie Said Conti
 * Dr. Buttigieg Jesmar
 
-## The Netherlands
+## 🇳🇱️ The Netherlands
 * Dr. Cyril Moers
 * Prof. Tim Leiner
 * Dr.med.univ. Ronald Borra
@@ -153,7 +149,7 @@ author_profile: false
 * Dr. Arjen van Zuilen
 * Dr. Ilona Dekkers
 
-## Norway
+## 🇳🇴️ Norway
 * Eli Eikefjord
 * Prof. Lundervold Arvid
 * Hodneland Erlend
@@ -163,23 +159,23 @@ author_profile: false
 * Mr Christian Aalborg
 * Professor Hans-Peter MARTI
 
-## Poland
+## 🇵🇱️ Poland
 * Prof. Andrzej Materka
 * Dr. Marek Kocinski
 
-## Portugal
+## 🇵🇹️ Portugal
 * Antonio Pinheiro
 * Dr. Pedro Freitas
 
-## Serbia
+## 🇷🇸️ Serbia
 * Prof. Dr. Olivera Nikolic
 * Dr. Tijana Mrdjanin
 * Dr. Dusan Paripovic
 
-## Slovenia
+## 🇸🇮️ Slovenia
 * Associate Prof. Peter Rogelj
 
-## Spain
+## 🇪🇸️ Spain
 * Felix Navarro Guirado
 * Prof. Andres Santos
 * Dr. Carlos Nicolau
@@ -191,13 +187,13 @@ author_profile: false
 * Dr. Alberich - Bayarri �?ngel
 * Prof. alberto ortiz
 
-## Sweden
+## 🇸🇪️ Sweden
 * Prof. Paul Hockings
 * Dr. Per Liss
 * Dr. Moritz Schneider
 * Dr. Lisa Jarl
 
-## Switzerland
+## 🇨🇭️ Switzerland
 * Prof. Jean Paul Vallee
 * PD Dr. Menno Pruijm
 * Dr. Barbieri Sebastiano
@@ -209,7 +205,7 @@ author_profile: false
 * Dr. Thomas De Perrot
 * Harriet Thoeny
 
-## United Kingdom
+## 🇬🇧️ United Kingdom
 * Dr. Rosylin Simms
 * Dr. Aghogho Odudu
 * Dr. Nicholas Selby
@@ -245,10 +241,10 @@ author_profile: false
 * Mr Joao Almeida e Sousa
 * Ines Horvat Menih
 
-## Egypt
+## 🇪🇬️ Egypt
 * Prof. Mohamed Abouelghar
 
-## United States
+## 🇺🇸️ United States
 * Dr. Lilach Lerman
 * Prof. Pottumarthi Vera Prasad
 * Eric Sigmund
@@ -258,31 +254,31 @@ author_profile: false
 * Dr Alex de Crespigny
 * Professor Srinivas Sridhar
 
-## Australia
+## 🇦🇺️ Australia
 * Prof. Roger Evans
 * Dr Dana Kim
 
-## Bosnia And Herzegovina
+## 🇧🇦️ Bosnia And Herzegovina
 * Prof. Sinisa Ristic
 * Prof. Amira Serifovic-Trbalic
 
-## India
+## 🇮🇳️ India
 * Dr Nitin P Ghonge
 
-## Lithuania
+## 🇱🇹️ Lithuania
 * Andrejus Bura
 * Gintarė Stončiūtė Balnienė
 
-## Turkey
+## 🇹🇷️ Turkey
 * mersinradiology Hilal Bolat Çiftler
 * Prof. Dr. Meltem sezis Demirci
 * Assoc. Prof. Dr. Ömer Gürkan DİLEK
 
-## Japan
+## 🇯🇵️ Japan
 * Akira Sumiyoshi
 
-## Canada
+## 🇨🇦️ Canada
 * Adel Moideen
 
-## China
+## 🇨🇳️ China
 * Yanqiu Feng
