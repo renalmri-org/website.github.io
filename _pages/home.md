@@ -16,12 +16,12 @@ feature_row:
   - image_path: assets/images/authors/alexandra-ljimani.jpeg
     image_caption: "[DR. ALEXANDRA LJIMANI](https://unsplash.com/)"
     alt: "DR. ALEXANDRA LJIMANI"
-  - image_path: /assets/images/authors/anna-caroli.jpeg
-    alt: "DR. ANNA CAROLI"
-    image_caption: "[DR. ANNA CAROLI](https://unsplash.com/)"
   - image_path: assets/images/authors/pim-pullens.jpeg
     alt: "DR. IR. PIM PULLENS"
     image_caption: "[DR. IR. PIM PULLENS](https://unsplash.com/)"
+  - image_path: /assets/images/authors/anna-caroli.jpeg
+    alt: "DR. ANNA CAROLI"
+    image_caption: "[DR. ANNA CAROLI](https://unsplash.com/)"
 
 
 
@@ -77,7 +77,13 @@ In recent years, the clinical interest in renal MRI has accelerated research and
 {% capture mrs-workshop-text %}
 RENALMRI.org is a bottom-up member-led network coordinated by a governing committee consisting of a chair, past chair and vice chair. See [here](https://renalmri.org/governance/) for more detail.
 
-Membership is open - if you want to join the network please contact the chair.
+Membership is open - if you want to join the network please contact the chair. The current RENALMRI.org governing committee consists of the following members:
+
+- [Alexandra Ljimani](mailto:alexandra_ljimani@yahoo.de) (Chair)
+
+- [Pim Pullens](mailto:Pim.Pullens@uzgent.be) (vice chair)
+
+- [Anna Caroli](mailto:acaroli@marionegri.it) (past chair)
 {% endcapture %}
 
 
@@ -86,21 +92,6 @@ Membership is open - if you want to join the network please contact the chair.
   {{ mrs-workshop-text | markdownify }}
 </div>
 
-{% capture notice-text %}
-The current RENALMRI.org governing committee consists of the following members:
-
-- [Alexandra Ljimani](mailto:alexandra_ljimani@yahoo.de) (Chair)
-
-- [Pim Pullens](mailto:Pim.Pullens@uzgent.be) (vice chair)
-
-- [Anna Caroli](mailto:acaroli@marionegri.it) (past chair)
-
-{% endcapture %}
-
-<div class="notice--info" align="justify">
-  <h1 align="center">RENALMRI.ORG GOVERNING COMITTEE</h1>
-  {{ notice-text | markdownify }}
-</div>
 
 {% include feature_row %}
 

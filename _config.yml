@@ -11,7 +11,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Minimal Mistakes"
+title                    : "RENALMRI.org"
 title_separator          : "-"
 # subtitle                 : "Development Test Site"
 name                     : "Alexandra"
@@ -118,10 +118,6 @@ footer:
     - label: "ResearchGate"
       icon: "fab fa-brands fa-researchgate"
       url: "https://www.researchgate.net/project/PARENCHIMA-Magnetic-Resonance-Imaging-Biomarkers-for-Chronic-Kidney-Disease"
-    - label: "PARENCHIMA chair: Steven Sourbron"
-      url: /
-    - label: "PARENCHIMA dissemination lead: Marcos Wolf"
-      url: /
 
 
 # Reading Files
