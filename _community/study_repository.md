@@ -1,4 +1,0 @@
----
-title: "Study repository"
-excerpt: " "
----

@@ -5,6 +5,7 @@ header:
 excerpt: "A dedicated working group on Functional renal MRI within the European Society of Urogenital Radiology (ESUR)"
 ---
 
+## ESUR WORKING GROUP ON RENAL MR
 
 The European Cooperation in Science and Technology (COST) project PARENCHIMA has brought together almost the entire international community of researchers and clinicians around renal magnetic resonance imaging (MRI). Several high-impact outputs have shown the value of renal MRI and their potential role in clinical practice of various renal diseases. Recently also technical recommendations where summarized in an special issue of MAGMA. PARENCHIMA has also become a central European information platform on ongoing studies, single- and multi-center studies.
 
