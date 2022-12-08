@@ -1,8 +1,8 @@
 ---
 title: "ADPKD"
 header:
-  teaser: "/assets/images/gent_images/gent_promo.png"
-excerpt: " "
+  teaser: "/assets/images/ADPKD.jpeg"
+excerpt: "This task force joins together all participants actively working in ADPKD MRI"
 ---
 
 ## MRI IN ADPKD
