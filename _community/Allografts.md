@@ -3,7 +3,6 @@ title: "Allografts"
 header:
   teaser: "/assets/images/Allograft.png"
 excerpt: "Task force for participants actively working in MRI of renal transplantation"
-excerpt: " "
 ---
 
 ## MRI IN RENAL TRANSPLANTATION

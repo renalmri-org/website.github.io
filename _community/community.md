@@ -3,16 +3,7 @@ title: "Community"
 excerpt: " "
 ---
 
-RENALMRI.org joins up organizations across the world that deliver resources on renal MRI for the benefit of the wider community, such as organization of meetings, open access software, data sharing, joint funding applications, patient and public information, standards and consensus statements, etc. 
-
-**Check out our list of renal MRI resources!**
-
-The organizations listed on this page are currently active. They include ad-hoc task forces that exist temporarily until they deliver on specific aims, but also collaborative national and international projects and dedicated working groups embedded in within larger societies. They commit to being responsive to queries from the community through the contacts provided and to ensure that the content of their pages remains up to date.  
-
-If you want to join any of these organizations, please get in touch with the contacts listed. If you have any questions or suggestions for this page, please contact the Chair of the COST Action PARENCHIMA.
-
-## TECHNICAL RECOMMENDATIONS ON CLINICAL RENAL MRI
-This task force develops consensus-based recommendations on the acquisition and analysis of clinical renal MRI. The task force has so far delivered a paper describing a consensus formation process and five papers with consensus statements on T1&T2 mapping, BOLD, ASL, DWI and Phase contrast (see our list of renal MRI resources). Currently the task force is setting up a process for maintaining and updating the recommendations in the future, and creating a repository of data and protocols compliant with the current consensus. The task force is run by working group 1 of the COST Action PARENCHIMA. 
+ 
 
 ## BI-ANNUAL MEETINGS ON RENAL IMAGING
 This task force is responsible for organising a bi-annual international meeting on renal imaging. The meeting was organised for the first time in Bordeaux (2015) and subsequently in Berlin (2017) and Nottingham (2019). In 2021 the meeting will be run in Philadelphia with a remote hub in Lisbon. The task force is currenty run by working group 5 of the COST Action PARENCHIMA.

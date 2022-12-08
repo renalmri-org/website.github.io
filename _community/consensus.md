@@ -1,6 +1,8 @@
 ---
 title: "Consensus"
-excerpt: " "
+header:
+  teaser: "/assets/images/Consensus.jpg"
+excerpt: "Developent of consensus-based recommendations on the acquisition and analysis of clinical renal MRI"
 ---
 
 <div id="15">
@@ -11,8 +13,9 @@ excerpt: " "
                         <div class="">
                 <div id="description-container" class="editable-text-container">
                     <div class="content">
-                        
 
+This task force develops consensus-based recommendations on the acquisition and analysis of clinical renal MRI. The task force has so far delivered a paper describing a consensus formation process and five papers with consensus statements on T1&T2 mapping, BOLD, ASL, DWI and Phase contrast (see our list of renal MRI resources). Currently the task force is setting up a process for maintaining and updating the recommendations in the future, and creating a repository of data and protocols compliant with the current consensus. 
+                        
 <h4 style="text-align: center;">Aims</h4>
 
 <p style="text-align: justify;">This task force develops and maintains technical recommendations on how to measure renal MRI biomarkers on clinical scanners. If you are starting a clinical study, you will find here concrete guidelines on how to set up the acquisition, and you can be reassured that the approach will be accepted by a broad body of experts in the field.&nbsp;</p>
