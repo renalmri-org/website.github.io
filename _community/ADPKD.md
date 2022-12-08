@@ -1,5 +1,7 @@
 ---
 title: "ADPKD"
+header:
+  teaser: "/assets/images/gent_images/gent_promo.png"
 excerpt: " "
 ---
 
