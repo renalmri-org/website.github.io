@@ -1,9 +1,9 @@
 ---
-title: "Inventory of clinical studies in renal MRI"
+title: "Clinical studies"
 layout: splash
 header:
   teaser: "/assets/images/resources/clinical_study_inventory.png"
-excerpt: "An inventory of clinical studies involving renal MRI, either ongoing or closed."
+excerpt: "An inventory of clinical studies involving renal MRI"
 ---
 
 ## Inventory of clinical studies in renal MRI

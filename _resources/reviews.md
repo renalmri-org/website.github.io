@@ -1,5 +1,5 @@
 ---
-title: "Review papers on renal MRI"
+title: "Reviews"
 layout: splash
 header:
   teaser: "/assets/images/resources/reviews.png"

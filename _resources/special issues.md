@@ -1,6 +1,6 @@
 ---
 title: "Special issues"
-excerpt: "Special journal issues on MRI of the kidney"
+excerpt: "Special journal issues on renal MRI"
 layout: splash
 header:
   teaser: "/assets/images/resources/special_issues.png"

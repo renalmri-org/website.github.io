@@ -1,9 +1,9 @@
 ---
-title: "Open access book: preclinical MRI of the kidney"
+title: "Books"
 layout: splash
 header:
   teaser: "/assets/images/resources/preclinical_book.png"
-excerpt: "An open access book on Preclinical MRI of the Kidney"
+excerpt: "Books on renal MRI"
 ---
 
 Open access book on Preclinical MRI of the Kidney

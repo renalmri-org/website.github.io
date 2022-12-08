@@ -1,5 +1,5 @@
 ---
-title: "Renal MRI software"
+title: "Software"
 layout: splash
 header:
   teaser: "/assets/images/resources/software.png"
