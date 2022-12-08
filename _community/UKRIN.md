@@ -1,7 +1,7 @@
 ---
 title: "UKRIN"
 header:
-  teaser: "/assets/images/UKRIN.png"
+  teaser: "/assets/images/community/UKRIN.png"
 excerpt: "The UK Renal Imaging Network"
 ---
 
@@ -13,11 +13,7 @@ UKRIN has been awarded a national partnership grant (**[UKRIN-MAPS](https://www.
 
 Additionally, the [NIHR](https://fundingawards.nihr.ac.uk/award/NIHR128494) has awarded a large national multi-centre study on renal MRI in CKD: AFiRM - Application of Functional Renal MRI to improve assessment of chronic kidney disease. AFiRM will build on the infrastructure developed in UKRIN-MAPS to image 500 CKD patients longitudinally with repeat imaging 2 years after baseline, and long-term follow-up. AFiRM is led by Prof. Nicolas Selby in Nottingham and is due to open for recruitment in 2021.
 
-Other activities of UKRIN include the organisation of the 3 international meeting on renal MRI together with PARENCHIMA:
-
-[https://www.nottingham.ac.uk/research/groups/spmic/research/uk-renal-imaging-network/3rd-renal-symposium/3rd-international-symposium-on-functional-renal-imaging.aspx](https://www.nottingham.ac.uk/research/groups/spmic/research/uk-renal-imaging-network/3rd-renal-symposium/3rd-international-symposium-on-functional-renal-imaging.aspx)
-
-As well as regular national meetings within the UK to develop further collaborative projects
+Other activities of UKRIN include the organisation of the [3d international meeting on renal MRI together with PARENCHIMA](https://www.nottingham.ac.uk/research/groups/spmic/research/uk-renal-imaging-network/3rd-renal-symposium/3rd-international-symposium-on-functional-renal-imaging.aspx), as well as regular national meetings within the UK to develop further collaborative projects.
 
 |Members|
 | --- | --- |

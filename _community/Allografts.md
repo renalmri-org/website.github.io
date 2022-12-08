@@ -1,7 +1,7 @@
 ---
 title: "Allografts"
 header:
-  teaser: "/assets/images/Allograft.png"
+  teaser: "/assets/images/community/Allograft.png"
 excerpt: "Task force for participants actively working in MRI of renal transplantation"
 ---
 

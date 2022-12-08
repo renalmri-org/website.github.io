@@ -1,7 +1,7 @@
 ---
 title: "ISMRM"
 header:
-  teaser: "/assets/images/ISMRM-logo.jpg"
+  teaser: "/assets/images/community/ISMRM-logo.png"
 excerpt: "Study Group on Renal MR of the International Society of Magnetic Resonance in Medicine"
 ---
 

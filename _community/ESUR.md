@@ -1,7 +1,7 @@
 ---
 title: "ESUR"
 header:
-  teaser: "/assets/images/ESUR-logo.png"
+  teaser: "/assets/images/community/ESUR-logo.png"
 excerpt: "A dedicated working group on Functional renal MRI within the European Society of Urogenital Radiology (ESUR)"
 ---
 

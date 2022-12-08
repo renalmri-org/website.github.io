@@ -1,7 +1,7 @@
 ---
 title: "ADPKD"
 header:
-  teaser: "/assets/images/ADPKD.jpeg"
+  teaser: "/assets/images/community/ADPKD.png"
 excerpt: "Task force for participants actively working in ADPKD MRI"
 ---
 

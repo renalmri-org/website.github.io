@@ -1,7 +1,7 @@
 ---
 title: "Consensus"
 header:
-  teaser: "/assets/images/Consensus.jpg"
+  teaser: "/assets/images/community/Consensus.png"
 excerpt: "Developent of consensus-based recommendations on the acquisition and analysis of clinical renal MRI"
 ---
 

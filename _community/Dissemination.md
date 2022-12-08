@@ -1,7 +1,7 @@
 ---
 title: "Dissemination"
 header:
-  teaser: "/assets/images/dissemination.png"
+  teaser: "/assets/images/community/dissemination.png"
 excerpt: "A task force organising dissemination activities around renal MRI"
 ---
 
