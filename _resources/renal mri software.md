@@ -1,6 +1,9 @@
 ---
 title: "Renal MRI software"
-excerpt: "The UK Renal Imaging Network Kidney Analysis Toolbox (UKAT) is an open-source, vendor agnostic and easy to use Python package for processing multi-parametric renal MRI data."
+layout: splash
+header:
+  teaser: "/assets/images/resources/software.png"
+excerpt: "Open source software tools for renal MRI"
 date: 2011-06-23T18:39:14+00:00
 ---
 

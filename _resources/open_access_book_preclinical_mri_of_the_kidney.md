@@ -1,6 +1,9 @@
 ---
 title: "Open access book: preclinical MRI of the kidney"
-excerpt: "An open access book on Preclinical MRI of the Kidney. A comprehensive collection of 43 publications that will serve as a foundational resource for preclinical renal MRI studies"
+layout: splash
+header:
+  teaser: "/assets/images/resources/preclinical_book.png"
+excerpt: "An open access book on Preclinical MRI of the Kidney"
 ---
 
 Open access book on Preclinical MRI of the Kidney
