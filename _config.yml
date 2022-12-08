@@ -90,7 +90,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Alexandra"
+  name             : "RENALMRI.org"
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : "Your bio."
   location         : "Somewhere"
@@ -118,6 +118,8 @@ footer:
     - label: "ResearchGate"
       icon: "fab fa-brands fa-researchgate"
       url: "https://www.researchgate.net/project/PARENCHIMA-Magnetic-Resonance-Imaging-Biomarkers-for-Chronic-Kidney-Disease"
+    - label: "Web development"
+      url: "https://www.upwork.com/freelancers/~01ebd40dbf6407cae2"
 
 
 # Reading Files

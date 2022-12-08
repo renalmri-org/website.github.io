@@ -1,5 +1,5 @@
 ---
-title: "Presentation on renal MRI"
+title: "Presentations"
 layout: splash
 header:
   teaser: "/assets/images/resources/presentations.png"

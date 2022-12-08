@@ -22,10 +22,6 @@ feature_row:
   - image_path: /assets/images/authors/anna-caroli.jpeg
     alt: "DR. ANNA CAROLI"
     image_caption: "[DR. ANNA CAROLI](https://unsplash.com/)"
-
-
-
-
 feature_row2:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
@@ -51,7 +47,6 @@ feature_row4:
 
 {% capture notice-text %}
 
-
 **Coordinating research on renal MRI biomarkers for clinical practice, drug development and basic research.**
 The rising prevalence of Chronic Kidney Disease (CKD) poses a major public health challenge affecting >10% of the population. There exists an urgent need for better biomarkers to identify patients that are at risk of progression, or are likely to respond to (candidate) therapeutics. Magnetic Resonance Imaging (MRI) biomarkers can help to fill this gap, as they are uniquely able to track disease progression and treatment effects in the tissue itself and in a non-invasive manner. See [here](https://academic.oup.com/ndt/article/33/suppl_2/ii4/5078407?login=false) for a position statement by leading scientists and clinicians.
 {% endcapture %}
@@ -65,7 +60,7 @@ BIOMARKERS FOR KIDNEY DISEASE</h1>
 {% capture mrs-workshop-text %}
 In recent years, the clinical interest in renal MRI has accelerated research and development and led to a growing excitement within an emerging multidisciplinary community of nephrologists, radiologists, surgeons, radiographers, physicists, computer scientists, pathologists and physiologists. Bi-annual international meetings have been held since 2015, and national and international consortia have been funded to work on standardization of methods, preclinical research and multi-centre clinical trials. The field has seen an increasing participation from charities and the private sector, including SME's, pharmaceutical industry and MRI scanner manufacturers.
 
-**RENALMRI.org provides a central point of access to the renal MRI community and joins up all stakeholders with an aim to speed up translation into clinical practice, drug development and basic research. Check out some of our resources [here](https://renalmri.org/resources)!**
+**RENALMRI.org provides a central point of access to the renal MRI community and joins up all stakeholders with an aim to speed up translation into clinical practice, drug development and basic research. **
 {% endcapture %}
 
 
@@ -78,11 +73,8 @@ In recent years, the clinical interest in renal MRI has accelerated research and
 RENALMRI.org is a bottom-up member-led network coordinated by a governing committee consisting of a chair, past chair and vice chair. See [here](https://renalmri.org/governance/) for more detail.
 
 Membership is open - if you want to join the network please contact the chair. The current RENALMRI.org governing committee consists of the following members:
-
 - [Alexandra Ljimani](mailto:alexandra_ljimani@yahoo.de) (Chair)
-
 - [Pim Pullens](mailto:Pim.Pullens@uzgent.be) (vice chair)
-
 - [Anna Caroli](mailto:acaroli@marionegri.it) (past chair)
 {% endcapture %}
 
