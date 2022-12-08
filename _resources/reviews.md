@@ -1,5 +1,8 @@
 ---
 title: "Review papers on renal MRI"
+layout: splash
+header:
+  teaser: "/assets/images/resources/reviews.png"
 excerpt: "A collection of review papers on renal MRI"
 date: 2019-08-17T18:39:14+00:00
 ---
