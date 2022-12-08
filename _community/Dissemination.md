@@ -1,7 +1,7 @@
 ---
 title: "Dissemination"
 header:
-  teaser: "/assets/images/ESUR-logo.png"
+  teaser: "/assets/images/dissemination.png"
 excerpt: "A task force organising dissemination activities around renal MRI"
 ---
 
