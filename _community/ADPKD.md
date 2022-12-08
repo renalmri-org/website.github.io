@@ -7,11 +7,9 @@ excerpt: "Task force for participants actively working in ADPKD MRI"
 
 ## MRI IN ADPKD
 
-This task force joins together all participants actively working in ADPKD MRI.
+Despite total kidney volume (TKV) having been approved as a prognostic enrichment biomarker, it has not been approved as outcome biomarker, yet, and additional evidence is required. Moreover, MRI offers a wide spectrum of microstructural/functional biomarkers which still needs to be investigated and validated in ADPKD.
 
-Despite total kidney volume (TKV) having been approved as a prognostic enrichment biomarker, it has not been approved as outcome biomarker, yet, and additional evidence is required.
-
-Moreover, MRI offers a wide spectrum of microstructural/functional biomarkers which still needs to be investigated and validated in ADPKD.
+This task force provides a central contact point for researchers with an interest in MRI for applications in Autosomal Dominant Polycystic Kidney Disease (ADPKD). The task force aims to improve the sharing of resources but will also aim to set up collaborative projects and prospective clinical studies in ADPKD involving MRI of the kidney. 
 
 #### Main aims:
 
