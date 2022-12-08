@@ -1,12 +1,18 @@
 ---
 title: "Dissemination"
-excerpt: " "
+header:
+  teaser: "/assets/images/ESUR-logo.png"
+excerpt: "A task force organising dissemination activities around renal MRI"
 ---
+
+## DISSEMINATION ACTIVITIES
+This task force disseminates the activities of RENALMRI.org via multiple channels including social media but also special sessions on conferences and maintenance of this web page. This task force is run by working group 5 of the COST Action PARENCHIMA.
 
 The aim of this taks force is to promote the mission of RENALMRI.org to various stakeholders through a number of coordinated dissemination activities:
 
 **Homepage:**
-Together with our provider (TheFrontDoor) we provide the platform to present relevant project information as well as current and past results of this project to enable communications within the COST Action and other national and international stakeholders (e.g. Working Group pages and News Section of the homepage)
+We provide the platform to present relevant project information as well as current and past results of this project to enable communications within RENALMRI.org and other national and international stakeholders.
+
 In this context we will also store, process and/or publish personal data, which is applicable under the General Data Protection Regulation (GDPR). If you have any question regarding your stored, processed and/or published personal data, or if you want to delete your associated personal data please do not hesitate to contact us.  
 
 **Social Media and Newsletter:**
