@@ -2,12 +2,12 @@
 title: "ADPKD"
 header:
   teaser: "/assets/images/ADPKD.jpeg"
-excerpt: "This task force joins together all participants actively working in ADPKD MRI"
+excerpt: "Task force for participants actively working in ADPKD MRI"
 ---
 
 ## MRI IN ADPKD
 
-This task force joins together all WG3 participants actively working in ADPKD MRI.
+This task force joins together all participants actively working in ADPKD MRI.
 
 Despite total kidney volume (TKV) having been approved as a prognostic enrichment biomarker, it has not been approved as outcome biomarker, yet, and additional evidence is required.
 
