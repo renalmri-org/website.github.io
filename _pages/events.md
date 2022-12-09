@@ -16,24 +16,19 @@ The renal MRI community has been organising bi-annual international meeting sinc
 - The *organising committee* commits to returning any profits back to the community to be invested in support activities such as website development and maintenance.
 - In order of priority, the *program committee* should be balanced in terms of the relevant disciplines, gender, level of seniority and regional representation.
 
-## 2023 - 5th international renal imaging meeting
-
+## [2023 - 5th international renal imaging meeting](https://renalmri.org/events/gent2023)
 [![promo](/assets/images/gent_images/gent_promo.png)](https://renalmri.org/events/gent2023)
 
-## 2021 - 4th international renal imaging meeting (Lisbon & Philadelphia)
-
+## [2021 - 4th international renal imaging meeting (Lisbon & Philadelphia)](https://www.ismrm.org/workshops/2021/Kidney/)
 [![promo](/assets/images/lisbon_2021.png)](https://www.ismrm.org/workshops/2021/Kidney/)
 
-## 2019 - 3rd international renal imaging meeting (Nottingham)
-
+## [2019 - 3rd international renal imaging meeting (Nottingham)](https://www.nottingham.ac.uk/research/groups/spmic/research/uk-renal-imaging-network/3rd-renal-symposium/3rd-international-symposium-on-functional-renal-imaging.aspx)
 [![promo](/assets/images/nottingham_2019.png)](https://www.nottingham.ac.uk/research/groups/spmic/research/uk-renal-imaging-network/3rd-renal-symposium/3rd-international-symposium-on-functional-renal-imaging.aspx)
 
-## 2017 - 2nd international renal imaging meeting (Berlin)
-
+## [2017 - 2nd international renal imaging meeting (Berlin)](https://www.mdc-berlin.de/renal)
 [![promo](/assets/images/berlin_2017.png)](https://www.mdc-berlin.de/renal)
 
-## 2015 - 1st international renal imaging meeting (Bordeaux)
-
+## [2015 - 1st international renal imaging meeting (Bordeaux)](https://sites.google.com/site/renalmriworkshop)
 [![promo](/assets/images/bordeaux_2015.png)](https://sites.google.com/site/renalmriworkshop)
 
 
