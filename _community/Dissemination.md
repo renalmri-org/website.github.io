@@ -8,19 +8,19 @@ excerpt: "A task force organising dissemination activities around renal MRI"
 ## DISSEMINATION OF RENALMRI.org
 
 This task force disseminates the activities of RENALMRI.org via multiple channels, including social media, but also special sessions on conferences, and maintenance of this web page and newsletter distribution. 
-Dissemination lead and Science Communication Manager is [Marcos Wolf](mailto:renalmri@gmail.com).
+Task Force Lead and Science Communication Manager is [Marcos Wolf](mailto:renalmri@gmail.com).
 
 The aim of this taks force is to promote the mission of RENALMRI.org to various stakeholders through a number of coordinated dissemination activities:
 
 **Homepage:**
 We provide the platform to present relevant project information as well as current and past results of this project to enable communications within RENALMRI.org and other national and international stakeholders.
 
-In this context we will also store, process and/or publish personal data, which is applicable under the General Data Protection Regulation (GDPR). If you have any question regarding your stored, processed and/or published personal data, or if you want to delete your associated personal data please do not hesitate to contact us (renalmri@gmail.com).  
+In this context we will also store, process and/or publish personal data, which is applicable under the General Data Protection Regulation (GDPR). If you have any question regarding your stored, processed and/or published personal data, or if you want to delete your associated personal data please do not hesitate to [contact us](mailto:renalmri@gmail.com).  
 
 **Social Media and Newsletter:**
 Follow us on [ResearchGate](https://www.researchgate.net/project/PARENCHIMA-Magnetic-Resonance-Imaging-Biomarkers-for-Chronic-Kidney-Disease-COST-action-CA16103)
 
-If you want to be included to our newsletter or join this or another task force, contact the lead of this task force (renalmri@gmail.com).
+If you want to be included to our newsletter or join this or another task force, contact the [lead of this task force](mailto:renalmri@gmail.com).
 
 ### Special sessions on international meetings
 
