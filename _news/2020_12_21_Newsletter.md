@@ -49,11 +49,14 @@ If you are working on DWI - in the kidney or in any other anatomical district - 
 
 This newsletter is based upon work from COST Action PARENCHIMA (CA16103), supported by COST (European Cooperation in Science and Technology). 
 
-COST (European Cooperation in Science and Technology) is a funding agency for research and innovation networks. Our Actions help connect research initiatives across Europe and enable scientists to grow their ideas by sharing them with their peers. This boosts their research, career and innovation. www.cost.eu 
-
+[COST (European Cooperation in Science and Technology)](www.cost.eu) is a funding agency for research and innovation networks. Our Actions help connect research initiatives across Europe and enable scientists to grow their ideas by sharing them with their peers. This boosts their research, career and innovation.  
 
 [RENALMRI homepage](www.renalmri.org)
+
 Follow us on 	[Twitter @renalMRI](https://twitter.com/renalMRI)
+
 Follow us on 	[ResearchGate](https://www.researchgate.net/project/PARENCHIMA-Magnetic-Resonance-Imaging-Biomarkers-for-Chronic-Kidney-Disease-COST-action-CA16103)
+
 Follow us on 	[LinkedIn](http://www.linkedin.com/groups/8448307)
+
 Follow us on 	[Facebook](https://www.facebook.com/renalmri/)
