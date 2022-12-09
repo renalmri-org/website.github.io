@@ -7,20 +7,20 @@ excerpt: "A task force organising dissemination activities around renal MRI"
 
 ## DISSEMINATION OF RENALMRI.org
 
-This task force disseminates the activities of RENALMRI.org via multiple channels including social media but also special sessions on conferences and maintenance of this web page. This task force is run by working group 5 of the COST Action PARENCHIMA.
+This task force disseminates the activities of RENALMRI.org via multiple channels, including social media, but also special sessions on conferences, and maintenance of this web page and newsletter distribution. 
+Task Force Lead and Science Communication Manager is [Marcos Wolf](mailto:renalmri@gmail.com).
 
 The aim of this taks force is to promote the mission of RENALMRI.org to various stakeholders through a number of coordinated dissemination activities:
 
 **Homepage:**
 We provide the platform to present relevant project information as well as current and past results of this project to enable communications within RENALMRI.org and other national and international stakeholders.
 
-In this context we will also store, process and/or publish personal data, which is applicable under the General Data Protection Regulation (GDPR). If you have any question regarding your stored, processed and/or published personal data, or if you want to delete your associated personal data please do not hesitate to contact us.  
+In this context we will also store, process and/or publish personal data, which is applicable under the General Data Protection Regulation (GDPR). If you have any question regarding your stored, processed and/or published personal data, or if you want to delete your associated personal data please do not hesitate to [contact us](mailto:renalmri@gmail.com).  
 
 **Social Media and Newsletter:**
-Follow us on Twitter @renalMRI
 Follow us on [ResearchGate](https://www.researchgate.net/project/PARENCHIMA-Magnetic-Resonance-Imaging-Biomarkers-for-Chronic-Kidney-Disease-COST-action-CA16103)
 
-If you want to be included to our newsletter, contact the lead of this task force.
+If you want to be included to our newsletter or join this or another task force, contact the [lead of this task force](mailto:renalmri@gmail.com).
 
 ### Special sessions on international meetings
 
@@ -67,16 +67,7 @@ If you want to be included to our newsletter, contact the lead of this task forc
 | Location: | Natcher Conference Center, Building 45, Nation Institutes of Health, Bethesda 20894, USA |
 | Time: | July 12-13, 2018 |
 
-
-||Members|
-|---|------|------|
-|**Lead:**| Dr. Marcos Wolf |
-|**Vice Lead:**| Prof. Mitko Kostov |
-||Dr. Anna Caroli|Prof. Mitko Kostov|
-| | Joey Moser |  Dr. Aghogho Odudu |
-|| Prof. Sinisa Ristic | Dr. Nicholas Selby |
-|| Dr. Rosylin Simms | Dr. Steven Sourbron |
-|| Prof. Niendorf Thoralf | Dr. Giulia Villa |
+<br>
 
 |Actions| Date |
 |-------|----|
