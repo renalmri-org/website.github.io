@@ -28,11 +28,12 @@ renalmri.org has the goal to create and maintain interactions between all discip
 Our metamorphosis to renalmri.org is still ongoing and we will be back soon with more details.
 However, to keep you excited, here are some things you can look forward to:
 
-Save the date: We are heavily planning our next 5th International meeting on renal imaging in September 2023, details will follow shortly
-Our homepage, renalmri.org, is no longer under the COST umbrella. Therefore, it is currently being updated and changed. We will move the homepage to a github solution and we are looking forward to sharing with you the result soon.
-Action needed: As the process of transformation from COST PARENCHIMA to renalmri.org is a work and time demanding task, which is still ongoing,  we would like to postpone the next government cycle by one year.
+- Save the date: We are heavily planning our next 5th International meeting on renal imaging in September 2023, details will follow shortly
+- Our homepage, renalmri.org, is no longer under the COST umbrella. Therefore, it is currently being updated and changed. We will move the homepage to a github solution and we are looking forward to sharing with you the result soon.
+- Action needed: As the process of transformation from COST PARENCHIMA to renalmri.org is a work and time demanding task, which is still ongoing,  we would like to postpone the next government cycle by one year.
 Please indicate your approval for this unique situation with a simple „yes“ or „no“ under following link:
 [https://forms.gle/QQgv1bLEvX2xFyx77](https://forms.gle/QQgv1bLEvX2xFyx77)
+
 Best wishes and we will be back soon with more details!
 
 Alexandra, Pim, Anna and Marcos
