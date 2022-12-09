@@ -3,7 +3,7 @@ title: "Software"
 layout: splash
 header:
   teaser: "/assets/images/resources/software.png"
-excerpt: "Open source software tools for renal MRI"
+excerpt: "Software tools for renal MRI"
 date: 2011-06-23T18:39:14+00:00
 ---
 

@@ -1,0 +1,8 @@
+---
+layout: collection
+permalink: /news/
+collection: news
+entries_layout: grid
+author_profile: false
+date: 2022-11-23T18:39:14+00:00
+---
