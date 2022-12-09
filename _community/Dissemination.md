@@ -8,7 +8,7 @@ excerpt: "A task force organising dissemination activities around renal MRI"
 ## DISSEMINATION OF RENALMRI.org
 
 This task force disseminates the activities of RENALMRI.org via multiple channels, including social media, but also special sessions on conferences, and maintenance of this web page and newsletter distribution. 
-It is lead by Marcos Wolf (renalmri@gmail.com).
+Dissemination lead and Science Communication Manager is [Marcos Wolf](mailto:renalmri@gmail.com).
 
 The aim of this taks force is to promote the mission of RENALMRI.org to various stakeholders through a number of coordinated dissemination activities:
 
