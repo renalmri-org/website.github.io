@@ -1,5 +1,5 @@
 ---
-title_ "2021-07-13 Newsletter"
+title: "2021-07-13 Newsletter"
 excerpt: "renal ISMRM workshop 2021, Call for Abstracts"
 ---
 
