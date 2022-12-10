@@ -9,7 +9,7 @@ Dear RENALMRI.org community,
 
 we are excited to share with you the following updates:
 
-# Ghent, Belgium, Date and location of the 2023 meeting!
+# Ghent 2023 - date and location of the next bi-annual meeting!
 
 As you know the RENALMRI community has been organising successful biannual international meetings on renal imaging, starting with Bordeaux in 2015, then Berlin in 2017, Nottingham in 2019 and jointly in Lisbon/Philadelphia in 2021. You will find links to the previous meetings our [events page](https://renalmri.org/events/).
 
