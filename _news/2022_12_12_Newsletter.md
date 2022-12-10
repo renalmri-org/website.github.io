@@ -3,6 +3,8 @@ title: "2022-12-12 Newsletter"
 excerpt: "Save the date for the 2023 meeting! New website launched and open positions.."
 ---
 
+[![promo](/assets/images/gent_images/gent_promo.png)](https://renalmri.org/events/gent2023)
+
 Dear RENALMRI.org community,
 
 we are excited to share with you the following updates:
