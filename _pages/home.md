@@ -60,7 +60,7 @@ BIOMARKERS FOR KIDNEY DISEASE</h1>
 {% capture mrs-workshop-text %}
 In recent years, the clinical interest in renal MRI has accelerated research and development and led to a growing excitement within an emerging multidisciplinary community of nephrologists, radiologists, surgeons, radiographers, physicists, computer scientists, pathologists and physiologists. Bi-annual international meetings have been held since 2015, and national and international consortia have been funded to work on standardization of methods, preclinical research and multi-centre clinical trials. The field has seen an increasing participation from charities and the private sector, including SME's, pharmaceutical industry and MRI scanner manufacturers.
 
-**RENALMRI.org provides a central point of access to the renal MRI community and joins up all stakeholders with an aim to speed up translation into clinical practice, drug development and basic research. **
+**RENALMRI.org provides a central point of access to the renal MRI community and joins up all stakeholders with an aim to speed up translation into clinical practice, drug development and basic research.**
 {% endcapture %}
 
 
