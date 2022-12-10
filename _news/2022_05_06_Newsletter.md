@@ -1,6 +1,6 @@
 ---
 title: "2022-05-06 Newsletter"
-excerpt: "Approve upcoming chairs"
+excerpt: "Meetup in London"
 ---
 
 Dear all,

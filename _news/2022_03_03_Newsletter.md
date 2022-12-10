@@ -1,6 +1,6 @@
 ---
 title: "2022-03-03 Newsletter"
-excerpt: "Chair nominations for renalMRI.org"
+excerpt: "Chair nominations for renalMRI.org - put yourself forward!"
 ---
 
 Dear colleagues!

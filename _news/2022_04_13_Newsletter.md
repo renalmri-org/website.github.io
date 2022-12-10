@@ -5,9 +5,9 @@ excerpt: "Approve upcoming chairs"
 
 Dear colleagues!
 
-We are pleased to introduce to you the upcoming governance team of renalMRI.org. 
+We are pleased to introduce to you candidates for the new governance team of renalMRI.org. 
 
-Please approve or disapprove the new renalmri.org chairs until 22 April 2022: 
+Please viote here for the candidates until 22 April 2022: 
 ([https://forms.gle/VkvgfxYu6bsxDnyJ7](https://forms.gle/VkvgfxYu6bsxDnyJ7)).
 
 # Chair: Alexandra Ljimani

@@ -89,3 +89,25 @@ Membership is open - if you want to join the network please contact the chair. T
 
 {% include feature_row id="feature_row4" type="center" %}
 <!-- {% include feature_row id="intro" type="center" %} -->
+
+{% capture mrs-workshop-text %}
+RENALMRI.org aims to be the go-to place for information on renal imaging, but keeping this content up to date in a rapidly changing field is a challenging task. To manage this, we are forming an editorial committee whose members take ownership of a small part of the website and commit to keeping the content and format up to date. We are currently looking for editors in the following roles:
+
+- *Communities editor*: your role will be to ensure that all relevant international communities are represented on the [communities page](https://renalmri.org/community/). You will work with the relevant communities to identify a contact person who will provide the content for the page and keep it up to date. You will remove non-response or non-active communities from the page.
+- *Resources editor*: your role will be to ensure that all resources that are relevant to the community are represented on the [resources page](https://renalmri.org/resources/). You will actively research the literature, conference proceedings and other sources that can be listed on the page, and remove resources that are no longer up to date or relevant. You will work with the editors of the individual resources (see below) to ensure consistency between the pages and avoid overlapping content.
+  - *Clinical studies editor*: you will ensure the information on ongoing and past clinical studies on renal MRI is up to date and complete ([clinical studies page](https://renalmri.org/resources/studies/)). This will include making sure that all relevant clinical studies are listed, communicating with PI's to keep the listings up to date, adding links to protocol papers and publications, etc.
+  - *Software editor*: you will ensure that all relevant software packages are listed in the [software resource page](https://renalmri.org/resources/software/) and work with developers to ensure the content remains up to date.
+  - *Publications editor*: you will ensure listings of [published books](https://renalmri.org/resources/books/), [review papers](https://renalmri.org/resources/reviews/), [presentations](https://renalmri.org/resources/presentations/), [special issues](https://renalmri.org/resources/issues/) are complete and up to date.
+- *Members editor*: the current [list of participants](https://renalmri.org/participants/) lists the names of individuals participating in the precursor project PARENCHIMA. This needs to be updated to include only those with an interest to stay in touch with the new RENALMRI.org, and will need to be extended with user profiles and contact information. Your role is to develop a format for setting up profiles, contacting individuals to enter their details and removing unresponsive members.
+- *News editor*: your role will be to collect news items from all other parts of the website and the community, put those forward for inclusion in the quarterly newsletter and also send these out via social media channels such as the twitter feed @renalmri (currently a bot).
+
+ 
+All editors will also be required to attend a quarterly editorial meeting with the governing committee to discuss priorities for the next quarter and identify content for the quarterly newsletter. 
+
+{% endcapture %}
+
+
+<div class="notice--success" align="justify">
+  <h1 align="center">EDITORIAL COMMITTEE</h1>
+  {{ mrs-workshop-text | markdownify }}
+</div>
