@@ -18,6 +18,7 @@ RENALMRI.org was created by the COST Action PARENCHIMA ([CA16103](https://www.co
 
 RENALMRI.org was maintained by PARENCHIMA until the end of the action (1 October 2021). During the 4th international meeting in renal MRI (Lisbon/Philadelphia) the new governance of RENALMRI.org was approved, and the new network was launched. 
 
+# PRIVACY NOTICE
 
 Please contact the [dissemination task force lead](mailto:renalmri@gmail.com) if you have any questions or requests regarding the data processed or shared on this homepage. Additional information can also be found in the associated [dissemination task force page](http://renalmri.org/community/Dissemination/). Futhermore, changes can be requested using [github](https://github.com/renalmri-org/website.github.io/). 
 
