@@ -87,8 +87,6 @@ Membership is open - if you want to join the network please contact the chair. T
 
 {% include feature_row %}
 
-{% include feature_row id="feature_row4" type="center" %}
-<!-- {% include feature_row id="intro" type="center" %} -->
 
 {% capture mrs-workshop-text %}
 RENALMRI.org aims to be the go-to place for information on renal imaging, but keeping this content up to date in a rapidly changing field is a challenging task. To manage this, we are forming an editorial committee whose members take ownership of a small part of the website and commit to keeping the content and format up to date. We are currently looking for editors in the following roles:
@@ -111,3 +109,7 @@ All editors will also be required to attend a quarterly editorial meeting with t
   <h1 align="center">EDITORIAL COMMITTEE</h1>
   {{ mrs-workshop-text | markdownify }}
 </div>
+
+
+{% include feature_row id="feature_row4" type="center" %}
+<!-- {% include feature_row id="intro" type="center" %} -->
