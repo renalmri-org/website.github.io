@@ -89,7 +89,9 @@ Membership is open - if you want to join the network please contact the chair. T
 
 
 {% capture mrs-workshop-text %}
-RENALMRI.org aims to be the go-to place for information on renal imaging, but keeping this content up to date in a rapidly changing field is a challenging task. To manage this, we are forming an editorial committee whose members take ownership of a small part of the website and commit to keeping the content and format up to date. We are currently looking for editors in the following roles:
+RENALMRI.org aims to be the go-to place for information on renal imaging, but keeping this content up to date in a rapidly changing field is a challenging task. To manage this, we are forming an editorial committee whose members take ownership of a small part of the website and commit to keeping the content and format up to date. 
+
+We are currently looking for editors in the roles below. if you are interested in one of these roles, please contact the chair [Alexandra Ljimani](mailto:alexandra_ljimani@yahoo.de):
 
 - *Communities editor*: your role will be to ensure that all relevant international communities are represented on the [communities page](https://renalmri.org/community/). You will work with the relevant communities to identify a contact person who will provide the content for the page and keep it up to date. You will remove non-response or non-active communities from the page.
 - *Resources editor*: your role will be to ensure that all resources that are relevant to the community are represented on the [resources page](https://renalmri.org/resources/). You will actively research the literature, conference proceedings and other sources that can be listed on the page, and remove resources that are no longer up to date or relevant. You will work with the editors of the individual resources (see below) to ensure consistency between the pages and avoid overlapping content.
