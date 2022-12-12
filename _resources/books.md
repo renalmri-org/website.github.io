@@ -6,6 +6,8 @@ header:
 excerpt: "Books on renal MRI"
 ---
 
+**DISCLAIMER: This page is transferred from the PARENCHIMA archives and needs updating.**
+
 Open access book on Preclinical MRI of the Kidney
 
 Get it [here](https://link.springer.com/book/10.1007%2F978-1-0716-0978-1)

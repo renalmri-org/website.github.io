@@ -5,6 +5,8 @@ header:
 excerpt: "Task force for participants actively working in MRI of renal transplantation"
 ---
 
+**DISCLAIMER: This is an archive page describing a task force from the precursor project PARENCHIMA. The content is not up to date**
+
 ## MRI IN RENAL TRANSPLANTATION
 
 Renal transplant patients are likely to be excluded from CKD studies, and the potential of MRI biomarker in renal transplant patients needs to be investigated separately. From a MRI technical perspective, there are important differences between allografts and natove kidneys. Protocols for native kidneys will not be optimal for transplants and vice versa, and MRI biomarker ranges could differ.

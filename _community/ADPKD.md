@@ -5,6 +5,8 @@ header:
 excerpt: "Task force for participants actively working in ADPKD MRI"
 ---
 
+**DISCLAIMER: This is an archive page describing a task force from the precursor project PARENCHIMA. The content is not up to date**
+
 ## MRI IN ADPKD
 
 Despite total kidney volume (TKV) having been approved as a prognostic enrichment biomarker, it has not been approved as outcome biomarker, yet, and additional evidence is required. Moreover, MRI offers a wide spectrum of microstructural/functional biomarkers which still needs to be investigated and validated in ADPKD.

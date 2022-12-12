@@ -14,6 +14,8 @@ excerpt: "Developent of consensus-based recommendations on the acquisition and a
                 <div id="description-container" class="editable-text-container">
                     <div class="content">
 
+**DISCLAIMER: This is an archive page describing a task force from the precursor project PARENCHIMA. The content is not up to date**
+
 This task force develops consensus-based recommendations on the acquisition and analysis of clinical renal MRI. The task force has so far delivered a paper describing a consensus formation process and five papers with consensus statements on T1&T2 mapping, BOLD, ASL, DWI and Phase contrast (see our list of renal MRI resources). Currently the task force is setting up a process for maintaining and updating the recommendations in the future, and creating a repository of data and protocols compliant with the current consensus. 
                         
 <h4 style="text-align: center;">Aims</h4>

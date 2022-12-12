@@ -7,7 +7,7 @@ excerpt: "A collection of review papers on renal MRI"
 date: 2019-08-17T18:39:14+00:00
 ---
 
-> This resource is under development. If you are aware if any missing papers, please contact the PARENCHIMA chair.
+**DISCLAIMER: This page is transferred from the PARENCHIMA archives and needs updating.**
 
 A collection of review papers on renal MRI methods
 

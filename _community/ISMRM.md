@@ -5,6 +5,8 @@ header:
 excerpt: "Study Group on Renal MR of the International Society of Magnetic Resonance in Medicine"
 ---
 
+**DISCLAIMER: This is an archive page describing a task force from the precursor project PARENCHIMA. The content is not up to date**
+
 ## ISMRM STUDY GROUP ON RENAL MR
 
 The Study Group on Renal MR of the International Society of Magnetic Resonance in Medicine ([ISMRM](https://www.ismrm.org/study-groups/) ). was founded in september 2021 after approval by the ISMRM Board of Trustees. The first Governing Commitee consists of Thoralf Niendorf (Past Chair), Eric Sigmund (Chair), Ilona Dekkers (Vice Chair), Manuel Taso (secretary), Alexandra Ljimani (Traimee representative) and Anne-Dorte Blankholm (SMRT representative).

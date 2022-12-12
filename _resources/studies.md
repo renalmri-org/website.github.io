@@ -6,6 +6,9 @@ header:
 excerpt: "An inventory of clinical studies involving renal MRI"
 ---
 
+
+**DISCLAIMER: This page is transferred from the PARENCHIMA archives and needs updating.**
+
 ## Inventory of clinical studies in renal MRI
 
 This inventory provides a list of ongoing or completed clinical studies involving MRI of the kidney. The list was compiled by PARENCHIMA working group 3 and continues to be maintained. Initial data were collected from working group members and through individual contact with external researchers. The inventory is dynamic and will continue to be updated and maintained as new studies are started, or ongoing studies are closed.

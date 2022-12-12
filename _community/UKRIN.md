@@ -5,6 +5,8 @@ header:
 excerpt: "The UK Renal Imaging Network"
 ---
 
+**DISCLAIMER: This page is transferred from the PARENCHIMA archives and needs updating.**
+
 ## UK RENAL IMAGING NETWORK
 
 [The UK Renal Imaging Network (UKRIN)](https://kidneyresearchuk.org/research/research-networks/uk-renal-imaging-network/) is founded and supported by the charity Kidney Research UK, aiming to coordinate UK-wide activities in the field of renal MRI.

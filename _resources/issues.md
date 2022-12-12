@@ -7,6 +7,9 @@ header:
 date: 2021-01-24T18:39:14+00:00
 ---
 
+**DISCLAIMER: This page is transferred from the PARENCHIMA archives and needs updating.**
+
+
 # MAGMA 2020
 
 Special issue on **Magnetic Resonance Imaging Biomarkers of Renal Disease**, published in Magnetic Resonance Materials in Physics, Biology and Medicine.

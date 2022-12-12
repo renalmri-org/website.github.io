@@ -1,5 +1,5 @@
 ---
-title: "2021-04-13 Newsletter"
+title: "2022-04-13 Newsletter"
 excerpt: "Approve upcoming chairs"
 ---
 
