@@ -1,4 +1,24 @@
-## How to edit the  website
+
+# How to edit the website
+
+## On the GitHub page
+1. Find the file that you want to edit and click on it to open it.
+2. On the next page, you will see the contents of the file displayed in the browser. To make changes to the file, click on the pencil icon in the top-right corner of the file viewer. This will open the file in edit mode.
+3. Make the changes that you want to the file in the editor. You can use the editor's features to format the text and add comments as needed.
+4. When you are finished making your changes, scroll to the bottom of the page and enter a commit message that describes the changes that you made. This will help other users understand what you did to the file.
+5. Finally, click the "Commit changes" button to save your changes to the file. Your changes will now be part of the repository, and other users will be able to see them and use them.
+
+**Important for major changes please create a new branch first, modify it and create a pullrequest afterwards.**
+- To create a new branch on GitHub, follow these steps:
+
+  - Navigate to the repository on GitHub that you want to create a branch in.
+  - On the main page of the repository, click on the "Branch: master" dropdown menu in the top-left corner of the page. This will show a list of all the existing branches in the repository.
+  - In the "Find or create a branch" field, enter the name of the new branch that you want to create.
+  - Click the "Create branch" button to create the new branch. This will create a new branch with the specified name and switch you to that branch.
+  - You can now make changes to the files in the new branch. Your changes will be isolated from the main branch of the repository, allowing you to experiment and work on new features without affecting the main branch.
+  - When you are ready, you can create a pull request to propose your changes to the other members of the repository. If they agree with your changes, they can accept the pull request and merge your changes into the main branch.
+
+## local with own branch 
 
 The [renalmri.org](https://www.renalmri.org) using generator website [Jekyll](https://jekyllrb.com/).
 
