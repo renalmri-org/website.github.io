@@ -23,11 +23,11 @@ Looking forwarding seeing you all in Ghent in September 2023!
 
 # Launch of new RENALMRI.org website
 
-We are absolutely delighted to launch the new and improved webpage for RENALMRI.org. They are fully hosted on [github](https://github.com/renalmri-org/website.github.io) to allow full community access the the content. The website is part of a new organization on github called [renalmri-org](https://github.com/renalmri-org), which may future also host repositories with important content such as harmonized protocols etc. 
+We are absolutely delighted to launch the new and improved webpage for RENALMRI.org. They are fully hosted on [github](https://github.com/renalmri-org/website.github.io) to allow full community access to the content. The website is part of a new organization on github called [renalmri-org](https://github.com/renalmri-org), which may future also host repositories with important content such as harmonized protocols etc. 
 
-Anyone can propose an update, edit or new content to the website via a pull-request, or, if you are a member of the renalmri-org organisation, by directly committing changes. For those of you working on software development this will be bread and butter. We are developing some material with guidance on how to edit the webpage for those less familiar with these tools.
+Anyone can propose an update, edit or add new content to the website via a pull-request. For those of you working on software development this will be bread and butter. We are developing some material with guidance on how to edit the webpage for those less familiar with these tools.
 
-RENALMRI.org is endebted to [Serhii Parkhomenko (Dnipro, Ukraine)](https://www.upwork.com/freelancers/~01ebd40dbf6407cae2) for setting up the new renalmri.org webpage on github - in as you can imagine very difficult circumstances. 
+RENALMRI.org is endebted to [Serhii Parkhomenko (Dnipro, Ukraine)](https://www.upwork.com/freelancers/~01ebd40dbf6407cae2) for setting up the new renalmri.org webpage on github - in as you can imagine under very difficult circumstances. 
 
 # New roles - looking for web editors!
 
