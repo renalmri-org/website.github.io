@@ -45,7 +45,7 @@ feature_row4:
     btn_class: "btn--primary"
 contribution_button:
   - title: "Contribution"
-    url: /contribution.md
+    url: /contribution/
     btn_label: "How can I change something?"
     btn_class: "btn--primary"
 ---
@@ -53,8 +53,6 @@ contribution_button:
 {% include feature_row id="contribution_button" type="center" %}
 
 {% capture notice-text %}
-
-<button onclick="/contribution.md'" style="padding: 10px; border: 2px solid green;">How can I change something?</button>
 
 **Coordinating research on renal MRI biomarkers for clinical practice, drug development and basic research.**
 The rising prevalence of Chronic Kidney Disease (CKD) poses a major public health challenge affecting >10% of the population. There exists an urgent need for better biomarkers to identify patients that are at risk of progression, or are likely to respond to (candidate) therapeutics. Magnetic Resonance Imaging (MRI) biomarkers can help to fill this gap, as they are uniquely able to track disease progression and treatment effects in the tissue itself and in a non-invasive manner. See [here](https://academic.oup.com/ndt/article/33/suppl_2/ii4/5078407?login=false) for a position statement by leading scientists and clinicians.
