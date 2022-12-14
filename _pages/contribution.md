@@ -58,7 +58,7 @@ date: 2022-11-23T18:39:14+00:00
 
 ## That's it! You've successfully made changes to your GitHub.io page. 
 
-If you have any questions or comments, feel free to create a new issue. This will also be explained afterwards.
+# If you have any questions or comments, feel free to create a new issue. This will also be explained afterwards.
 
 ## Step 1.	First, make sure you have a GitHub account and are logged in. If you don't have an account, you can create one for free at https://github.com.
 
