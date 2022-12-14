@@ -81,9 +81,9 @@ author_profile: false
 * Dr. Christian Rosenberg
 * Dr. Katja Derlin
 * Dr. Hans-Joachim Mentzel
-* Stabinska Julia
+* Dr. Julia Stabinska
 * Periquito Jodo
-* Bechler Eric
+* Dr. Eric Bechler
 * Dr. Chacon Caldera Jorge
 * Prof. Dr. Nagel Armin
 * Dr. Alexandra Ljimani
