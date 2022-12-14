@@ -5,6 +5,7 @@ toc: true
 author_profile: false
 ---
 
+If you want to join us or the newsletter, please read and consent our [priacy notice](http://renalmri.org/about/#privacy-notice), and write to the [dissemination task force lead](mailto:renalmri@gmail.com).
 
 ## 🇦🇹️ Austria
 
