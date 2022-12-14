@@ -31,6 +31,7 @@ date: 2022-11-23T18:39:14+00:00
 ![](/assets/images/step4.png)
 
 ## Step 5.	Make the changes you want to the file, using the editor. The editor supports syntax highlighting for many different programming languages, so it should be easy to see what you're doing.
+- The texts of the website are written in Markdown syntax, alternatively HTML can be used. [Here](#syntax) you can find a short overview of the Markdown syntax.
 
 - We now add the text "My first commit to GitHub".
 
@@ -80,3 +81,14 @@ date: 2022-11-23T18:39:14+00:00
 ## Step 7.	If you want to, you can also assign the issue to someone else, add labels to organize the issue, or add milestones to track progress on the issue.
 
 ## Step 8.	When you're finished, click the Submit new issue button to create the issue.
+---
+<a name="syntax"></a>
+#  Markdown syntax
+
+- To create a header, use the # character followed by a space and the header text, with one # for a top-level header and multiple # characters for sub-headers (e.g. ```# Main header```, ```## Sub-header```).
+- To create a link, use the ```[link text](url)``` syntax (e.g. ```[Google](https://www.google.com)``` = [Google](https://www.google.com)).
+- To add emphasis to text, use ```*``` or ```_``` characters around the text (e.g. ```_italic_``` = _italic_, ```**bold**``` = **bold**).
+- To create a bulleted or numbered list, use the * or 1. characters followed by a space and the list item text (e.g. * Item 1, 1. Item 1).
+- To create a blockquote, use the > character followed by a space and the quote text (e.g. > This is a blockquote).
+
+## These are just a few examples of Markdown syntax. For a complete reference, you can check out the [official Markdown documentation](https://www.markdownguide.org/getting-started/).
