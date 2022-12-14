@@ -2,16 +2,15 @@
 layout: collection
 permalink: /contribution/
 collection: Contribution
+title: "Contribution introduction"
 entries_layout: grid
 author_profile: false
 date: 2022-11-23T18:39:14+00:00
 ---
 
-# Contribution introduction
-
 ## Step 1:	First, make sure you have a GitHub account and are logged in. If you don't have an account, you can create one for free at https://github.com.
 
-## Step2: 	Go to the renalmri-org/website.github.io that contains the source of the renalmri.org page. Alternatively, you can click [here](https://github.com/renalmri-org/website.github.io) and be taken directly to the repository.
+## Step 2: 	Go to the renalmri-org/website.github.io that contains the source of the renalmri.org page. Alternatively, you can click [here](https://github.com/renalmri-org/website.github.io) and be taken directly to the repository.
 
 ![](/assets/images/step1.png)
 
@@ -57,6 +56,8 @@ date: 2022-11-23T18:39:14+00:00
 ![](/assets/images/step9.png)
 
 ## That's it! You've successfully made changes to your GitHub.io page. 
+
+---
 
 # If you have any questions or comments, feel free to create a new issue. This will also be explained afterwards.
 
