@@ -43,7 +43,14 @@ feature_row4:
     url: /participants/
     btn_label: "Show"
     btn_class: "btn--primary"
+contribution_button:
+  - title: "Contribution"
+    url: /contribution.md
+    btn_label: "How can I change something?"
+    btn_class: "btn--primary"
 ---
+
+{% include feature_row id="contribution_button" type="center" %}
 
 {% capture notice-text %}
 
