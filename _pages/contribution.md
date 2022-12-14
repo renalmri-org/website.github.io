@@ -1,3 +1,12 @@
+---
+layout: collection
+permalink: /contribution/
+collection: Contribution
+entries_layout: grid
+author_profile: false
+date: 2022-11-23T18:39:14+00:00
+---
+
 # Contribution introduction
 
 1.	First, make sure you have a GitHub account and are logged in. If you don't have an account, you can create one for free at https://github.com.
