@@ -5,8 +5,6 @@ header:
 excerpt: "A task force organising dissemination activities around renal MRI"
 ---
 
-**DISCLAIMER: This is an archive page describing a task force from the precursor project PARENCHIMA. The content is not up to date**
-
 ## DISSEMINATION OF RENALMRI.org
 
 This task force disseminates the activities of RENALMRI.org via multiple channels, including social media, but also special sessions on conferences, and maintenance of this web page and newsletter distribution. 
