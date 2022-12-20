@@ -50,6 +50,8 @@ comments:
     endpoint             : # "https://{your Staticman v3 API}/v3/entry/github/"
 #atom_feed:
 #  path                   : # blank (default) uses feed.xml
+feed:
+  enabled: false
 search                   : true # true, false (default)
 search_full_content      : true # true, false (default)
 search_provider          : "lunr"
