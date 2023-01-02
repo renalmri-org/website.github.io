@@ -53,6 +53,7 @@ If you want to join us or the newsletter, please read and consent to our [privac
 * Dr. Frimodt-Moller Marie
 * Dr. Laursen Jens Christian
 * Jens Dam Jensen
+* Bryan Haddock, Ph.D.
 
 ## 🇫🇷️ France
 * Prof. Nicolas Grenier
