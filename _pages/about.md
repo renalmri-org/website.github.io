@@ -64,7 +64,7 @@ Our service provider ([https://godaddy.com](https://godaddy.com)) and data proce
 ## How do we protect your personal data?
 Your personal data is handled in full confidentiality. We make all necessary effort to take technical and organisational measures that might be required so as to ensure security of your personal data.
 ## How long is the information retained for?
-[remalMRI.org] (https://remalMRI.org) (previously PARENCHIMA) aims to continuously retrain your personal data in order to promote renal magnetic resonance imaging and renal imaging on our [homepage](https://renalmri.org), and other communication tools or publications for communication purposes (e.g. newsletter). 
+[remalMRI.org](https://remalMRI.org) (previously PARENCHIMA) aims to continuously retrain your personal data in order to promote renal magnetic resonance imaging and renal imaging on our [homepage](https://renalmri.org), and other communication tools or publications for communication purposes (e.g. newsletter). 
 ## Your rights
 Under the General Data Protection Regulation (Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (GDPR), you have rights as an individual which you can exercise in relation to the information we hold about you:
 - Right to request from us access to and rectification of your personal data;
