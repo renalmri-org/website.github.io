@@ -17,7 +17,8 @@ RENALMRI.org was created by the COST Action PARENCHIMA ([CA16103](https://www.co
 
 RENALMRI.org was maintained by PARENCHIMA until the end of the action (1 October 2021). During the 4th international meeting in renal MRI (Lisbon/Philadelphia) the new governance of RENALMRI.org was approved, and the new network was launched. 
 
-# PRIVACY NOTICE (2023.01.02 Version 1.4)
+# PRIVACY NOTICE 
+2023.01.02 Version 1.4
 PLEASE READ THIS CRITICAL NOTICE OF THE GENERAL DATA PROTECTION REGULATION (EU) 2016/679 (GDPR)!
 ONLY IF YOU CHOOSE TO GIVE YOUR CONSENT THROUGH WRITING AN EMAIL TO [RENALMRI@GMAIL.COM](mailto:RENALMRI@GMAIL.COM), ARE WE ABLE TO USE, PROCESS, STORE AND/OR PUBLISH YOUR PERSONAL DATA! 
 
@@ -28,12 +29,12 @@ If you have any questions do not hesitate to contact the [dissemination task for
 
 BY USING OR REGISTERING WITH OUR SERVICES ([https://renalmri.org](https://renalmri.org) and [renalmri@gmail.com](mailto:renalmri@gmail.com)) YOU COMPLY WITH THE USE OF YOUR PERSONAL DATA! 
 
-**1. Data controller**
+- **1. Data controller**
 Your personal data are processed by members of the renalMRI.org group (as previously envisioned on [https://www.cost.eu](https://www.cost.eu in the COST Action CA16103)) responsible for dissemination and exploitation, communication and tracking activities. Tools such as SendPulse ([https://sendpulse.com](https://sendpulse.com)) and [Google Analytics](https://www.google.com/analytics/) are being used. The storage, use and publication of acquired personal data is done by the renalMRI.org group to ensure optimal communications within the renalMRI.org group and external stakeholders. 
 If you have any queries about the process or how we handle your information, please contact us at: [renalmri@gmail.com](mailto:renalmri@gmail.com)
-**2. Who is concerned by this privacy policy?**
+- **2. Who is concerned by this privacy policy?**
 Every [renalMRI.org](https://renalMRI.org) participant and visitor of our webpage, people who use our services (e.g. who subscribe to our newsletter, as well as people who email us or chat with us, or register and attend for our meetings). 
-**3. What information about you do we handle, why do we handle that information, what is the legal basis for those processings and for how long do we retrain the information?**
+- **3. What information about you do we handle, why do we handle that information, what is the legal basis for those processings and for how long do we retrain the information?**
 On top of the personal data collected and processed by the COST Association in the framework of the previous COST Action CA16103, for which you can consult the privacy notice for [e-COST](https://e-services.cost.eu/privacy-notice). 
 ## As a [renalMRI.org](https://renalMRI.org) participant and member of [renalMRI.org](https://renalMRI.org) 
 Based on your consent (article 6.1.a) of the GDPR, we can:
