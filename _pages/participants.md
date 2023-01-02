@@ -78,7 +78,6 @@ If you want to join us or the newsletter, please read and consent to our [privac
 * Dr. Christian Rosenberg
 * Dr. Katja Derlin
 * Dr. Hans-Joachim Mentzel
-* Dr. Julia Stabinska
 * Periquito Jodo
 * Dr. Eric Bechler
 * Dr. Chacon Caldera Jorge
@@ -139,7 +138,6 @@ If you want to join us or the newsletter, please read and consent to our [privac
 * Prof. Tim Leiner
 * Dr.med.univ. Ronald Borra
 * Prof. Peter Blankestijn
-* Associate Professor Jaap Joles
 * Dr. Anita Harteveld
 * Dr. Anneloes de Boer
 * Dr. Tri Nguyen
@@ -251,6 +249,7 @@ If you want to join us or the newsletter, please read and consent to our [privac
 * Dr. Alex de Crespigny
 * Professor Srinivas Sridhar
 * Timothy L. Kline, Ph.D.
+* Dr. Julia Stabinska
 
 ## 🇦🇺️ Australia
 * Prof. Roger Evans
