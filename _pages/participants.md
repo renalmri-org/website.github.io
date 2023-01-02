@@ -8,7 +8,6 @@ author_profile: false
 If you want to join us or the newsletter, please read and consent to our [privacy notice](http://renalmri.org/about/#privacy-notice), and write to the [dissemination task force lead](mailto:renalmri@gmail.com).
 
 ## 🇦🇹️ Austria
-
 * Dr. Marcos Wolf
 * Prof. Siegfried trattnig
 * Dr. Pamela Zolda
@@ -18,7 +17,6 @@ If you want to join us or the newsletter, please read and consent to our [privac
 * Akira Sumiyoshi
 
 ## 🇧🇪 Belgium
-
 * Dr. Peeters Roland
 * Dr. ir. Pim Pullens
 * Dr. Raeymaekers Hubert
@@ -29,17 +27,14 @@ If you want to join us or the newsletter, please read and consent to our [privac
 * Marijn Speeckaert
 
 ## 🇭🇷️ Croatia
-
 * Dr. Loncaric Sven
 * Dr. Subasic Marko
 
 ## 🇨🇾️ Cyprus
-
 * Georgios Menikou
 * Dr. Polycarpou Irene
 
 ## 🇨🇿️ Czech Republic
-
 * Dr. Monika Dezortova
 * Dr. Milan Hajek
 * Dr. Janka Slatinská
@@ -255,6 +250,7 @@ If you want to join us or the newsletter, please read and consent to our [privac
 * Suraj Serai
 * Dr. Alex de Crespigny
 * Professor Srinivas Sridhar
+* Timothy L. Kline, Ph.D.
 
 ## 🇦🇺️ Australia
 * Prof. Roger Evans
