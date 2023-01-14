@@ -135,6 +135,7 @@ collections:
   news:
     output: true
     sort_by: title
+    sort_order: reverse
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
