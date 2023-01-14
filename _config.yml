@@ -131,6 +131,10 @@ footer:
 include:
   - .htaccess
   - _pages
+collections:
+  news:
+    output: true
+    sort_by: title
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
