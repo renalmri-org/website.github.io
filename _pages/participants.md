@@ -181,7 +181,8 @@ If you want to join us or the newsletter, please read and consent to our [privac
 * Rebeca Echeverria Chasco
 * Dr. Juan Enrique Ortuno Fisac
 * Dr. Alberich - Bayarri �?ngel
-* Prof. alberto ortiz
+* Prof. Alberto Ortiz
+* Leyre García Ruiz
 
 ## 🇸🇪️ Sweden
 * Prof. Paul Hockings
