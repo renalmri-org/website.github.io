@@ -86,6 +86,7 @@ If you want to join us or the newsletter, please read and consent to our [privac
 * Dr. Cecilia Zhang
 * Irene Brumer
 * Dr. Christian Radu
+* Jonas Jasse
 
 ## 🇬🇷️ Greece
 * Prof. George Kagadis
