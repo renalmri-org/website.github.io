@@ -14,7 +14,6 @@ If you want to join us or the newsletter, please read and consent to our [privac
 * Prof. Ewald Moser
 * Dr. Barbara Katharina
 * Joey Moser
-* Akira Sumiyoshi
 
 ## 🇧🇪 Belgium
 * Dr. Peeters Roland
