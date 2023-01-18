@@ -262,7 +262,9 @@ collections:
     output: true
     permalink: /:collection/:path/
     sort_by: title
+    sort_field: "date"
     sort_order: reverse
+
   events:
     output: true
     permalink: /:collection/:path/
