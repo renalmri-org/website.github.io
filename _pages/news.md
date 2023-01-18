@@ -1,5 +1,7 @@
 ---
 layout: collection
+sort_by: title
+sort_order: reverse
 permalink: /news/
 collection: news
 entries_layout: single
