@@ -1,5 +1,6 @@
 ---
 title: "2018-11-10 Newsletter"
+date: 2018-11-10
 excerpt: "Nottingham meeting announced, upcoming MAGMA issue, Prague meeting & social media updates.."
 ---
 
