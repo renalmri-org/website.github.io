@@ -86,6 +86,7 @@ If you want to join us or the newsletter, please read and consent to our [privac
 * Irene Brumer
 * Dr. Christian Radu
 * Jonas Jasse
+* Prof. Dr. Hans-Joachim Mentzel
 
 ## 🇬🇷️ Greece
 * Prof. George Kagadis
