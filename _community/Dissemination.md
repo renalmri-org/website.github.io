@@ -24,7 +24,7 @@ If you want to be included to our newsletter or join this or another task force,
 
 ### Special sessions on international meetings
 
-| ESMRMB Collaboration Session – renal MRI, PARENCHIMA | |
+| [ESMRMB Collaboration Session – renal MRI, PARENCHIMA](https://www.esmrmb.org/congress/congress2020/programme/) | |
 | ------ | -------- |
 | Location: | Virtual Meeting (Barcelona, Spain) |
 | Time: | October 1, 2020, 17:45 - 19:00 |
@@ -42,7 +42,7 @@ If you want to be included to our newsletter or join this or another task force,
 
 <br>
 
-| ISMRM, Member-Initiated Symposium (Scientific Program)  | |
+| [ISMRM, Member-Initiated Symposium (Scientific Program)](https://www.ismrm.org/19/program_files/MIS02.htm)  | |
 | ------ | -------- |
 | Location: | Montreal, Canada |
 | Time: | May 11-16, 2019 |
@@ -51,21 +51,22 @@ If you want to be included to our newsletter or join this or another task force,
 
 ### Presentations on Renal MRI on international meetings
 
-| ISMRM, Member-Initiated Symposium (Scientific Program)  | |
+| COST action initiatives as a platform for image biomarker selection   | |
 | ------ | -------- |
-| Title: | COST action initiatives as a platform for image biomarker selection by Dr Anna Caroli |
-| Congress: | European Congress of Radiology (ECR) |
+| Congress: | [European Congress of Radiology (ECR)](https://www.myesr.org/congress/about-ecr) |
 | Location: | Austria Center Vienna, Bruno-Kreisky-Platz 1, 1220 Vienna, Austria |
 | Time: | February 27 - March 3, 2019 |
+| Contact: | Dr. Anna Caroli |
 
 <br>
 
-| ISMRM, Member-Initiated Symposium (Scientific Program)  | |
+| Efforts of European Consortium in MRI (PARENCHIMA)  | |
 | ------ | -------- |
-| Title: | 	Efforts of European Consortium in MRI (PARENCHIMA) by Anna Caroli |
-| Congress: | NIH-NIDDK renal imaging workshop |
+| Congress: | [NIH-NIDDK renal imaging workshop](https://www.niddk.nih.gov/news/meetings-workshops/2018/renal-imaging-workshop) |
 | Location: | Natcher Conference Center, Building 45, Nation Institutes of Health, Bethesda 20894, USA |
 | Time: | July 12-13, 2018 |
+| Contact: | Dr. Anna Caroli |
+
 
 <br>
 
