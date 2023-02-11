@@ -252,6 +252,7 @@ If you want to join us or the newsletter, please read and consent to our [privac
 * Professor Srinivas Sridhar
 * Timothy L. Kline, Ph.D.
 * Dr. Julia Stabinska
+* Gonzalo Matzumura, MD
 
 ## 🇦🇺️ Australia
 * Prof. Roger Evans
