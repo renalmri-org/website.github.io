@@ -253,6 +253,7 @@ If you want to join us or the newsletter, please read and consent to our [privac
 * Timothy L. Kline, Ph.D.
 * Dr. Julia Stabinska
 * Gonzalo Matzumura, MD
+* Ananth J. Madhuranthakam, Ph.D.
 
 ## 🇦🇺️ Australia
 * Prof. Roger Evans
