@@ -12,7 +12,7 @@ If you want to join us or the newsletter, please read and consent to our [privac
 * Prof. Siegfried trattnig
 * Dr. Pamela Zolda
 * Prof. Ewald Moser
-* Dr. Barbara Katharina
+* Dr. Barbara Katharina Geist
 * Joey Moser
 
 ## 🇧🇪 Belgium
