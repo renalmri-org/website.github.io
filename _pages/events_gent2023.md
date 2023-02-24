@@ -26,16 +26,12 @@ The 2023 meeting will continue the tradition of previous meetings by soliciting 
 
 # Program committee
 
- The program committee is responsible for selecting topics, speakers, and proffered papers from submitted abstracts. Names are to be determined (we welcome any suggestions) but we are committed to a balanced committee including one member from each of the following disciplines:
+ The program committee is responsible for selecting topics, speakers, and proffered papers from submitted abstracts. 
 
- - Nephrologist
- - MRI physicist or engineer
- - Radiologist
- - Endocrinologist
- - Computer scientist or mathematician
- - Physiology or biology
- - Ultrasound
- - Nuclear medicine
+| <!-- --> | <!-- --> | <!-- -->|
+|-----|-----|-----|
+|Lena Berchtold, MD, PhD<br>Hôpitaux Universitaires Genève<br>Genève, CH| Sophie De Seigneux, MD, PhD<br>Hôpitaux Universitaires Genève<br>Genève, CH| Pieter De Visschere, MD, PhD<br>Ghent University Hospital & Ghent University<br>Gent, BE|
+Ilona Dekkers, MD, PhD<br>Leiden University Hospital<br>Leiden, NL|Alexandra Ljimani, MD, PhD<br>Universitätsklinikum Düsseldorf<br>Düsseldorf, DE|Pim Pullens, PhD<br>Ghent University Hospital & Ghent, University<br>Gent, BE|
 
 
 # Location and Travel
