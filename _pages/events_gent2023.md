@@ -30,8 +30,8 @@ The 2023 meeting will continue the tradition of previous meetings by soliciting 
 
 | <!-- --> | <!-- --> | <!-- -->|
 |-----|-----|-----|
-|Lena Berchtold, MD, PhD<br>Hôpitaux Universitaires Genève<br>Genève, CH| Sophie De Seigneux, MD, PhD<br>Hôpitaux Universitaires Genève<br>Genève, CH| Pieter De Visschere, MD, PhD<br>Ghent University Hospital & Ghent University<br>Gent, BE|
-Ilona Dekkers, MD, PhD<br>Leiden University Hospital<br>Leiden, NL|Alexandra Ljimani, MD, PhD<br>Universitätsklinikum Düsseldorf<br>Düsseldorf, DE|Pim Pullens, PhD<br>Ghent University Hospital & Ghent, University<br>Gent, BE|
+|**Lena Berchtold, MD, PhD**<br>Hôpitaux Universitaires Genève<br>Genève, CH| **Sophie De Seigneux, MD, PhD**<br>Hôpitaux Universitaires Genève<br>Genève, CH| **Pieter De Visschere, MD, PhD**<br>Ghent University Hospital & Ghent University<br>Gent, BE|
+**Ilona Dekkers, MD, PhD**<br>Leiden University Hospital<br>Leiden, NL|**Alexandra Ljimani, MD, PhD**<br>Universitätsklinikum Düsseldorf<br>Düsseldorf, DE|**Pim Pullens, PhD**<br>Ghent University Hospital & Ghent, University<br>Gent, BE|
 
 
 # Location and Travel
