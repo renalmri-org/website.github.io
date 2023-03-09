@@ -44,7 +44,7 @@ Belgium’s conference hotspot excels, both on a national and on an internationa
 
 ![City of Gent](/assets/images/gent_images/gent_city.png)
 
-[Why Gent?](https://visit.gent.be/en/gentcongres/whygent)
+[Why Gent?](https://visit.gent.be/en/good-know/practical-information/why-ghent)
 
 ### Conference Center "Het Pand"
 
