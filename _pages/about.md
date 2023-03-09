@@ -7,8 +7,8 @@ author_profile: false
 ---
 
 # ACKNOWLEDGEMENT 
-## DOMAIN NAME
-We are thankful for the support of [BEAt-DKD](https://www.beat-dkd.eu/)
+## DOMAIN HOSTING
+We are thankful for the support of [BEAt-DKD](https://www.beat-dkd.eu/).
 
 ## WEB DEVELOPMENT
 The RENALMRI community is grateful to *Serhii Parkhomenko (Dnipro, Ukraine)* for setting up and maintaining the [renalmri.org](https://renalmri.org) webpage. Contact him on [upwork](https://www.upwork.com/freelancers/~01ebd40dbf6407cae2).
