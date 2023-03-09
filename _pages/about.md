@@ -6,16 +6,13 @@ date: 2022-11-10T18:39:14+00:00
 author_profile: false
 ---
 
-# WEB DEVELOPMENT
+# ACKNOWLEDGEMENT 
+## DOMAIN NAME
+We are thankful for the support of [BEAt-DKD](https://www.beat-dkd.eu/)
+
+## WEB DEVELOPMENT
 The RENALMRI community is grateful to *Serhii Parkhomenko (Dnipro, Ukraine)* for setting up and maintaining the [renalmri.org](https://renalmri.org) webpage. Contact him on [upwork](https://www.upwork.com/freelancers/~01ebd40dbf6407cae2).
 But you can also [contribute](https://renalmri.org/contribution/)!
-
-# HISTORY
-RENALMRI.org was created by the COST Action PARENCHIMA ([CA16103](https://www.cost.eu/actions/CA16103/)), supported by the European Cooperation in Science and Technology (COST). [COST](https://www.cost.eu/) is a funding organization for research and innovation networks. Their Actions help connect research initiatives across Europe and beyond and enable researchers and innovators to grow their ideas in any science and technology field by sharing them with their peers. COST Actions are bottom-up networks with a duration of four years that boost research, innovation and careers. 
-
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/COST_EU_Flag.jpg){: .align-center}
-
-RENALMRI.org was maintained by PARENCHIMA until the end of the action (1 October 2021). During the 4th international meeting in renal MRI (Lisbon/Philadelphia) the new governance of RENALMRI.org was approved, and the new network was launched. 
 
 # PRIVACY NOTICE 
 2023.01.02 Version 1.4 
@@ -76,3 +73,10 @@ Under the General Data Protection Regulation (Regulation (EU) 2016/679 of the Eu
 You have the right to object, on grounds relating to your particular situation, at any time to processing of your personal data which is based on Article 6(1), (f) of the GDPR (our legitimate purposes) as mentioned above.
 To exercise those rights, please send us an email to [renalmri@gmail.com](mailto:renalmri@gmail.com) together with a proof of your identity.
 Please note that you always have the right to lodge a complaint with the Supervisory authority of the EU country of your choice.
+
+# HISTORY
+RENALMRI.org was created by the COST Action PARENCHIMA ([CA16103](https://www.cost.eu/actions/CA16103/)), supported by the European Cooperation in Science and Technology (COST). [COST](https://www.cost.eu/) is a funding organization for research and innovation networks. Their Actions help connect research initiatives across Europe and beyond and enable researchers and innovators to grow their ideas in any science and technology field by sharing them with their peers. COST Actions are bottom-up networks with a duration of four years that boost research, innovation and careers. 
+
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/COST_EU_Flag.jpg){: .align-center}
+
+RENALMRI.org was maintained by PARENCHIMA until the end of the action (1 October 2021). During the 4th international meeting in renal MRI (Lisbon/Philadelphia) the new governance of RENALMRI.org was approved, and the new network was launched. 
