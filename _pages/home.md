@@ -50,6 +50,8 @@ contribution_button:
     btn_class: "btn--primary"
 ---
 
+## [11/12 Sept 2023 - 5th international renal imaging meeting](https://renalmri.org/events/gent2023)
+
 {% include feature_row id="contribution_button" type="center" %}
 
 {% capture notice-text %}
