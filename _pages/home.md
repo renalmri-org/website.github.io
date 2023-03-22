@@ -50,7 +50,7 @@ contribution_button:
     btn_class: "btn--primary"
 meeting_button:
   - title: "5th international renal imaging meeting"
-    url: /events/gent2023/
+    url: /events/gent2023
     btn_label: "11/12 Sept 2023 - 5th international renal imaging meeting"
     btn_class: "btn--primary"
 ---
