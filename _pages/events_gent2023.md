@@ -16,25 +16,25 @@ The 2023 meeting will continue the tradition of previous meetings by soliciting 
 
 # Program coming soon!
 
-# Organising committee
-
-- [Dr. Pim Pullens, PhD](https://research.ugent.be/web/person/pim-pullens-0/en)<br>
-*renalmri.org vice-chair*<br>
-*MR Physicist at Ghent University Hospital & Ghent University*<br> 
-*ISMRM renal MRI studygroup member*
-- [Prof. Dr. Pieter De Visschere, MD PhD](https://biblio.ugent.be/person/001997424808)<br>*Urogenital radiologist Ghent University Hospital*<br>*active ESUR member*
-- [Prof. Dr. Marijn Speeckaert, MD PhD](https://www.uzgent.be/patient/zoek-een-arts-of-dienst/nefrologie/team/prof-dr-marijn-speeckaert)<br>*Nephrologist Ghent University Hospital*
 
 
 # Program committee
 
  The program committee is responsible for selecting topics, speakers, and proffered papers from submitted abstracts. 
 
-| <!-- --> | <!-- --> | <!-- -->|
-|-----|-----|-----|
-**Lejla Aganovic, MD, PhD**<br>UC San Diego<br>San Diego, USA|**Lena Berchtold, MD, PhD**<br>Hôpitaux Universitaires Genève<br>Genève, CH| **Sophie De Seigneux, MD, PhD**<br>Hôpitaux Universitaires Genève<br>Genève, CH|
-**Pieter De Visschere, MD, PhD**<br>Ghent University Hospital & Ghent University<br>Gent, BE|**Ilona Dekkers, MD, PhD**<br>Leiden University Hospital<br>Leiden, NL|**Alexandra Ljimani, MD, PhD**<br>Universitätsklinikum Düsseldorf<br>Düsseldorf, DE|
-**Pim Pullens, PhD**<br>Ghent University Hospital & Ghent, University<br>Gent, BE|
+| <!-- --> | <!-- --> | 
+|-----|-----|
+**Lejla Aganovic, MD, PhD**<br>UC San Diego<br>San Diego, USA|**Lena Berchtold, MD, PhD**<br>Hôpitaux Universitaires Genève<br>Genève, CH
+**Sophie De Seigneux, MD, PhD**<br>Hôpitaux Universitaires Genève<br>Genève, CH| **Pieter De Visschere, MD, PhD**<br>Ghent University Hospital & Ghent University<br>Gent, BE
+**Ilona Dekkers, MD, PhD**<br>Leiden University Hospital<br>Leiden, NL|**Alexandra Ljimani, MD, PhD**<br>Universitätsklinikum Düsseldorf<br>Düsseldorf, DE|
+**Pim Pullens, PhD**<br>Ghent University Hospital & Ghent, University<br>Gent, BE||
+
+# Local Organising committee
+
+| <!-- --> | <!-- --> | 
+|-----|-----|
+**Pim Pullens PhD**<br>renalmri.org vice-chair<br>MR Physicist at Ghent University Hospital & Ghent University<br>ISMRM renal MRI studygroup member| **Pieter De Visschere, MD PhD**<br>Urogenital radiologist Ghent University Hospital<br>active ESUR member|
+**Marijn Speeckaert, MD PhD**<br>Nephrologist Ghent University Hospital||
 
 
 # Location and Travel
