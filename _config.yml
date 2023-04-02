@@ -73,7 +73,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : "/assets/images/bio-photo.jpg"
+og_image                 : "/assets/images/kidney-logo.jpeg"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -93,7 +93,7 @@ analytics:
 # Site Author
 author:
   name             : "RENALMRI.org"
-  avatar           : "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/kidney-logo.jpeg"
   bio              : "Your bio."
   location         : "Somewhere"
   links:
