@@ -14,11 +14,10 @@ The 2023 meeting will continue the tradition of previous meetings by soliciting 
 
 <center><a href="https://docs.google.com/forms/d/e/1FAIpQLSfsJpl6NQoZb_z02oUEPyXkqG0QN8hh51H1Yte2xygZcCk0Jw/viewform?usp=sf_link" class="btn btn--primary btn--large">Submit Abstract</a></center>
 
-# Program coming soon!
+<center><h1> Program coming soon!</h1></center>
 
 
-
-# Program committee
+<center><h1> Program committee</h1></center>
 
  The program committee is responsible for selecting topics, speakers, and proffered papers from submitted abstracts. 
 
