@@ -17,6 +17,22 @@ The abstract submission is now open! Submission deadline is 15th June 2023.**
 
 <center><a href="https://docs.google.com/forms/d/e/1FAIpQLSfsJpl6NQoZb_z02oUEPyXkqG0QN8hh51H1Yte2xygZcCk0Jw/viewform?usp=sf_link" class="btn btn--primary btn--large">Submit Abstract</a></center><br>
 
+<center><a href="https://congrezzo.ugent.be/international_renal_imaging_meeting_2023/" class="btn btn--primary btn--large">Registration</a></center><br>
+
+### Housing
+ 
+The list of hotels that offer discount fees see below:
+- [Ghent Marriott Korenlei](www.marriottghent.be)
+- [Ibis Gent Centrum Opera](https://all.accor.com/gb/city/hotels-ghent-v1448.shtml)
+- [Ibis Gent Centrum Sint-Baafskathedraal](https://all.accor.com/gb/city/hotels-ghent-v1448.shtml)
+- [Novotel Gent Centrum](https://all.accor.com/hotel/0840/index.en.shtml?utm_campaign=seo+maps&utm_medium=seo+maps&utm_source=google+Maps)
+- [NH Gent Belfort](www.nh-hotels.nl/hotel/nh-gent-belfort)
+- [Pillows Grand Hotel Reylof](https://www.pillowshotels.com/ghent)
+- [B&B Hotel Gent Centrum](https://www.hotel-bb.com/fr/hotel/gent-centrum?utm_source=googlemaps&utm_medium=fichehotel&utm_campaign=yext)
+ 
+
+The information about how to get the hotel discount fees will be e-mailed after registration.
+
 
 <center><h1> Program committee</h1></center>
 
