@@ -7,7 +7,7 @@ date: 2020-04-09T12:00:00-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.1"
-  overlay_image: /assets/images/header_parenchima.png
+  overlay_image: /assets/images/header_renalMRI_right.png
 
 intro:
   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
