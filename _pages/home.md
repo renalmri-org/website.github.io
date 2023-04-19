@@ -6,7 +6,7 @@ date: 2020-04-09T12:00:00-04:00
 
 header:
   overlay_color: "#000"
-  overlay_filter: "0.2"
+  overlay_filter: "0.0"
   overlay_image: /assets/images/header_renalMRI_right.png
 
 intro:
