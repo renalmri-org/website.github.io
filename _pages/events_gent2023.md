@@ -8,7 +8,7 @@ author_profile: false
 ![promo](/assets/images/gent_images/gent_promo.png)
 
 
-[Program](#Preliminary-program) | [Organisers](#Program-committee) | [Travel](#Location-and-Travel) | [Housing](#housing) 
+[Program](#preliminary-program) | [Organisers](#program-committee) | [Travel](#pocation-and-travel) | [Housing](#housing) 
 
 
 We warmly invite you to the 5th International Meeting on Renal Imaging in Ghent, Belgium on September 11-12, 2023. Please save the date! 
