@@ -18,8 +18,9 @@ The 2023 meeting will continue the tradition of previous meetings by soliciting 
 **Be part of our next for our next International Meeting on Renal Imaging in Ghent!
 The abstract submission is now open! Submission deadline is 15th June 2023.**
 
-<center><a href="https://docs.google.com/forms/d/e/1FAIpQLSfsJpl6NQoZb_z02oUEPyXkqG0QN8hh51H1Yte2xygZcCk0Jw/viewform?usp=sf_link" class="btn btn--primary btn--large">Submit Abstract</a></center>
-<center>[Abstract Guidelines](#abstract-guidelines)</center><br>
+<center><a href="https://docs.google.com/forms/d/e/1FAIpQLSfsJpl6NQoZb_z02oUEPyXkqG0QN8hh51H1Yte2xygZcCk0Jw/viewform?usp=sf_link" class="btn btn--primary btn--large">Submit Abstract</a>
+
+[Abstract Guidelines](#abstract-guidelines)</center><br>
 
 <center><a href="https://congrezzo.ugent.be/international_renal_imaging_meeting_2023/" class="btn btn--primary btn--large">Register now</a></center>
 <center>Registration Fee: Residents and PhD students €180, Regular Fee €300</center><br>
