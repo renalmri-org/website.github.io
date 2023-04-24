@@ -8,6 +8,12 @@ author_profile: false
 ![promo](/assets/images/gent_images/gent_promo.png)
 
 
+[Program](#Preliminary program)
+[Organisers](#Local Organising committee)
+[Travel](#Location and Travel)
+[Housing](#Housing) 
+
+
 We warmly invite you to the 5th International Meeting on Renal Imaging in Ghent, Belgium on September 11-12, 2023. Please save the date! 
 
 The 2023 meeting will continue the tradition of previous meetings by soliciting content across all relevant disciplines, with this year a particular emphasis on Ultrasound and nuclear medicine alongside MRI.
@@ -19,7 +25,7 @@ The abstract submission is now open! Submission deadline is 15th June 2023.**
 
 <center><a href="https://congrezzo.ugent.be/international_renal_imaging_meeting_2023/" class="btn btn--primary btn--large">Registration</a></center><br>
 
-### Housing
+## Housing
  
 The list of hotels that offer discount fees see below:
 - [Ghent Marriott Korenlei](www.marriottghent.be)
