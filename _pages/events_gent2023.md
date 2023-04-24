@@ -8,7 +8,7 @@ author_profile: false
 ![promo](/assets/images/gent_images/gent_promo.png)
 
 
-[Program](#preliminary-program) | [Organisers](#program-committee) | [Travel](#location-and-travel) | [Housing](#housing) 
+[Program](#preliminary-program) | [Abstract Guidelines](#abstract-guidelines) | [Organisers](#program-committee) | [Travel](#location-and-travel) | [Housing](#housing) 
 
 
 We warmly invite you to the 5th International Meeting on Renal Imaging in Ghent, Belgium on September 11-12, 2023. Please save the date! 
@@ -18,7 +18,7 @@ The 2023 meeting will continue the tradition of previous meetings by soliciting 
 **Be part of our next for our next International Meeting on Renal Imaging in Ghent!
 The abstract submission is now open! Submission deadline is 15th June 2023.**
 
-<center><a href="https://docs.google.com/forms/d/e/1FAIpQLSfsJpl6NQoZb_z02oUEPyXkqG0QN8hh51H1Yte2xygZcCk0Jw/viewform?usp=sf_link" class="btn btn--primary btn--large">Submit Abstract</a></center><br>
+<center><a href="https://docs.google.com/forms/d/e/1FAIpQLSfsJpl6NQoZb_z02oUEPyXkqG0QN8hh51H1Yte2xygZcCk0Jw/viewform?usp=sf_link" class="btn btn--primary btn--large">Submit Abstract</a>[Abstract Guidelines](#abstract-guidelines)</center><br>
 
 <center><a href="https://congrezzo.ugent.be/international_renal_imaging_meeting_2023/" class="btn btn--primary btn--large">Register now</a></center>
 <center>Registration Fee: Residents and PhD students €180, Regular Fee €300</center><br>
@@ -38,6 +38,39 @@ The list of hotels that offer discount fees see below:
 
 The information about how to get the hotel discount fees will be e-mailed after registration.
 
+# Abstract Guidelines
+
+Abstracts should be submitted as Microsoft Word document (\*.docx). The body of the abstract should contain the following sections: 
+
+* Introduction
+“Why was this study/research performed? What unsolved problem are you addressing?”
+
+* Methods
+“How did you study this problem?”
+
+* Results
+“Report the data, analyses and/or outcomes”
+
+* Discussion
+“How do you interpret the results?”
+
+* Conclusion
+“What is the relevance to clinical practice or future research?”
+
+* References (not part of the body of the abstract
+
+![image](https://user-images.githubusercontent.com/15831740/234040775-03d262a9-4525-4747-81b1-94786f87cd55.png)
+
+## Formatting
+
+* Title: max 125 characters
+* Body of the abstract: max 850 words
+* Arial 10.5pt
+* Maximum of 5 figures only, with maximum 500 character caption.
+
+## Abstract Template
+
+Download a template [here](/assets/images/resources/AbstractTemplateRenalImaging2023.docx).
 
 # Program committee
 
