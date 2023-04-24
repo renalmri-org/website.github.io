@@ -8,9 +8,9 @@ author_profile: false
 ![promo](/assets/images/gent_images/gent_promo.png)
 
 
-* [Program](#Preliminary program)
-* [Organisers](#Local Organising committee)
-* [Travel](#Location and Travel)
+* [Program](#Preliminary)
+* [Organisers](#Local)
+* [Travel](#Location)
 * [Housing](#Housing) 
 
 
