@@ -8,7 +8,7 @@ author_profile: false
 ![promo](/assets/images/gent_images/gent_promo.png)
 
 
-[Program](#preliminary-program) | [Organisers](#program-committee) | [Travel](#pocation-and-travel) | [Housing](#housing) 
+[Program](#preliminary-program) | [Organisers](#program-committee) | [Travel](#location-and-travel) | [Housing](#housing) 
 
 
 We warmly invite you to the 5th International Meeting on Renal Imaging in Ghent, Belgium on September 11-12, 2023. Please save the date! 
@@ -20,8 +20,8 @@ The abstract submission is now open! Submission deadline is 15th June 2023.**
 
 <center><a href="https://docs.google.com/forms/d/e/1FAIpQLSfsJpl6NQoZb_z02oUEPyXkqG0QN8hh51H1Yte2xygZcCk0Jw/viewform?usp=sf_link" class="btn btn--primary btn--large">Submit Abstract</a></center><br>
 
-<center><a href="https://congrezzo.ugent.be/international_renal_imaging_meeting_2023/" class="btn btn--primary btn--large">Register now</a></center><br>
-<center>Registration Fee: Residents and PhD students €180, Regular Fee €300</center>
+<center><a href="https://congrezzo.ugent.be/international_renal_imaging_meeting_2023/" class="btn btn--primary btn--large">Register now</a></center>
+<center>Registration Fee: Residents and PhD students €180, Regular Fee €300</center><br>
 
 
 # Housing
