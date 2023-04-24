@@ -8,9 +8,9 @@ author_profile: false
 ![promo](/assets/images/gent_images/gent_promo.png)
 
 
-* [Program](#Preliminary)
-* [Organisers](#Local)
-* [Travel](#Location)
+* [Program](#Preliminary-program)
+* [Organisers](#Program-committee)
+* [Travel](#Location-and-Travel)
 * [Housing](#Housing) 
 
 
@@ -40,7 +40,7 @@ The list of hotels that offer discount fees see below:
 The information about how to get the hotel discount fees will be e-mailed after registration.
 
 
-<center><h1> Program committee</h1></center>
+# Program committee
 
  The program committee is responsible for selecting topics, speakers, and proffered papers from submitted abstracts. 
 
