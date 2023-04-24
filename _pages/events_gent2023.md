@@ -62,7 +62,7 @@ Abstracts should be submitted as Microsoft Word document (\*.docx). The body of 
 * Conclusion
 “What is the relevance to clinical practice or future research?”
 
-* References (not part of the body of the abstract
+* References (not part of the body of the abstract)
 
 ## Formatting
 
