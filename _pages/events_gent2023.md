@@ -8,7 +8,7 @@ author_profile: false
 ![promo](/assets/images/gent_images/gent_promo.png)
 
 
-[Program](#preliminary-program) | [Abstract Guidelines](#abstract-guidelines) | [Organisers](#program-committee) | [Travel](#location-and-travel) | [Housing](#housing) 
+[Program](#preliminary-program) | [Abstract Guidelines](#abstract-guidelines) | [Registration](https://congrezzo.ugent.be/international_renal_imaging_meeting_2023/) | [Organisers](#program-committee) | [Travel](#location-and-travel) | [Housing](#housing) 
 
 
 We warmly invite you to the 5th International Meeting on Renal Imaging in Ghent, Belgium on September 11-12, 2023. Please save the date! 
@@ -41,6 +41,8 @@ The list of hotels that offer discount fees see below:
 The information about how to get the hotel discount fees will be e-mailed after registration.
 
 # Abstract Guidelines
+
+[Abstract Submission form](https://docs.google.com/forms/d/e/1FAIpQLSfsJpl6NQoZb_z02oUEPyXkqG0QN8hh51H1Yte2xygZcCk0Jw/viewform?usp=sf_link) (requires Google login)
 
 Abstracts should be submitted as Microsoft Word document (\*.docx). The body of the abstract should contain the following sections: 
 
