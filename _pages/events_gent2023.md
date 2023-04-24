@@ -59,8 +59,6 @@ Abstracts should be submitted as Microsoft Word document (\*.docx). The body of 
 
 * References (not part of the body of the abstract
 
-![image](https://user-images.githubusercontent.com/15831740/234040775-03d262a9-4525-4747-81b1-94786f87cd55.png)
-
 ## Formatting
 
 * Title: max 125 characters
