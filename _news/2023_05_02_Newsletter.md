@@ -1,13 +1,13 @@
 ---
 title: "2023-05-02 Newsletter"
-excerpt: "Abstract submission open: Ghent, 5th intern. Meeting on Renal Imaging."
+excerpt: "Abstract submission and registration is open: Ghent, 5th intern. Meeting on Renal Imaging."
 ---
 
 ![image-center](/assets/images/header_renalMRI_right.png)
 
 Dear renalMRI - PARENCHIMA Team!
 
-We are excited to announce that the abstract submission for our upcoming 5th International Meeting on Renal Imaging in Ghent is now open!
+We are excited to announce that the abstract submission and registration for our upcoming 5th International Meeting on Renal Imaging in Ghent is open now!
 
 **Meeting**: The meeting will be held on 11-12 September in Ghent (Belgium).
 
@@ -17,7 +17,7 @@ In good tradition to the previous meetings, this interdisciplinary meeting will 
 
 By the way: You can already look forward to the evening programme, where we were able to get an internationally renowned and top-class entertainer for you.
 
-**Registration**: The registration for the meeting will be opened by 15th May. 
+**Registration**: The registration for the meeting is opened now! To register for the meeting please visit [renalmri.org/events/gent2023](https://renalmri.org/events/gent2023).
 
 If you have any questions or concerns, please do not hesitate to contact us at [renalimagingmeeting@gmail.com](mailto:renalimagingmeeting@gmail.com)
 
