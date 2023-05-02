@@ -10,6 +10,7 @@ Dear renalMRI - PARENCHIMA Team!
 We are excited to announce that the abstract submission for our upcoming 5th International Meeting on Renal Imaging in Ghent is now open!
 
 **Meeting**: The meeting will be held on 11-12 September in Ghent (Belgium).
+
 **Abstract**: To submit an abstract, please visit our meeting website at [www.renalmri.org](https://renalmri.org/events/gent2023) and follow the instructions. The deadline for submission is **15th June**, and we encourage early submissions. We welcome submissions from all fields of renal imaging.
 
 In good tradition to the previous meetings, this interdisciplinary meeting will also provide a platform for young and advanced experts in all fields of renal imaging and give the opportunity to share the knowledge and expertise. The agenda for the meeting will include presentations from renowned speakers, panel discussions, and a lot of networking opportunities that will enable us to exchange ideas and discuss the latest developments in the field over a glass of excellent Belgian beer. You will find our preliminary program on the meeting homepage. 
