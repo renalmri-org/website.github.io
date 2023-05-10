@@ -25,6 +25,9 @@ If you want to join us or the newsletter, please read and consent to our [privac
 * Prof. Charlotte Debbaut
 * Marijn Speeckaert
 
+## 🇧🇷 Brazil
+* Thiago Abud Menezes
+
 ## 🇭🇷️ Croatia
 * Dr. Loncaric Sven
 * Dr. Subasic Marko
