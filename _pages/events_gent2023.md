@@ -5,7 +5,7 @@ collection: events
 author_profile: false
 ---
 
-![promo](/assets/images/gent_images/gent_promo.png "(c) Sint-Baafskathedraal Gent, www.artinflanders.be – een initiatief van meemoo. Design and editing Jabez Sinnesael"
+![promo](/assets/images/gent_images/gent_promo.png "(c) Sint-Baafskathedraal Gent, www.artinflanders.be – een initiatief van meemoo. Design and editing Jabez Sinnesael. Adapted by renalmri.org"
 )
 
 
