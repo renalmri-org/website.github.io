@@ -5,7 +5,8 @@ collection: events
 author_profile: false
 ---
 
-![promo](/assets/images/gent_images/gent_promo.png)
+![promo](/assets/images/gent_images/gent_promo.png "(c) Sint-Baafskathedraal Gent, www.artinflanders.be – een initiatief van meemoo. Design and editing Jabez Sinnesael"
+)
 
 
 [Program](#preliminary-program) | [Abstract Guidelines](#abstract-guidelines) | [Registration](https://congrezzo.ugent.be/international_renal_imaging_meeting_2023/) | [Organisers](#program-committee) | [Travel](#location-and-travel) | [Housing](#housing) 
