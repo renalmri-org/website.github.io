@@ -11,7 +11,7 @@ Dear all,
 
 [The meeting will take place on 11/12 September 2023 in Ghent, Belgium.](https://renalmri.org/events/gent2023)
 
-NEW DEADLINE: 10th of July 2023, 23:59 CET
+**NEW DEADLINE: 10th of July 2023, 23:59 CET**
 
 Abstracts can be submitted here. 
 
