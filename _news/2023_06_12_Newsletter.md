@@ -8,7 +8,8 @@ excerpt: "EXTENTION: Abstract submission for the 5th international renal imaging
 Dear all,
 
 **The abstract submission deadline for the 5th international renal imaging meeting has been extended!** 
-The meeting will take place on 11/12 September 2023 in Ghent, Belgium.
+
+[The meeting will take place on 11/12 September 2023 in Ghent, Belgium.](https://renalmri.org/events/gent2023)
 
 NEW DEADLINE: 10th of July 2023, 23:59 CET
 
@@ -19,4 +20,3 @@ Please note that abstracts can be a shortened version of your ISMRM or other rec
 Best regards,
 
 The organizing committee
-[renalmri.org/events/gent2023](https://renalmri.org/events/gent2023)
