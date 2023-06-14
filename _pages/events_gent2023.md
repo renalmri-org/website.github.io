@@ -9,10 +9,10 @@ author_profile: false
 )
 
 
-[Program](#preliminary-program) | [Abstract Guidelines](#abstract-guidelines) | [Registration](https://congrezzo.ugent.be/international_renal_imaging_meeting_2023/) | [Organisers](#program-committee) | [Travel](#location-and-travel) | [Housing](#housing) 
+[Program](#preliminary-program) | [Abstract Guidelines](#abstract-guidelines) | [Registration](https://congrezzo.ugent.be/international_renal_imaging_meeting_2023/) | [Organisers](#program-committee) | [Travel](#location-and-travel) | [Housing](#housing)
 
 
-We warmly invite you to the 5th International Meeting on Renal Imaging in Ghent, Belgium on September 11-12, 2023. Please save the date! 
+We warmly invite you to the 5th International Meeting on Renal Imaging in Ghent, Belgium on September 11-12, 2023. Please save the date!
 
 The 2023 meeting will continue the tradition of previous meetings by soliciting content across all relevant disciplines, with this year a particular emphasis on Ultrasound and nuclear medicine alongside MRI.
 
@@ -48,7 +48,7 @@ The information about how to get the hotel discount fees will be e-mailed after�
 
 [Abstract Submission form](https://docs.google.com/forms/d/e/1FAIpQLSfsJpl6NQoZb_z02oUEPyXkqG0QN8hh51H1Yte2xygZcCk0Jw/viewform?usp=sf_link) (requires Google login)
 
-Abstracts should be submitted as Microsoft Word document (\*.docx). The body of the abstract should contain the following sections: 
+Abstracts should be submitted as Microsoft Word document (\*.docx). The body of the abstract should contain the following sections:
 
 * Introduction
 “Why was this study/research performed? What unsolved problem are you addressing?”
@@ -80,9 +80,9 @@ Download a template [here](/assets/images/resources/AbstractTemplateRenalImaging
 
 # Program committee
 
- The program committee is responsible for selecting topics, speakers, and proffered papers from submitted abstracts. 
+ The program committee is responsible for selecting topics, speakers, and proffered papers from submitted abstracts.
 
-| <!-- --> | <!-- --> | 
+| <!-- --> | <!-- --> |
 |-----|-----|
 **Lejla Aganovic, MD, PhD**<br>UC San Diego<br>San Diego, USA|**Lena Berchtold, MD, PhD**<br>Hôpitaux Universitaires Genève<br>Genève, CH
 **Sophie De Seigneux, MD, PhD**<br>Hôpitaux Universitaires Genève<br>Genève, CH| **Pieter De Visschere, MD, PhD**<br>Ghent University Hospital & Ghent University<br>Gent, BE
@@ -91,12 +91,13 @@ Download a template [here](/assets/images/resources/AbstractTemplateRenalImaging
 
 ## Local Organising committee
 
-| <!-- --> | <!-- --> | 
+| <!-- --> | <!-- --> |
 |-----|-----|
 **Pim Pullens PhD**<br>renalmri.org vice-chair<br>MR Physicist at Ghent University Hospital & Ghent University<br>ISMRM renal MRI studygroup member| **Pieter De Visschere, MD PhD**<br>Urogenital radiologist Ghent University Hospital<br>active ESUR member|
 **Marijn Speeckaert, MD PhD**<br>Nephrologist Ghent University Hospital||
 
 # Preliminary program
+
 
 <table align="center">
   <thead>
@@ -104,11 +105,12 @@ Download a template [here](/assets/images/resources/AbstractTemplateRenalImaging
       <th style="text-align: center;">Session</th>
       <th style="text-align: center;">Time</th>
       <th style="text-align: center;">Talk</th>
+      <th style="text-align: center;">Presenter</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td colspan=3 align="center" style="font-weight: bold; text-transform: uppercase;">Monday 11 September</td>
+      <td colspan=4 align="center" style="font-weight: bold; text-transform: uppercase;">Monday 11 September</td>
     </tr>
     <tr>
       <td align="center"></td>
@@ -123,18 +125,22 @@ Download a template [here](/assets/images/resources/AbstractTemplateRenalImaging
     <tr>
       <td align="center">9:00</td>
       <td align="center">Welcome and Objectives</td>
+      <td align="center">Pieter De Visschere and Pim Pullens (Ghent, Belgium)</td>
     </tr>
     <tr>
       <td align="center">9:15</td>
       <td align="center">renalMRI.org</td>
+      <td align="center">Alexandra Ljimani (Duesseldorf, Germany)</td>
     </tr>
     <tr>
       <td align="center">9:30</td>
       <td align="center">Renal imaging in ESUR</td>
+      <td align="center">Geert Villeirs (Ghent, Belgium) (chairman radiology department Ghent University Hospital and president elect of ESUR)</td>
     </tr>
     <tr>
       <td align="center">9:45</td>
       <td align="center">Renal imaging in ISMRM</td>
+      <td align="center">Eric Sigmund (NY, USA)</td>
     </tr>
     <tr>
       <td align="center"></td>
@@ -149,22 +155,27 @@ Download a template [here](/assets/images/resources/AbstractTemplateRenalImaging
     <tr>
       <td align="center">10:30</td>
       <td align="center">Speed dating Radiology/Urology: clinical needs of the urologist</td>
+      <td align="center">Charles Van Praet (Ghent, Belgium)</td>
     </tr>
     <tr>
       <td align="center">10:50</td>
       <td align="center">Imaging solid renal lesions: new developments in US, CT and MRI</td>
+      <td align="center">Rebeca Miron Mombiela (Kopenhagen, Denmark)</td>
     </tr>
     <tr>
       <td align="center">11:10</td>
       <td align="center">Imaging in urological interventions</td>
+      <td align="center">Pieter De Backer (Ghent, Belgium)</td>
     </tr>
     <tr>
       <td align="center">11:30</td>
       <td align="center">MR urography: adults + pediatric</td>
+      <td align="center">Sila Kurugol (Boston, USA) </td>
     </tr>
     <tr>
       <td align="center">11:50</td>
       <td align="center">How to protect kidney: contrast agent safety and novel developments</td>
+      <td align="center">Aart van der Molen (Leiden, NL)</td>
     </tr>
     <tr>
       <td align="center"></td>
@@ -184,15 +195,18 @@ Download a template [here](/assets/images/resources/AbstractTemplateRenalImaging
     <tr>
       <td align="center">14:00</td>
       <td align="center">Speed dating Radiology/Nephrology: clinical needs of the nephrologist</td>
+      <td align="center">Marijn Speeckaert (Ghent, Belgium)</td>
     </tr>
     <tr>
       <td align="center">14:20</td>
       <td align="center">Development and Validation of a Modified Full Age Spectrum Creatinine-Based Equation to Estimate Glomerular Filtration
       Rate</td>
+      <td align="center">Hans Pottel (KU Leuven-Kortrijk, NL)</td>
     </tr>
     <tr>
       <td align="center">14:40</td>
       <td align="center">MRI: opportunities for functional renal imaging</td>
+      <td align="center">Iosif Mendichovsky (Cambridge, UK)</td>
     </tr>
     <tr>
       <td align="center">15:20</td>
@@ -201,6 +215,7 @@ Download a template [here](/assets/images/resources/AbstractTemplateRenalImaging
     <tr>
       <td align="center">15:40</td>
       <td align="center">US: Functional reserve imaging using CEUS and other techniques</td>
+      <td align="center">Menno Pruijm (Lausanne, CH)</td>
     </tr>
     <tr>
       <td align="center"></td>
@@ -224,10 +239,12 @@ Download a template [here](/assets/images/resources/AbstractTemplateRenalImaging
     <tr>
       <td align="center">17:20</td>
       <td align="center">Biased renal MRI: How the drugs influence our image data</td>
+      <td align="center">Octavia Bane (NY, USA)</td>
     </tr>
     <tr>
       <td align="center">17:40</td>
       <td align="center">MRI: New developments in targeted MRI tracers for renal filtration and perfusion</td>
+      <td align="center">Kevin Bennet (Minnesota, USA)</td>
     </tr>
     <tr>
       <td align="center"></td>
@@ -245,7 +262,7 @@ Download a template [here](/assets/images/resources/AbstractTemplateRenalImaging
       <td align="center">The T2 stars? Jazz trio?</td>
     </tr>
     <tr>
-      <td colspan=3 align="center" style="font-weight: bold; text-transform: uppercase;">Tuesday 12 September</td>
+      <td colspan=4 align="center" style="font-weight: bold; text-transform: uppercase;">Tuesday 12 September</td>
     </tr>
     <tr>
       <td align="center"></td>
@@ -260,18 +277,22 @@ Download a template [here](/assets/images/resources/AbstractTemplateRenalImaging
     <tr>
       <td align="center">9:00</td>
       <td align="center">Clinical trials on added value of MRI in CKD</td>
+      <td align="center">Iris Friedli (Uppsala, Sweden)</td>
     </tr>
     <tr>
       <td align="center">9:20</td>
       <td align="center">MRI: fibrosis imaging and possibilities for the kidney</td>
+      <td align="center">Julia Stabinska (Hopkins, USA)</td>
     </tr>
     <tr>
       <td align="center">9:40</td>
       <td align="center">Imaging in ADPKD: beyond total kidney volume</td>
+      <td align="center">Anna Caroli (Bergamo, Italy)</td>
     </tr>
     <tr>
       <td align="center">10:00</td>
       <td align="center">Validation of MRI biomarkers by histopathology</td>
+      <td align="center">Ilona Dekkers (Leiden, NL)</td>
     </tr>
     <tr>
       <td align="center">10:15</td>
@@ -295,18 +316,22 @@ Download a template [here](/assets/images/resources/AbstractTemplateRenalImaging
     <tr>
       <td align="center">11:30</td>
       <td align="center">General talk on AKI</td>
+      <td align="center">Sophie De Seigneux  (Geneve, CH)</td>
     </tr>
     <tr>
       <td align="center">11:45</td>
       <td align="center">Multiparametric MRI assessment of renal structure and function in acute kidney injury and renal recovery</td>
+      <td align="center">Sue Francis (Nottingham, UK)</td>
     </tr>
     <tr>
       <td align="center">12:00</td>
       <td align="center">NUC: Renal scintigraphy to predict persistent renal failure after acute kidney injury</td>
+      <td align="center">Jouret Francois (Liege, Belgium)</td>
     </tr>
     <tr>
       <td align="center">12:15</td>
       <td align="center">Multi-modality renal imaging (CEUS/scintigraphy/mpMRI) in dogs (and humans)</td>
+      <td align="center">Amber Hillaert (Ghent, Belgium)</td>
     </tr>
     <tr>
       <td align="center"></td>
@@ -326,14 +351,17 @@ Download a template [here](/assets/images/resources/AbstractTemplateRenalImaging
     <tr>
       <td align="center">14:00</td>
       <td align="center">Diagnostics in renal transplant care and imaging opportunities</td>
+      <td align="center">Suraj Serai (Philadelphia, USA)</td>
     </tr>
     <tr>
       <td align="center">14:20</td>
       <td align="center">mpMRI before and after kidney transplantation? -> overview of clinical trials</td>
+      <td align="center">Lena Berchtold (Geneve, CH)</td>
     </tr>
     <tr>
       <td align="center">14:40</td>
       <td align="center">Prognostic imaging biomarkers for diabetic kidney disease (iBEAt)</td>
+      <td align="center">Steven Sourbron (Sheffield, UK)</td>
     </tr>
     <tr>
       <td align="center">15:00</td>
@@ -356,10 +384,12 @@ Download a template [here](/assets/images/resources/AbstractTemplateRenalImaging
     <tr>
       <td align="center">16:20</td>
       <td align="center">Image processing in a clinical environment: where do we stand?</td>
+      <td align="center">Siemens: Gregor Thoermer/Thomas Janssens</td>
     </tr>
     <tr>
       <td align="center">16:30</td>
       <td align="center">Image processing in a clinical environment: where do we stand?</td>
+      <td align="center">Philips: Kim van de Ven</td>
     </tr>
     <tr>
       <td align="center">16:40</td>
@@ -383,7 +413,7 @@ Download a template [here](/assets/images/resources/AbstractTemplateRenalImaging
 
 "There's no better place to acquire and share knowledge than Ghent."
 
-Belgium’s conference hotspot excels, both on a national and on an international level, in sectors ranging from art to agro, food, technology and biotech.  Ghent is home to various educational institutions, research centres and knowledge clusters and is simply a nice place to organise a conference: hospitable, charming, historical, sustainable and innovative.  In short, a city on a human scale. 
+Belgium’s conference hotspot excels, both on a national and on an international level, in sectors ranging from art to agro, food, technology and biotech.  Ghent is home to various educational institutions, research centres and knowledge clusters and is simply a nice place to organise a conference: hospitable, charming, historical, sustainable and innovative.  In short, a city on a human scale.
 
 ![City of Gent](/assets/images/gent_images/gent_city.png)
 
@@ -414,6 +444,3 @@ Cities are increasingly making efforts to limit their environmental impact. In G
 - Flights to Amsterdam NL have direct train connections to Gent (2 hrs)
 
 ![Location Gent](/assets/images/gent_images/gent_location.png)
-
-
-
