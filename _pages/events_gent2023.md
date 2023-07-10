@@ -17,9 +17,9 @@ We warmly invite you to the 5th International Meeting on Renal Imaging in Ghent,
 The 2023 meeting will continue the tradition of previous meetings by soliciting content across all relevant disciplines, with this year a particular emphasis on Ultrasound and nuclear medicine alongside MRI.
 
 **Be part of our next for our next International Meeting on Renal Imaging in Ghent!
-The abstract submission is now open! Submission deadline is ~~15th June 2023.~~**  
+The abstract submission is now open! Submission deadline is ~~10th July 2023.~~**  
 
-**<span style="color:red">EXTENDED to 10th July 2023 23:59 CET</span>**
+**<span style="color:red">EXTENDED to 15th July 2023 23:59 CET</span>**
 
 <center><a href="https://docs.google.com/forms/d/e/1FAIpQLSfsJpl6NQoZb_z02oUEPyXkqG0QN8hh51H1Yte2xygZcCk0Jw/viewform?usp=sf_link" class="btn btn--primary btn--large">Submit Abstract</a></center>
 <center><a href="#abstract-guidelines">Abstract Guidelines</a></center>
