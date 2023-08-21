@@ -184,13 +184,14 @@ Download a template [here](/assets/images/resources/AbstractTemplateRenalImaging
       <td align="center">Power pitch session 1 (3 minutes talks)</td>
       <td align="center"></td>
     </tr>
-      <tr>
-            <td rowspan=5 align="center" style="background-color: #e6e6e6;"> <b>3rd Session</b> <br>14:00-16:00<br> Imaging renal function (part 1)</td>
-      <td align="center">14:00</td>
+      <tr style="background-color: #d6e4f0;">
       <td align="center"></td>
+      <td align="center">14:00-14:20</td>
+      <td align="center">Coffee Break</td>
       <td align="center"></td>
     </tr>
-    <tr>
+      <tr>
+            <td rowspan=5 align="center" style="background-color: #e6e6e6;"> <b>3rd Session</b> <br>14:20-16:00<br> Imaging renal function (part 1)</td>
       <td align="center">14:20</td>
       <td align="center">Speed dating Radiology/Nephrology: clinical needs of the nephrologist</td>
       <td align="center">Marijn Speeckaert (Ghent, Belgium)</td>
@@ -222,13 +223,14 @@ Download a template [here](/assets/images/resources/AbstractTemplateRenalImaging
       <td align="center">Power pitch session 2 (3 minutes talks)</td>
       <td align="center"></td>
     </tr>
-      <tr>
-            <td rowspan=3 align="center" style="background-color: #e6e6e6;"> <b>4th Session </b> <br>17:00-18:00<br> Imaging renal function (part 2)</td>
-       <td align="center">17:00</td>
+   <tr style="background-color: #d6e4f0;">
       <td align="center"></td>
+      <td align="center">17:00-17:20</td>
+      <td align="center">Coffee Break</td>
       <td align="center"></td>
     </tr>
-    <tr>
+      <tr>
+            <td rowspan=3 align="center" style="background-color: #e6e6e6;"> <b>4th Session </b> <br>17:20-18:00<br> Imaging renal function (part 2)</td>
       <td align="center">17:20</td>
       <td align="center">Biased renal MRI: How the drugs influence our image data</td>
       <td align="center">Octavia Bane (NY, USA)</td>
@@ -266,7 +268,7 @@ Download a template [here](/assets/images/resources/AbstractTemplateRenalImaging
       <td align="center"></td>
     </tr>
       <tr>
-            <td rowspan=5 align="center" style="background-color: #e6e6e6;"> <b>5th Session</b> <br>9:00-10:30<br> CKD imaging</td>
+            <td rowspan=4 align="center" style="background-color: #e6e6e6;"> <b>5th Session</b> <br>9:00-10:30<br> CKD imaging</td>
       <td align="center">09:00</td>
       <td align="center">Clinical trials on added value of MRI in CKD</td>
       <td align="center">Iris Friedli (Uppsala, Sweden)</td>
@@ -286,14 +288,9 @@ Download a template [here](/assets/images/resources/AbstractTemplateRenalImaging
       <td align="center">Validation of MRI biomarkers by histopathology</td>
       <td align="center">Ilona Dekkers (Leiden, NL)</td>
     </tr>
-    <tr>
-      <td align="center">10:15</td>
-      <td align="center"></td>
-      <td align="center"></td>
-    </tr>
     <tr style="background-color: #d6e4f0;">
       <td align="center"></td>
-      <td align="center">10:30-11:00</td>
+      <td align="center">10:15-11:00</td>
       <td align="center">Break</td>
       <td align="center"></td>
     </tr>
