@@ -364,17 +364,17 @@ Download a template [here](/assets/images/resources/AbstractTemplateRenalImaging
       <td rowspan=3 align="center" style="background-color: #e6e6e6;"> <b>8th Session</b> <br>16:00-17:00<br> Image processing</td>
       <td align="center">16:00</td>
       <td align="center">Image processing in a clinical environment: where do we stand?</td>
-      <td align="center">Siemens: Gregor Thoermer/Thomas Janssens</td>
+      <td align="center">Andreas Pohlmann, Siemens Healthineers</td>
     </tr>
     <tr>
       <td align="center">16:20</td>
       <td align="center">Image processing in a clinical environment: where do we stand?</td>
-      <td align="center">Philips: Kim van de Ven</td>
+      <td align="center">Hans Peeters, Philips</td>
     </tr>
     <tr>
       <td align="center">16:30</td>
-      <td align="center">Image processing in a clinical environment: where do we stand?</td>
-      <td align="center">Kidney Patient organization ?</td>
+      <td align="center">Renal imaging benefit for the patient</td>
+      <td align="center">TBA</td>
     </tr>
     <tr style="background-color: #d6e4f0;">
       <td align="center"></td>
