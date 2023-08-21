@@ -191,7 +191,7 @@ Download a template [here](/assets/images/resources/AbstractTemplateRenalImaging
       <td align="center"></td>
     </tr>
       <tr>
-            <td rowspan=5 align="center" style="background-color: #e6e6e6;"> <b>3rd Session</b> <br>14:20-16:00<br> Imaging renal function (part 1)</td>
+            <td rowspan=4 align="center" style="background-color: #e6e6e6;"> <b>3rd Session</b> <br>14:20-16:00<br> Imaging renal function (part 1)</td>
       <td align="center">14:20</td>
       <td align="center">Speed dating Radiology/Nephrology: clinical needs of the nephrologist</td>
       <td align="center">Marijn Speeckaert (Ghent, Belgium)</td>
@@ -230,7 +230,7 @@ Download a template [here](/assets/images/resources/AbstractTemplateRenalImaging
       <td align="center"></td>
     </tr>
       <tr>
-            <td rowspan=3 align="center" style="background-color: #e6e6e6;"> <b>4th Session </b> <br>17:20-18:00<br> Imaging renal function (part 2)</td>
+            <td rowspan=2 align="center" style="background-color: #e6e6e6;"> <b>4th Session </b> <br>17:20-18:00<br> Imaging renal function (part 2)</td>
       <td align="center">17:20</td>
       <td align="center">Biased renal MRI: How the drugs influence our image data</td>
       <td align="center">Octavia Bane (NY, USA)</td>
