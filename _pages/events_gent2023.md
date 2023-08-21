@@ -189,7 +189,7 @@ Download a template [here](/assets/images/resources/AbstractTemplateRenalImaging
     </tr>
     <tr>
       <tr style="background-color: #e6e6e6;">
-            <td rowspan=5 align="center">3rd Session 14:00-16:00 >Imaging renal function (part 1)</td>
+            <td rowspan=5 align="center">3rd Session 14:00-16:00 Imaging renal function (part 1)</td>
       <td align="center">14:00</td>
       <td align="center"</td>
       <td align="center"></td>
