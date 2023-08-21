@@ -100,7 +100,6 @@ Download a template [here](/assets/images/resources/AbstractTemplateRenalImaging
 
 # Preliminary program
 
-
 <table border="1" cellpadding="5" cellspacing="0" style="width: 100%;">
   <thead>
     <tr>
@@ -111,9 +110,9 @@ Download a template [here](/assets/images/resources/AbstractTemplateRenalImaging
     </tr>
   </thead>
   <tbody>
-        <tr style="background-color: #f2f2f2;">
-            <td colspan="4" align="center" style="font-weight: bold;">MONDAY 11 SEPTEMBER</td>
-        </tr>
+    <tr style="background-color: #f2f2f2;">
+      <td colspan="4" align="center" style="font-weight: bold;">MONDAY 11 SEPTEMBER</td>
+    </tr>
     <tr style="background-color: #81c9ef;">
       <td align="center"></td>
       <td align="center">8:30-9:00</td>
@@ -121,8 +120,7 @@ Download a template [here](/assets/images/resources/AbstractTemplateRenalImaging
       <td align="center"></td>
     </tr>
     <tr>
-      <tr>
-            <td rowspan=4 align="center" style="background-color: #e6e6e6;">1st Session <br>9:00-10:00<br> Opening</td>
+      <td rowspan=4 align="center" style="background-color: #e6e6e6;">1st Session <br>9:00-10:00<br> Opening</td>
       <td align="center">09:00</td>
       <td align="center">Welcome and Objectives</td>
       <td align="center">Pieter De Visschere and Pim Pullens (Ghent, Belgium)</td>
