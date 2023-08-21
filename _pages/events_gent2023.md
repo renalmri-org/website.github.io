@@ -112,35 +112,32 @@ Download a template [here](/assets/images/resources/AbstractTemplateRenalImaging
   </thead>
   <tbody>
     <tr>
-      <td colspan=4 align="center" style="font-weight: bold; text-transform: uppercase;">Monday 11 September</td>
+      <td colspan=4 align="center" style="font-weight: bold; text-transform: uppercase;">MONDAY 11 SEPTEMBER</td>
     </tr>
     <tr>
       <td align="center"></td>
       <td align="center">8:30-9:00</td>
       <td align="center">Coffee desk upon arrival</td>
+      <td align="center"></td>
     </tr>
     <tr>
-      <td rowspan=5 align="center">1st Session <br>Opening</td>
-      <td align="center" style="width: 20%;">9:00-10:00</td>
-      <td align="center">Opening</td>
-    </tr>
-    <tr>
-      <td align="center">9:00</td>
+      <td rowspan=4 align="center">1st Session 9:00-10:00 Opening</td>
+      <td align="center">09:00</td>
       <td align="center">Welcome and Objectives</td>
       <td align="center">Pieter De Visschere and Pim Pullens (Ghent, Belgium)</td>
     </tr>
     <tr>
-      <td align="center">9:15</td>
+      <td align="center">09:15</td>
       <td align="center">renalMRI.org</td>
       <td align="center">Alexandra Ljimani (Duesseldorf, Germany)</td>
     </tr>
     <tr>
-      <td align="center">9:30</td>
+      <td align="center">09:30</td>
       <td align="center">Renal imaging in ESUR</td>
       <td align="center">Geert Villeirs (Ghent, Belgium) (chairman radiology department Ghent University Hospital and president elect of ESUR)</td>
     </tr>
     <tr>
-      <td align="center">9:45</td>
+      <td align="center">09:45</td>
       <td align="center">Renal imaging in ISMRM</td>
       <td align="center">Eric Sigmund (NY, USA)</td>
     </tr>
@@ -148,13 +145,10 @@ Download a template [here](/assets/images/resources/AbstractTemplateRenalImaging
       <td align="center"></td>
       <td align="center">10:00-10:30</td>
       <td align="center">Break</td>
+      <td align="center"></td>
     </tr>
     <tr>
-      <td rowspan=6 align="center">2nd Session<br>Renal urological imaging</td>
-      <td align="center">10:30-12:10</td>
-      <td align="center">Renal urological imaging</td>
-    </tr>
-    <tr>
+      <td rowspan=5 align="center">2nd Session 10:30-12:10 Renal urological imaging</td>
       <td align="center">10:30</td>
       <td align="center">Speed dating Radiology/Urology: clinical needs of the urologist</td>
       <td align="center">Charles Van Praet (Ghent, Belgium)</td>
@@ -172,7 +166,7 @@ Download a template [here](/assets/images/resources/AbstractTemplateRenalImaging
     <tr>
       <td align="center">11:30</td>
       <td align="center">MR urography: adults + pediatric</td>
-      <td align="center">Sila Kurugol (Boston, USA) </td>
+      <td align="center">Sila Kurugol (Boston, USA)</td>
     </tr>
     <tr>
       <td align="center">11:50</td>
@@ -183,36 +177,34 @@ Download a template [here](/assets/images/resources/AbstractTemplateRenalImaging
       <td align="center"></td>
       <td align="center">12:10-13:30</td>
       <td align="center">Lunch (+poster viewing)</td>
+      <td align="center"></td>
     </tr>
     <tr>
       <td align="center"></td>
       <td align="center">13:30-14:00</td>
-      <td align="center">Power pitch session (3 minutes talks)</td>
+      <td align="center">Power pitch session 1 (3 minutes talks)</td>
+      <td align="center"></td>
     </tr>
     <tr>
-      <td rowspan=6 align="center">3rd Session<br>Imaging renal function (part 1)</td>
-      <td align="center">14:00-16:00</td>
-      <td align="center">Imaging renal function (part 1)</td>
-    </tr>
-    <tr>
+      <td rowspan=5 align="center">3rd Session 14:00-16:00 >Imaging renal function (part 1)</td>
       <td align="center">14:00</td>
+      <td align="center"</td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">14:20</td>
       <td align="center">Speed dating Radiology/Nephrology: clinical needs of the nephrologist</td>
       <td align="center">Marijn Speeckaert (Ghent, Belgium)</td>
     </tr>
     <tr>
-      <td align="center">14:20</td>
-      <td align="center">Development and Validation of a Modified Full Age Spectrum Creatinine-Based Equation to Estimate Glomerular Filtration
-      Rate</td>
+      <td align="center">14:40</td>
+      <td align="center">Development and Validation of a Modified Full Age Spectrum Creatinine-Based Equation to Estimate Glomerular Filtration Rate</td>
       <td align="center">Hans Pottel (KU Leuven-Kortrijk, NL)</td>
     </tr>
     <tr>
-      <td align="center">14:40</td>
+      <td align="center">15:20</td>
       <td align="center">MRI: opportunities for functional renal imaging</td>
       <td align="center">Iosif Mendichovsky (Cambridge, UK)</td>
-    </tr>
-    <tr>
-      <td align="center">15:20</td>
-      <td align="center">NUC: renal dynamic scintigraphy and opportunies for dynamic PET for functional kidney imaging</td>
     </tr>
     <tr>
       <td align="center">15:40</td>
@@ -223,20 +215,19 @@ Download a template [here](/assets/images/resources/AbstractTemplateRenalImaging
       <td align="center"></td>
       <td align="center">16:00-16:30</td>
       <td align="center">Break</td>
+      <td align="center"></td>
     </tr>
     <tr>
       <td align="center"></td>
       <td align="center">16:30-17:00</td>
-      <td align="center">Power pitch session (3 minutes talks)</td>
+      <td align="center">Power pitch session 2 (3 minutes talks)</td>
+      <td align="center"></td>
     </tr>
     <tr>
-      <td rowspan=4 align="center">4th Session<br>Imaging renal function (part 2)</td>
-      <td align="center">17:00-18:00</td>
-      <td align="center">Imaging renal function (part 2)</td>
-    </tr>
-    <tr>
-      <td align="center">17:00</td>
-      <td align="center">Renal stress testing: clinical relevance and opportunities for imaging?</td>
+      <td rowspan=3 align="center">4th Session 17:00-18:00 Imaging renal function (part 2)</td>
+       <td align="center">17:00</td>
+      <td align="center"></td>
+      <td align="center"></td>
     </tr>
     <tr>
       <td align="center">17:20</td>
@@ -246,48 +237,48 @@ Download a template [here](/assets/images/resources/AbstractTemplateRenalImaging
     <tr>
       <td align="center">17:40</td>
       <td align="center">MRI: New developments in targeted MRI tracers for renal filtration and perfusion</td>
-      <td align="center">Kevin Bennet (Minnesota, USA)</td>
+      <td align="center">Kevin Bennet (St. Louis, Missouri, USA)</td>
     </tr>
     <tr>
       <td align="center"></td>
       <td align="center">18:00-18:10</td>
       <td align="center">Closure</td>
+      <td align="center"></td>
     </tr>
     <tr>
       <td align="center">Evening</td>
       <td align="center">19:30-22:30</td>
       <td align="center">Course diner</td>
+      <td align="center"></td>
     </tr>
     <tr>
       <td align="center">Night</td>
       <td align="center">22:30-?</td>
       <td align="center">The T2 stars? Jazz trio?</td>
+      <td align="center">Rik Achten &co</td>
     </tr>
     <tr>
-      <td colspan=4 align="center" style="font-weight: bold; text-transform: uppercase;">Tuesday 12 September</td>
+      <td colspan=4 align="center" style="font-weight: bold; text-transform: uppercase;">TUESDAY 12 SEPTEMBER</td>
     </tr>
     <tr>
       <td align="center"></td>
       <td align="center">8:30-9:00</td>
       <td align="center">Coffee desk upon arrival</td>
+      <td align="center"></td>
     </tr>
     <tr>
-      <td rowspan=6 align="center">5th Session <br>CKD imaging</td>
-      <td align="center" style="width: 20%;">9:00-10:30</td>
-      <td align="center">CKD imaging</td>
-    </tr>
-    <tr>
-      <td align="center">9:00</td>
+      <td rowspan=5 align="center">5th Session 9:00-10:30 CKD imaging</td>
+      <td align="center">09:00</td>
       <td align="center">Clinical trials on added value of MRI in CKD</td>
       <td align="center">Iris Friedli (Uppsala, Sweden)</td>
     </tr>
     <tr>
-      <td align="center">9:20</td>
+      <td align="center">09:20</td>
       <td align="center">MRI: fibrosis imaging and possibilities for the kidney</td>
       <td align="center">Julia Stabinska (Hopkins, USA)</td>
     </tr>
     <tr>
-      <td align="center">9:40</td>
+      <td align="center">09:40</td>
       <td align="center">Imaging in ADPKD: beyond total kidney volume</td>
       <td align="center">Anna Caroli (Bergamo, Italy)</td>
     </tr>
@@ -298,27 +289,26 @@ Download a template [here](/assets/images/resources/AbstractTemplateRenalImaging
     </tr>
     <tr>
       <td align="center">10:15</td>
-      <td align="center">MRI: Physiological changes during dialysis assessed using MRI?</td>
+      <td align="center"></td>
+      <td align="center"></td>
     </tr>
     <tr>
       <td align="center"></td>
       <td align="center">10:30-11:00</td>
       <td align="center">Break</td>
+      <td align="center"></td>
     </tr>
     <tr>
       <td align="center"></td>
       <td align="center">11:00-11:30</td>
-      <td align="center">Power pitch session (3 minutes talks)</td>
+      <td align="center">Power pitch session 3 (3 minutes talks)</td>
+      <td align="center"></td>
     </tr>
     <tr>
-      <td rowspan=5 align="center">6th Session<br>AKI imaging</td>
-      <td align="center">11:30-12:30</td>
-      <td align="center">AKI imaging</td>
-    </tr>
-    <tr>
+      <td rowspan=4 align="center">6th Session 11:30-12:30 AKI imaging</td>
       <td align="center">11:30</td>
       <td align="center">General talk on AKI</td>
-      <td align="center">Sophie De Seigneux  (Geneve, CH)</td>
+      <td align="center">Sophie De Seigneux (Geneve, CH)</td>
     </tr>
     <tr>
       <td align="center">11:45</td>
@@ -339,18 +329,16 @@ Download a template [here](/assets/images/resources/AbstractTemplateRenalImaging
       <td align="center"></td>
       <td align="center">12:30-13:30</td>
       <td align="center">Lunch</td>
+      <td align="center"></td>
     </tr>
     <tr>
       <td align="center"></td>
       <td align="center">13:30-14:00</td>
-      <td align="center">Power pitch session (3 minutes talks)</td>
+      <td align="center">Power pitch session 4 (3 minutes talks)</td>
+      <td align="center"></td>
     </tr>
     <tr>
-      <td rowspan=5 align="center">7th Session<br>Transplant imaging and imaging of DKD</td>
-      <td align="center">14:00-15:30</td>
-      <td align="center">Transplant imaging and imaging of DKD</td>
-    </tr>
-    <tr>
+      <td rowspan=4 align="center">7th Session 14:00-15:30 Transplant imaging and imaging of DKD</td>
       <td align="center">14:00</td>
       <td align="center">Diagnostics in renal transplant care and imaging opportunities</td>
       <td align="center">Suraj Serai (Philadelphia, USA)</td>
@@ -367,44 +355,36 @@ Download a template [here](/assets/images/resources/AbstractTemplateRenalImaging
     </tr>
     <tr>
       <td align="center">15:00</td>
-      <td align="center">Cardiorenal syndrome: Overview of metabolic imaging biomarkers in obesity-related renal disease</td>
+      <td align="center">Renal maging biomarkers in oncological diseases</td>
+      <td align="center">Romans Zukovs (Düsseldorf, Germany)</td>
     </tr>
     <tr>
       <td align="center"></td>
       <td align="center">15:30-16:00</td>
       <td align="center">Break</td>
+      <td align="center"></td>
     </tr>
     <tr>
-      <td rowspan=6 align="center">8th Session<br>Image processing</td>
-      <td align="center">16:00-17:00</td>
-      <td align="center">Image processing</td>
-    </tr>
-    <tr>
+      <td rowspan=3 align="center">8th Session 16:00-17:00 Image processing</td>
       <td align="center">16:00</td>
-      <td align="center">Multimodality and multiscale imaging for renal vascular systems biology</td>
-    </tr>
-    <tr>
-      <td align="center">16:20</td>
       <td align="center">Image processing in a clinical environment: where do we stand?</td>
       <td align="center">Siemens: Gregor Thoermer/Thomas Janssens</td>
     </tr>
     <tr>
-      <td align="center">16:30</td>
+      <td align="center">16:20</td>
       <td align="center">Image processing in a clinical environment: where do we stand?</td>
       <td align="center">Philips: Kim van de Ven</td>
     </tr>
     <tr>
-      <td align="center">16:40</td>
+      <td align="center">16:30</td>
       <td align="center">Image processing in a clinical environment: where do we stand?</td>
-    </tr>
-    <tr>
-      <td align="center">16:50</td>
-      <td align="center">Image processing in a clinical environment: where do we stand?</td>
+      <td align="center">Kidney Patient organization ?</td>
     </tr>
     <tr>
       <td align="center"></td>
       <td align="center">17:00-17:30</td>
-      <td align="center">Closing</td>
+      <td align="center">Closing (+voting host next meeting)</td>
+      <td align="center"></td>
     </tr>
   </tbody>
 </table>
