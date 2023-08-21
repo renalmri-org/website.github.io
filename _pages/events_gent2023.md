@@ -122,7 +122,7 @@ Download a template [here](/assets/images/resources/AbstractTemplateRenalImaging
     </tr>
     <tr>
       <tr style="background-color: #e6e6e6;">
-            <td rowspan=4 align="center">1st Session 9:00-10:00 Opening</td>
+            <td rowspan=4 align="center">1st Session <br>9:00-10:00<br> Opening</td>
       <td align="center">09:00</td>
       <td align="center">Welcome and Objectives</td>
       <td align="center">Pieter De Visschere and Pim Pullens (Ghent, Belgium)</td>
@@ -150,7 +150,7 @@ Download a template [here](/assets/images/resources/AbstractTemplateRenalImaging
     </tr>
     <tr>
       <tr style="background-color: #e6e6e6;">
-            <td rowspan=5 align="center">2nd Session 10:30-12:10 Renal urological imaging</td>
+            <td rowspan=5 align="center">2nd Session <br>10:30-12:10<br> Renal urological imaging</td>
       <td align="center">10:30</td>
       <td align="center">Speed dating Radiology/Urology: clinical needs of the urologist</td>
       <td align="center">Charles Van Praet (Ghent, Belgium)</td>
@@ -189,7 +189,7 @@ Download a template [here](/assets/images/resources/AbstractTemplateRenalImaging
     </tr>
     <tr>
       <tr style="background-color: #e6e6e6;">
-            <td rowspan=5 align="center">3rd Session 14:00-16:00 >Imaging renal function (part 1)</td>
+            <td rowspan=5 align="center">3rd Session <br>14:00-16:00<br> Imaging renal function (part 1)</td>
       <td align="center">14:00</td>
       <td align="center"</td>
       <td align="center"></td>
@@ -228,7 +228,7 @@ Download a template [here](/assets/images/resources/AbstractTemplateRenalImaging
     </tr>
     <tr>
       <tr style="background-color: #e6e6e6;">
-            <td rowspan=3 align="center">4th Session 17:00-18:00 Imaging renal function (part 2)</td>
+            <td rowspan=3 align="center">4th Session <br>17:00-18:00<br> Imaging renal function (part 2)</td>
        <td align="center">17:00</td>
       <td align="center"></td>
       <td align="center"></td>
@@ -272,7 +272,7 @@ Download a template [here](/assets/images/resources/AbstractTemplateRenalImaging
     </tr>
     <tr>
       <tr style="background-color: #e6e6e6;">
-            <td rowspan=5 align="center">5th Session 9:00-10:30 CKD imaging</td>
+            <td rowspan=5 align="center">5th Session <br>9:00-10:30<br> CKD imaging</td>
       <td align="center">09:00</td>
       <td align="center">Clinical trials on added value of MRI in CKD</td>
       <td align="center">Iris Friedli (Uppsala, Sweden)</td>
@@ -311,7 +311,7 @@ Download a template [here](/assets/images/resources/AbstractTemplateRenalImaging
     </tr>
     <tr>
       <tr style="background-color: #e6e6e6;">
-            <td rowspan=4 align="center">6th Session 11:30-12:30 AKI imaging</td>
+            <td rowspan=4 align="center">6th Session <br>11:30-12:30<br> AKI imaging</td>
       <td align="center">11:30</td>
       <td align="center">General talk on AKI</td>
       <td align="center">Sophie De Seigneux (Geneve, CH)</td>
@@ -345,7 +345,7 @@ Download a template [here](/assets/images/resources/AbstractTemplateRenalImaging
     </tr>
     <tr>
       <tr style="background-color: #e6e6e6;">
-            <td rowspan=4 align="center">7th Session 14:00-15:30 Transplant imaging and imaging of DKD</td>
+            <td rowspan=4 align="center">7th Session <br>14:00-15:30<br> Transplant imaging and imaging of DKD</td>
       <td align="center">14:00</td>
       <td align="center">Diagnostics in renal transplant care and imaging opportunities</td>
       <td align="center">Suraj Serai (Philadelphia, USA)</td>
@@ -372,7 +372,7 @@ Download a template [here](/assets/images/resources/AbstractTemplateRenalImaging
       <td align="center"></td>
     </tr>
     <tr>
-      <td rowspan=3 align="center">8th Session 16:00-17:00 Image processing</td>
+      <td rowspan=3 align="center">8th Session <br>16:00-17:00<br> Image processing</td>
       <td align="center">16:00</td>
       <td align="center">Image processing in a clinical environment: where do we stand?</td>
       <td align="center">Siemens: Gregor Thoermer/Thomas Janssens</td>
