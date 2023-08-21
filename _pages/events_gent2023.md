@@ -101,7 +101,7 @@ Download a template [here](/assets/images/resources/AbstractTemplateRenalImaging
 # Preliminary program
 
 
-<table align="center">
+<table border="1" cellpadding="5" cellspacing="0" style="width: 100%;">
   <thead>
     <tr>
       <th style="text-align: center;">Session</th>
@@ -111,9 +111,9 @@ Download a template [here](/assets/images/resources/AbstractTemplateRenalImaging
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td colspan=4 align="center" style="font-weight: bold; text-transform: uppercase;">MONDAY 11 SEPTEMBER</td>
-    </tr>
+        <tr style="background-color: #f2f2f2;">
+            <td colspan="4" align="center" style="font-weight: bold;">MONDAY 11 SEPTEMBER</td>
+        </tr>
     <tr>
       <td align="center"></td>
       <td align="center">8:30-9:00</td>
@@ -121,7 +121,8 @@ Download a template [here](/assets/images/resources/AbstractTemplateRenalImaging
       <td align="center"></td>
     </tr>
     <tr>
-      <td rowspan=4 align="center">1st Session 9:00-10:00 Opening</td>
+      <tr style="background-color: #e6e6e6;">
+            <td rowspan=4 align="center">1st Session 9:00-10:00 Opening</td>
       <td align="center">09:00</td>
       <td align="center">Welcome and Objectives</td>
       <td align="center">Pieter De Visschere and Pim Pullens (Ghent, Belgium)</td>
@@ -148,7 +149,8 @@ Download a template [here](/assets/images/resources/AbstractTemplateRenalImaging
       <td align="center"></td>
     </tr>
     <tr>
-      <td rowspan=5 align="center">2nd Session 10:30-12:10 Renal urological imaging</td>
+      <tr style="background-color: #e6e6e6;">
+            <td rowspan=5 align="center">2nd Session 10:30-12:10 Renal urological imaging</td>
       <td align="center">10:30</td>
       <td align="center">Speed dating Radiology/Urology: clinical needs of the urologist</td>
       <td align="center">Charles Van Praet (Ghent, Belgium)</td>
@@ -186,7 +188,8 @@ Download a template [here](/assets/images/resources/AbstractTemplateRenalImaging
       <td align="center"></td>
     </tr>
     <tr>
-      <td rowspan=5 align="center">3rd Session 14:00-16:00 >Imaging renal function (part 1)</td>
+      <tr style="background-color: #e6e6e6;">
+            <td rowspan=5 align="center">3rd Session 14:00-16:00 >Imaging renal function (part 1)</td>
       <td align="center">14:00</td>
       <td align="center"</td>
       <td align="center"></td>
@@ -224,7 +227,8 @@ Download a template [here](/assets/images/resources/AbstractTemplateRenalImaging
       <td align="center"></td>
     </tr>
     <tr>
-      <td rowspan=3 align="center">4th Session 17:00-18:00 Imaging renal function (part 2)</td>
+      <tr style="background-color: #e6e6e6;">
+            <td rowspan=3 align="center">4th Session 17:00-18:00 Imaging renal function (part 2)</td>
        <td align="center">17:00</td>
       <td align="center"></td>
       <td align="center"></td>
@@ -257,9 +261,9 @@ Download a template [here](/assets/images/resources/AbstractTemplateRenalImaging
       <td align="center">The T2 stars? Jazz trio?</td>
       <td align="center">Rik Achten &co</td>
     </tr>
-    <tr>
-      <td colspan=4 align="center" style="font-weight: bold; text-transform: uppercase;">TUESDAY 12 SEPTEMBER</td>
-    </tr>
+           <tr style="background-color: #f2f2f2;">
+            <td colspan="4" align="center" style="font-weight: bold;">TUESDAY 12 SEPTEMBER</td>
+        </tr>
     <tr>
       <td align="center"></td>
       <td align="center">8:30-9:00</td>
@@ -267,7 +271,8 @@ Download a template [here](/assets/images/resources/AbstractTemplateRenalImaging
       <td align="center"></td>
     </tr>
     <tr>
-      <td rowspan=5 align="center">5th Session 9:00-10:30 CKD imaging</td>
+      <tr style="background-color: #e6e6e6;">
+            <td rowspan=5 align="center">5th Session 9:00-10:30 CKD imaging</td>
       <td align="center">09:00</td>
       <td align="center">Clinical trials on added value of MRI in CKD</td>
       <td align="center">Iris Friedli (Uppsala, Sweden)</td>
@@ -305,7 +310,8 @@ Download a template [here](/assets/images/resources/AbstractTemplateRenalImaging
       <td align="center"></td>
     </tr>
     <tr>
-      <td rowspan=4 align="center">6th Session 11:30-12:30 AKI imaging</td>
+      <tr style="background-color: #e6e6e6;">
+            <td rowspan=4 align="center">6th Session 11:30-12:30 AKI imaging</td>
       <td align="center">11:30</td>
       <td align="center">General talk on AKI</td>
       <td align="center">Sophie De Seigneux (Geneve, CH)</td>
@@ -338,7 +344,8 @@ Download a template [here](/assets/images/resources/AbstractTemplateRenalImaging
       <td align="center"></td>
     </tr>
     <tr>
-      <td rowspan=4 align="center">7th Session 14:00-15:30 Transplant imaging and imaging of DKD</td>
+      <tr style="background-color: #e6e6e6;">
+            <td rowspan=4 align="center">7th Session 14:00-15:30 Transplant imaging and imaging of DKD</td>
       <td align="center">14:00</td>
       <td align="center">Diagnostics in renal transplant care and imaging opportunities</td>
       <td align="center">Suraj Serai (Philadelphia, USA)</td>
