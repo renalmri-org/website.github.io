@@ -304,7 +304,7 @@ Download a template [here](/assets/images/resources/AbstractTemplateRenalImaging
             <td rowspan=4 align="center" style="background-color: #e6e6e6;"> <b>6th Session</b> <br>11:30-12:30<br> AKI imaging</td>
       <td align="center">11:30</td>
       <td align="center">General talk on AKI</td>
-      <td align="center">Sophie De Seigneux (Geneve, CH)</td>
+      <td align="center">Lena Berchtold, MD, PhD (Geneve, CH)</td>
     </tr>
     <tr>
       <td align="center">11:45</td>
