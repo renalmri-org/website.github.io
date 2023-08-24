@@ -183,28 +183,26 @@ Download a template [here](/assets/images/resources/AbstractTemplateRenalImaging
       <td align="center">13:30-14:00</td>
       <td align="center">Power pitch session 1 (3 minutes talks)</td>
       <td align="center"></td>
-    </tr>
-      <tr style="background-color: #d6e4f0;">
-      <td align="center"></td>
-      <td align="center">14:00-14:20</td>
-      <td align="center">Coffee Break</td>
-      <td align="center"></td>
-    </tr>
       <tr>
-            <td rowspan=4 align="center" style="background-color: #e6e6e6;"> <b>3rd Session</b> <br>14:20-16:00<br> Imaging renal function (part 1)</td>
-      <td align="center">14:20</td>
+            <td rowspan=5 align="center" style="background-color: #e6e6e6;"> <b>3rd Session</b> <br>14:00-16:00<br> Imaging renal function (part 1)</td>
+      <td align="center">14:00</td>
       <td align="center">Speed dating Radiology/Nephrology: clinical needs of the nephrologist</td>
       <td align="center">Marijn Speeckaert (Ghent, Belgium)</td>
     </tr>
     <tr>
-      <td align="center">14:40</td>
+      <td align="center">14:20</td>
       <td align="center">Development and Validation of a Modified Full Age Spectrum Creatinine-Based Equation to Estimate Glomerular Filtration Rate</td>
       <td align="center">Hans Pottel (KU Leuven-Kortrijk, NL)</td>
     </tr>
     <tr>
-      <td align="center">15:20</td>
+      <td align="center">14:40</td>
       <td align="center">MRI: opportunities for functional renal imaging</td>
       <td align="center">Iosif Mendichovsky (Cambridge, UK)</td>
+    </tr>
+       <tr>
+      <td align="center">15:20</td>
+      <td align="center">Functional Imaging using Renal DCE</td>
+      <td align="center">Ebony Gunwhy (Sheffield, UK)</td>
     </tr>
     <tr>
       <td align="center">15:40</td>
