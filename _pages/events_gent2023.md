@@ -312,7 +312,7 @@ Download a template [here](/assets/images/resources/AbstractTemplateRenalImaging
     <tr>
       <td align="center">12:00</td>
       <td align="center">NUC: Renal scintigraphy to predict kidney rejection</td>
-      <td align="center">Jouret Francois (Liege, Belgium)</td>
+      <td align="center">Francois Jouret (Liege, Belgium)</td>
     </tr>
     <tr>
       <td align="center">12:15</td>
