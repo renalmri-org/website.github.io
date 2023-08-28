@@ -311,7 +311,7 @@ Download a template [here](/assets/images/resources/AbstractTemplateRenalImaging
     </tr>
     <tr>
       <td align="center">12:00</td>
-      <td align="center">NUC: Renal scintigraphy to predict persistent renal failure after acute kidney injury</td>
+      <td align="center">NUC: Renal scintigraphy to predict kidney rejection</td>
       <td align="center">Jouret Francois (Liege, Belgium)</td>
     </tr>
     <tr>
