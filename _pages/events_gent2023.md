@@ -184,7 +184,7 @@ Download a template [here](/assets/images/resources/AbstractTemplateRenalImaging
       <td align="center">Power pitch session 1 (3 minutes talks)</td>
       <td align="center"></td>
       <tr>
-            <td rowspan=5 align="center" style="background-color: #e6e6e6;"> <b>3rd Session</b> <br>14:00-16:00<br> Imaging renal function (part 1)</td>
+      <td rowspan=5 align="center" style="background-color: #e6e6e6;"> <b>3rd Session</b> <br>14:00-16:00<br> Imaging renal function (part 1)</td>
       <td align="center">14:00</td>
       <td align="center">Speed dating Radiology/Nephrology: clinical needs of the nephrologist</td>
       <td align="center">Marijn Speeckaert (Ghent, Belgium)</td>
@@ -228,7 +228,7 @@ Download a template [here](/assets/images/resources/AbstractTemplateRenalImaging
       <td align="center"></td>
     </tr>
       <tr>
-            <td rowspan=2 align="center" style="background-color: #e6e6e6;"> <b>4th Session </b> <br>17:20-18:00<br> Imaging renal function (part 2)</td>
+      <td rowspan=2 align="center" style="background-color: #e6e6e6;"> <b>4th Session </b> <br>17:20-18:00<br> Imaging renal function (part 2)</td>
       <td align="center">17:20</td>
       <td align="center">Biased renal MRI: How the drugs influence our image data</td>
       <td align="center">Octavia Bane (NY, USA)</td>
@@ -256,9 +256,9 @@ Download a template [here](/assets/images/resources/AbstractTemplateRenalImaging
       <td align="center">The T2 stars? Jazz trio?</td>
       <td align="center">Rik Achten &co</td>
     </tr>
-           <tr style="background-color: #f2f2f2;">
-            <td colspan="4" align="center" style="font-weight: bold;">TUESDAY 12 SEPTEMBER</td>
-        </tr>
+    <tr style="background-color: #f2f2f2;">
+      <td colspan="4" align="center" style="font-weight: bold;">TUESDAY 12 SEPTEMBER</td>
+    </tr>
     <tr style="background-color: #d6e4f0;">
       <td align="center"></td>
       <td align="center">8:30-9:00</td>
@@ -266,7 +266,7 @@ Download a template [here](/assets/images/resources/AbstractTemplateRenalImaging
       <td align="center"></td>
     </tr>
       <tr>
-            <td rowspan=4 align="center" style="background-color: #e6e6e6;"> <b>5th Session</b> <br>9:00-10:30<br> CKD imaging</td>
+      <td rowspan=4 align="center" style="background-color: #e6e6e6;"> <b>5th Session</b> <br>9:00-10:30<br> CKD imaging</td>
       <td align="center">09:00</td>
       <td align="center">Clinical trials on added value of MRI in CKD</td>
       <td align="center">Iris Friedli (Uppsala, Sweden)</td>
@@ -299,7 +299,7 @@ Download a template [here](/assets/images/resources/AbstractTemplateRenalImaging
       <td align="center"></td>
     </tr>
       <tr>
-            <td rowspan=4 align="center" style="background-color: #e6e6e6;"> <b>6th Session</b> <br>11:30-12:30<br> AKI imaging</td>
+      <td rowspan=4 align="center" style="background-color: #e6e6e6;"> <b>6th Session</b> <br>11:30-12:30<br> AKI imaging</td>
       <td align="center">11:30</td>
       <td align="center">General talk on AKI</td>
       <td align="center">Lena Berchtold, MD, PhD (Geneve, CH)</td>
@@ -332,7 +332,7 @@ Download a template [here](/assets/images/resources/AbstractTemplateRenalImaging
       <td align="center"></td>
     </tr>
       <tr>
-            <td rowspan=4 align="center" style="background-color: #e6e6e6;"> <b>7th Session</b> <br>14:00-15:30<br> Transplant imaging and imaging of DKD</td>
+      <td rowspan=4 align="center" style="background-color: #e6e6e6;"> <b>7th Session</b> <br>14:00-15:30<br> Transplant imaging and imaging of DKD</td>
       <td align="center">14:00</td>
       <td align="center">Diagnostics in renal transplant care and imaging opportunities</td>
       <td align="center">Suraj Serai (Philadelphia, USA)</td>
