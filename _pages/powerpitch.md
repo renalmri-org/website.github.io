@@ -18,7 +18,7 @@
 
 |<!-- -->|<!-- -->|<!-- -->|
 |-------|-------------------------------------------------------------------------------------------------------------------------------|-----------------------------|
- 17:00 | Cardiorenal interaction assessed by multimodal real-time magnetic resonance imaging during lower body negative pressure       | Darius A. Gerlach           |
+| 17:00 | Cardiorenal interaction assessed by multimodal real-time magnetic resonance imaging during lower body negative pressure       | Darius A. Gerlach           |
 | 17:03 | Effects of Tissue Perfusion on Renal Stiffness and Fluidity measured with Tomoelastography in an MRI-compatible ex-vivo model | Johannes Castelein          |
 | 17:06 | Toward Assessment of Renal Tubule Volume Fraction in Rat Kidney Using Decomposition of Parametric T2 Mapping                  | Ehsan Tasbihi               |
 | 17:09 | A Generalizable Coronal-Plane Kidney Segmentation Approach for ADPKD                                                          | Anish Raj                   |
