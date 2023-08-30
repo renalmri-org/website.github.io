@@ -13,3 +13,19 @@
 | 13:54 | Automated quantification of renal sinus fat by use of a 3D U-Net and convex hull analysis                                                                      | Charles E. Hill           |
 | 13:57 | The effect of SGLT2-inhibition on the kidney perfusion and diffusion in patients with T2D                                                                      | B. Ariëns                 |
 | 14:00 | Multiparametric Magnetic Resonance Imaging (mpMRI) for the renal study of patients with mild to moderate Diabetic Kidney Disease (DKD-3): Preliminary results. | José María Mora-Gutiérrez |
+
+## Power Pitch 2
+
+|<!-- -->|<!-- -->|<!-- -->|
+|-------|-------------------------------------------------------------------------------------------------------------------------------|-----------------------------|
+ 17:00 | Cardiorenal interaction assessed by multimodal real-time magnetic resonance imaging during lower body negative pressure       | Darius A. Gerlach           |
+| 17:03 | Effects of Tissue Perfusion on Renal Stiffness and Fluidity measured with Tomoelastography in an MRI-compatible ex-vivo model | Johannes Castelein          |
+| 17:06 | Toward Assessment of Renal Tubule Volume Fraction in Rat Kidney Using Decomposition of Parametric T2 Mapping                  | Ehsan Tasbihi               |
+| 17:09 | A Generalizable Coronal-Plane Kidney Segmentation Approach for ADPKD                                                          | Anish Raj                   |
+| 17:12 | Exploitation of Redundant Information in CT Urography for Improved Scan Efficiency and Radiation Dose Reduction               | Andrew L. Wentland, MD, PhD |
+| 17:15 | Effects of Empagliflozin on Kidney and Cardiac MRI Measures in Patients with Chronic Kidney Disease                           | Susan Francis               |
+| 17:18 | Development of an MR Imaging Protocol for Ex-Vivo Assessment of Deceased Donor Human Kidneys                                  | Alexander J Daniel          |
+| 17:21 | MRI detects renal tubulointerstitial changes in mouse models of radiation-induced nephropathy                                 | Julia Stabinska             |
+| 17:24 | Biophysical model to correct for blood volume confounders of T2* based renal MR oximetry                                      | Thomas Gladytz              |
+| 17:27 | Renal blood flow quantification for the evaluation of stress induced kidney imaging using Rubidium-82 PET/CT                  | Ilona Dekkers               |
+| 17:30 | Comparison of microstructural analysis algorithms using simulated diffusion MRI data of the renal tubule system               | Jonas Jasse                 |
