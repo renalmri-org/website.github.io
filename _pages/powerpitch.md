@@ -1,3 +1,7 @@
+# Power Pitches
+
+Each talk is 3 minutes (maximum 4 slides)
+
 ## Power Pitch 1
 
 |<!-- -->|<!-- -->|<!-- -->|
