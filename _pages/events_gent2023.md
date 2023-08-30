@@ -100,6 +100,8 @@ Download a template [here](/assets/images/resources/AbstractTemplateRenalImaging
 
 # Preliminary program
 
+Latest update: Aug 30, 2023
+
 <table border="1" cellpadding="5" cellspacing="0" style="width: 100%;">
   <thead>
     <tr>
