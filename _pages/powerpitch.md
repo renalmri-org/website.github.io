@@ -48,20 +48,20 @@ Tuesday 12 Sept 11:00-11:30
 |PP27| 11:12       | _Cancelled_ Clearing the Waters: Debunking The Myth of Post-Contrast Acute Kidney Injury in Patients with Advanced Kidney Disease?        | Raman Akif                           |
 |PP28| 11:15       | First report of 23Na-MRI in kidney cancer to detect differential sodium-accumulation in benign vs. malignant tumours          | Alice Bebb                           |
 |PP29| 11:18       | Automated Segmentation of Large Cohort Renal MRI Studies                                                                      | Alexander J Daniel                   |
-| 11:21       | Automated Analysis of Kidney MRI data in the UK Biobank                                                                       | Eleanor Cox                          |
-| 11:24       | Enhancing Reproducibility of Kidney Volume Measurements in ADPKD Through Averaging Measurements from Multiple MRI Sequences   | Hreedi Dev                           |
+|PP30| 11:21       | Automated Analysis of Kidney MRI data in the UK Biobank                                                                       | Eleanor Cox                          |
+|PP31| 11:24       | Enhancing Reproducibility of Kidney Volume Measurements in ADPKD Through Averaging Measurements from Multiple MRI Sequences   | Hreedi Dev                           |
 
 ## Power Pitch 4
 Tuesday 12 Sept 13:30-14:00
 
 |<!-- -->|<!-- -->|<!-- -->|<!-- -->|
 |-|-------|-------------------------------------------------------------------------------------------------------------------------------|-----------------------------|
-|PP30| 13:30       | Repeatability of region-of-interest sampling strategies for quantification of renal proton density function in healthy humans | Yuliya Kupriyanova                   |
-|PP31| 13:33       | DCE-MRI measured GFR compared to iohexol measured GFR in a cohort of normal and low birth weight individuals                  | Tor H. Qvale                         |
-|PP32| 13:36       | Computational Fluid Dynamic Simulations in Stenotic Renal Arteries: A novel non-invasive method to guide intervention?        | michela bozzetto                     |
-|PP33| 13:39       | Radial profiling of advanced DWI parameters in the kidneys                                                                    | Eric E Sigmund                       |
-|PP34| 13:42       | Renal cortex T1 mapping: scan-rescan repeatability and scanner reproducibility                                                | Markus Henningsson                   |
-|PP35| 13:45       | Automated Quality Control for Multi-Vendor, Multi-Centre Renal Imaging Studies                                                | Alexander J Daniel                   |
-|PP36| 13:48       | Motion-corrected post-contrast T1w-imaging of kidneys using FID navigators                                                    | Cemre Ariyurek                       |
-|PP37| 13:51       | Assessment of renal changes after bone marrow transplantation by functional mpMRI: preliminary results                        | Yusuf Cabuk                          |
-|PP38| 13:54       | A Multi-Modality Renal Blood Flow Phantom for Validation of CT, PET/CT, and MRI in Quantifying Regional Blood Flow Deficits   | De Wit B.W.                          |
+|PP32| 13:30       | Repeatability of region-of-interest sampling strategies for quantification of renal proton density function in healthy humans | Yuliya Kupriyanova                   |
+|PP33| 13:33       | DCE-MRI measured GFR compared to iohexol measured GFR in a cohort of normal and low birth weight individuals                  | Tor H. Qvale                         |
+|PP34| 13:36       | Computational Fluid Dynamic Simulations in Stenotic Renal Arteries: A novel non-invasive method to guide intervention?        | michela bozzetto                     |
+|PP35| 13:39       | Radial profiling of advanced DWI parameters in the kidneys                                                                    | Eric E Sigmund                       |
+|PP36| 13:42       | Renal cortex T1 mapping: scan-rescan repeatability and scanner reproducibility                                                | Markus Henningsson                   |
+|PP37| 13:45       | Automated Quality Control for Multi-Vendor, Multi-Centre Renal Imaging Studies                                                | Alexander J Daniel                   |
+|PP38| 13:48       | Motion-corrected post-contrast T1w-imaging of kidneys using FID navigators                                                    | Cemre Ariyurek                       |
+|PP39| 13:51       | Assessment of renal changes after bone marrow transplantation by functional mpMRI: preliminary results                        | Yusuf Cabuk                          |
+|PP40| 13:54       | A Multi-Modality Renal Blood Flow Phantom for Validation of CT, PET/CT, and MRI in Quantifying Regional Blood Flow Deficits   | De Wit B.W.                          |
