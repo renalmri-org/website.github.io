@@ -119,7 +119,7 @@ Latest update: Aug 30, 2023
 |11:10|Imaging in urological interventions|Pieter De Backer (Ghent, Belgium)|
 |11:30|MR urography: adults + pediatric|Sila Kurugol (Boston, USA)|
 |11:50|How to protect kidney: contrast agent safety and novel developments|Aart van der Molen (Leiden, NL)|
-|12:10-13:30|Lunch (+poster viewing)||
+|12:10-13:30|Lunch and poster session||
 |13:30-14:00|[Power pitch session 1 (3 minutes talks)](powerpitch.md#power-pitch-1)||
 |**14:00-16:30**|**Imaging renal function**||
 |14:00|Speed dating Radiology/Nephrology: clinical needs of the nephrologist|Marijn Speeckaert (Ghent, Belgium)|
@@ -150,7 +150,7 @@ Latest update: Aug 30, 2023
 | 11:45       | Multiparametric MRI assessment of renal structure and function in acute kidney injury and renal recovery                      | Sue Francis (Nottingham, UK)         |
 | 12:00       | NUC: Renal scintigraphy to predict kidney rejection                                                                           | Jouret Francois (Liege, Belgium)     |
 | 12:15       | Multi-modality renal imaging (CEUS/scintigraphy/mpMRI) in dogs (and humans)                                                   | Amber Hillaert (Ghent, Belgium)      |
-| 12:30-13:30 | Lunch                                                                                                                         |                                      |
+| 12:30-13:30 | Lunch and poster session                                                                                                                         |                                      |
 | 13:30-14:00 | [Power pitch session 4 (3 minutes talks)](powerpitch.md#power-pitch-4)                                                                                      |                                      |
 | **14:00-15:30** | **Transplant imaging and imaging of DKD**                                                                                         |                                      |
 | 14:00       | Diagnostics in renal transplant care and imaging opportunities                                                                | Suraj Serai (Philadelphia, USA)      |
