@@ -42,7 +42,7 @@ Each talk is 3 minutes (maximum 4 slides)
 |PP24| 11:03       | Parametric T1 MR Microscopy Detects Gadolinium Residuals in Ex Vivo Rat Kidneys                                               | Ehsan Tasbihi                        |
 |PP25| 11:06       | A New Method To Analyze Renal Perfusion: A Proof Of Concept                                                                   | Luis Sanmiguel                       |
 |PP26| 11:09       | Multi-center and multi-vendor reproducibility of T1, T2 and ADC phantom data on 1.5T and 3T MRI scanners                      | Siria Pasini                         |
-|PP27| 11:12       | Clearing the Waters: Debunking The Myth of Post-Contrast Acute Kidney Injury in Patients with Advanced Kidney Disease?        | Raman Akif                           |
+|PP27| 11:12       | _Cancelled_ Clearing the Waters: Debunking The Myth of Post-Contrast Acute Kidney Injury in Patients with Advanced Kidney Disease?        | Raman Akif                           |
 |PP28| 11:15       | First report of 23Na-MRI in kidney cancer to detect differential sodium-accumulation in benign vs. malignant tumours          | Alice Bebb                           |
 |PP29| 11:18       | Automated Segmentation of Large Cohort Renal MRI Studies                                                                      | Alexander J Daniel                   |
 
