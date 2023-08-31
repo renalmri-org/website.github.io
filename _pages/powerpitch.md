@@ -2,7 +2,7 @@
 
 Each talk is 3 minutes (maximum 4 slides)
 
-## Power Pitch 1
+## Power Pitch 1 - Monday 11 Sept 13:30-14:00
 
 |<!-- -->|<!-- -->|<!-- -->|<!-- -->|
 |-|-------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|
@@ -18,7 +18,7 @@ Each talk is 3 minutes (maximum 4 slides)
 |PP10| 13:57 | The effect of SGLT2-inhibition on the kidney perfusion and diffusion in patients with T2D                                                                      | B. Ariëns                 |
 |PP11| 14:00 | Multiparametric Magnetic Resonance Imaging (mpMRI) for the renal study of patients with mild to moderate Diabetic Kidney Disease (DKD-3): Preliminary results. | José María Mora-Gutiérrez |
 
-## Power Pitch 2
+## Power Pitch 2 - Monday 11 Sept 17:00-17:40
 
 |<!-- -->|<!-- -->|<!-- -->|<!-- -->|
 |-|-------|-------------------------------------------------------------------------------------------------------------------------------|-----------------------------|
@@ -34,7 +34,7 @@ Each talk is 3 minutes (maximum 4 slides)
 |PP21| 17:27 | Renal blood flow quantification for the evaluation of stress induced kidney imaging using Rubidium-82 PET/CT                  | Ilona Dekkers               |
 |PP22| 17:30 | Comparison of microstructural analysis algorithms using simulated diffusion MRI data of the renal tubule system               | Jonas Jasse                 |
 
-## Power Pitch 3
+## Power Pitch 3 - Tuesday 12 Sept 11:00-11:30
 
 |<!-- -->|<!-- -->|<!-- -->|<!-- -->|
 |-|-------|-------------------------------------------------------------------------------------------------------------------------------|-----------------------------|
@@ -46,7 +46,7 @@ Each talk is 3 minutes (maximum 4 slides)
 |PP28| 11:15       | First report of 23Na-MRI in kidney cancer to detect differential sodium-accumulation in benign vs. malignant tumours          | Alice Bebb                           |
 |PP29| 11:18       | Automated Segmentation of Large Cohort Renal MRI Studies                                                                      | Alexander J Daniel                   |
 
-## Power Pitch 4
+## Power Pitch 4 - Tuesday 12 Sept 13:30-14:00
 
 |<!-- -->|<!-- -->|<!-- -->|<!-- -->|
 |-|-------|-------------------------------------------------------------------------------------------------------------------------------|-----------------------------|
