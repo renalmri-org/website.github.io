@@ -157,8 +157,6 @@ Latest update: Aug 30, 2023
 | 14:20       | mpMRI before and after kidney transplantation? -> overview of clinical trials                                                 | Lena Berchtold (Geneve, CH)          |
 | 14:40       | Prognostic imaging biomarkers for diabetic kidney disease (iBEAt)                                                             | Steven Sourbron (Sheffield, UK)      |
 | 15:00       | Renal maging biomarkers in oncological diseases                                                                               | Romans Zukovs (Düsseldorf, Germany)  |
-| 11:21       | Automated Analysis of Kidney MRI data in the UK Biobank                                                                       | Eleanor Cox                          |
-| 11:24       | Enhancing Reproducibility of Kidney Volume Measurements in ADPKD Through Averaging Measurements from Multiple MRI Sequences   | Hreedi Dev                           |
 | 15:30-16:00 | Break                                                                                                                         |                                      |
 | **16:00-17:00** | **Image processing in the clinic**                                                                                                              |                                      |
 | 16:00       | Image processing in a clinical environment: where do we stand?                                                                | Siemens: Andreas Pohlmann            |
