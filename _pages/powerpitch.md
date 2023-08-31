@@ -48,6 +48,8 @@ Tuesday 12 Sept 11:00-11:30
 |PP27| 11:12       | _Cancelled_ Clearing the Waters: Debunking The Myth of Post-Contrast Acute Kidney Injury in Patients with Advanced Kidney Disease?        | Raman Akif                           |
 |PP28| 11:15       | First report of 23Na-MRI in kidney cancer to detect differential sodium-accumulation in benign vs. malignant tumours          | Alice Bebb                           |
 |PP29| 11:18       | Automated Segmentation of Large Cohort Renal MRI Studies                                                                      | Alexander J Daniel                   |
+| 11:21       | Automated Analysis of Kidney MRI data in the UK Biobank                                                                       | Eleanor Cox                          |
+| 11:24       | Enhancing Reproducibility of Kidney Volume Measurements in ADPKD Through Averaging Measurements from Multiple MRI Sequences   | Hreedi Dev                           |
 
 ## Power Pitch 4
 Tuesday 12 Sept 13:30-14:00
