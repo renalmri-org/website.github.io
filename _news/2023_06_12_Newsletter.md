@@ -3,7 +3,7 @@ title: "2023-06-12 Newsletter"
 excerpt: "EXTENTION: Abstract submission for the 5th international renal imaging meeting."
 ---
 
-![image-center](/assets/images/header_renalMRI_right.png)
+![image-center](/assets/images/newsletter_renalMRI.org)
 
 Dear all,
 
