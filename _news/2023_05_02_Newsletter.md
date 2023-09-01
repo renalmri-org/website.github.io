@@ -3,7 +3,7 @@ title: "2023-05-02 Newsletter"
 excerpt: "Abstract submission and registration is open: Ghent, 5th intern. Meeting on Renal Imaging."
 ---
 
-![image-center](/assets/images/header_renalMRI_right.png)
+![image-center](/assets/images/newsletter_renalMRI.png)
 
 Dear renalMRI - PARENCHIMA Team!
 
