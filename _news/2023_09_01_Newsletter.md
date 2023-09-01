@@ -8,6 +8,7 @@ excerpt: "Update."
 Dear renalmri.org Community,
 
 - **The countdown to our 5th International Meeting on Renal Imaging has started!**
+
 We look forward to see each of you in Ghent and to have two exciting days of scientific program and discussions! So, do not miss your chance to register for the [meeting](https://renalmri.org/events/gent2023)
 - **New Vice Chair - Action Required:**
 The election for the new renalmri.org Vice-Chair is rapidly approaching, and we would like to invite your participation at this point. If you've always had a desire to shape kidney research, now is the time for you to apply!
