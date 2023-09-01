@@ -5,17 +5,16 @@ excerpt: "Update."
 
 ![image-center](/assets/images/newsletter_renalMRI.png)
 
-Dear all,
+Dear renalmri.org Community,
 
-**The abstract submission deadline for the 5th international renal imaging meeting has been extended!** 
-
-[The meeting will take place on 11/12 September 2023 in Ghent, Belgium.](https://renalmri.org/events/gent2023)
-
-**NEW DEADLINE: 10th of July 2023, 23:59 CET**
-
-Abstracts can be submitted here. 
-
-Please note that abstracts can be a shortened version of your ISMRM or other recent conference abstract, or separate work that you are excited about. 
+- **The countdown to our 5th International Meeting on Renal Imaging has started!**
+We look forward to see each of you in Ghent and to have two exciting days of scientific program and discussions! So, do not miss your chance to register for the [meeting](https://renalmri.org/events/gent2023)
+- **New Vice Chair - Action Required:**
+The election for the new renalmri.org Vice-Chair is rapidly approaching, and we would like to invite your participation at this point. If you've always had a desire to shape kidney research, now is the time for you to apply!
+Both junior and senior researchers are warmly encouraged to get involved.
+Please submit your candidacy, along with a photo and a brief statement about yourself, and explaining your motivation to lead renalmri.org, to [renalmri@gmail.com](mailto:renalmri@gmail.com)
+- **Do you want to host the renal community?**
+We are looking for volunteers to host the next 6th International Meeting in Autumn 2025! Please contact us if you are interested: [renalmri@gmail.com](mailto:renalmri@gmail.com)
 
 Best regards,
 renalMRI Coreteam
