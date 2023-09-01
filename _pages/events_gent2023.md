@@ -141,7 +141,7 @@ Latest update: Aug 30, 2023
 | **9:00-10:30**  | **CKD imaging**                                                                                                                   |                                      |
 | 09:00       | Clinical trials on added value of MRI in CKD                                                                                  | Iris Friedli (Uppsala, Sweden)       |
 | 09:20       | MRI: fibrosis imaging and possibilities for the kidney                                                                        | Julia Stabinska (Hopkins, USA)       |
-| 09:40       | Imaging in ADPKD: beyond total kidney volume                                                                                  | Anna Caroli (Bergamo, Italy)         |
+| 09:40       | Imaging in ADPKD: beyond total kidney volume                                                                                  | Michela Bozzetto (Bergamo, Italy)         |
 | 10:00       | Validation of MRI biomarkers by histopathology                                                                                | Ilona Dekkers (Leiden, NL)           |
 | 10:30-11:00 | Break                                                                                                                         |                                      |
 | 11:00-11:30 | [Power pitch session 3 (3 minutes talks)](powerpitch.md#power-pitch-3)                                                                                      |                                      |
