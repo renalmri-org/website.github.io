@@ -20,6 +20,7 @@ Please submit your candidacy, along with a photo and a brief statement about you
 We are looking for volunteers to host the next 6th International Meeting in Autumn 2025! Please contact us if you are interested: [renalmri@gmail.com](mailto:renalmri@gmail.com)
 
 Best regards,
+
 renalMRI Coreteam
 
 © Copyright, 2023
