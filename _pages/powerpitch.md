@@ -64,4 +64,4 @@ Tuesday 12 Sept 13:30-14:00
 |PP37| 13:45       | Automated Quality Control for Multi-Vendor, Multi-Centre Renal Imaging Studies                                                | Alexander J Daniel                   |
 |PP38| 13:48       | Motion-corrected post-contrast T1w-imaging of kidneys using FID navigators                                                    | Cemre Ariyurek                       |
 |PP39| 13:51       | Assessment of renal changes after bone marrow transplantation by functional mpMRI: preliminary results                        | Yusuf Cabuk                          |
-|PP40| 13:54       | A Multi-Modality Renal Blood Flow Phantom for Validation of CT, PET/CT, and MRI in Quantifying Regional Blood Flow Deficits   | De Wit B.W.                          |
+|PP40| 13:54       | _Cancelled_ A Multi-Modality Renal Blood Flow Phantom for Validation of CT, PET/CT, and MRI in Quantifying Regional Blood Flow Deficits   | De Wit B.W.                          |
