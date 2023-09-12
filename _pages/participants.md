@@ -187,6 +187,7 @@ If you want to join us or the newsletter, please read and consent to our [privac
 * Dr. Alberich - Bayarri �?ngel
 * Prof. Alberto Ortiz
 * Leyre García Ruiz
+* Jose María Mora Gutiérrez
 
 ## 🇸🇪️ Sweden
 * Prof. Paul Hockings
