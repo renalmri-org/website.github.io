@@ -90,6 +90,7 @@ If you want to join us or the newsletter, please read and consent to our [privac
 * Dr. Christian Radu
 * Jonas Jasse
 * Prof. Dr. Hans-Joachim Mentzel
+* Clara Meinzer
 
 ## 🇬🇷️ Greece
 * Prof. George Kagadis
