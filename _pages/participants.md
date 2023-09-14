@@ -92,6 +92,7 @@ If you want to join us or the newsletter, please read and consent to our [privac
 * Prof. Dr. Hans-Joachim Mentzel
 * Clara Meinzer
 * Markus Henningsson
+* Tobias Klein
 
 ## 🇬🇷️ Greece
 * Prof. George Kagadis
