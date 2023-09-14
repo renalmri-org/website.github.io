@@ -91,6 +91,7 @@ If you want to join us or the newsletter, please read and consent to our [privac
 * Jonas Jasse
 * Prof. Dr. Hans-Joachim Mentzel
 * Clara Meinzer
+* Markus Henningsson
 
 ## 🇬🇷️ Greece
 * Prof. George Kagadis
