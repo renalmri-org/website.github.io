@@ -150,6 +150,7 @@ If you want to join us or the newsletter, please read and consent to our [privac
 * Dr. Tri Nguyen
 * Dr. Arjen van Zuilen
 * Dr. Ilona Dekkers
+* Benthe Ariëns
 
 ## 🇳🇴️ Norway
 * Eli Eikefjord
@@ -261,6 +262,8 @@ If you want to join us or the newsletter, please read and consent to our [privac
 * Dr. Julia Stabinska
 * Gonzalo Matzumura, MD
 * Ananth J. Madhuranthakam, Ph.D.
+* Hreedi Dev
+* 
 
 ## 🇦🇺️ Australia
 * Prof. Roger Evans
