@@ -9,7 +9,9 @@ Dear renalmri.org Community,
 
 Thank you for your active participation in our renal imaging meeting in Ghent. Thanks to you, this meeting was possible!
 And as you know, after the meeting is before the meeting, so please **vote for our next meeting location**. We have two candidates to choose from: 
+
 [https://forms.gle/3kDsRfepR9jrUcwz9](https://forms.gle/3kDsRfepR9jrUcwz9)
+
 **Deadline is 15th of October!**
 
 Best regards,
