@@ -263,6 +263,7 @@ If you want to join us or the newsletter, please read and consent to our [privac
 * Gonzalo Matzumura, MD
 * Ananth J. Madhuranthakam, Ph.D.
 * Hreedi Dev
+* PhD. Octavia Bane
 
 ## 🇦🇺️ Australia
 * Prof. Roger Evans
