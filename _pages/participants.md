@@ -135,6 +135,7 @@ If you want to join us or the newsletter, please read and consent to our [privac
 * Dr. Borrelli Pasquale
 * Dr. Maria Beatrice Damasio
 * Professor Stefano Palmucci
+* Siria Pasini
 
 ## 🇲🇹️ Malta
 * Dr. Valerie Said Conti
