@@ -9,7 +9,7 @@ If you want to join us or the newsletter, please read and consent to our [privac
 
 ## 🇦🇹️ Austria
 * Dr. Marcos Wolf
-* Prof. Siegfried trattnig
+* Prof. Siegfried Trattnig
 * Dr. Pamela Zolda
 * Prof. Ewald Moser
 * Dr. Barbara Katharina Geist
