@@ -12,7 +12,6 @@ author_profile: false
 
 [![promo](assets/images/BannerRenalmeeting_2025.png)]()
 
-
 # Renal imaging meetings - vision and principles
 
 The renal MRI community has been organising bi-annual international meeting since 2015. In line with the mission of RENALMRI.org as a community-led organisation, future meetings will follow these core principles:
