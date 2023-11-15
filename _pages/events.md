@@ -6,10 +6,12 @@ collection: events
 author_profile: false
 ---
 
-# International renal imaging meetings
+# Future international renal imaging meetings
 
-## [11/12 Sept 2023 - 5th international renal imaging meeting](https://renalmri.org/events/gent2023)
-[![promo](/assets/images/gent_images/gent_promo.png)](https://renalmri.org/events/gent2023)
+## 6th international renal imaging meeting
+
+[![promo](assets/images/BannerRenalmeeting_2025.png)]()
+
 
 # Renal imaging meetings - vision and principles
 
@@ -23,6 +25,9 @@ The renal MRI community has been organising bi-annual international meeting sinc
 
 
 # Past meetings
+
+## [11/12 Sept 2023 - 5th international renal imaging meeting](https://renalmri.org/events/gent2023)
+[![promo](/assets/images/gent_images/gent_promo.png)](https://renalmri.org/events/gent2023)
 
 ## [2021 - 4th international renal imaging meeting (Lisbon & Philadelphia)](https://www.ismrm.org/workshops/2021/Kidney/)
 [![promo](/assets/images/lisbon_2021.png)](https://www.ismrm.org/workshops/2021/Kidney/)
