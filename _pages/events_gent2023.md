@@ -14,20 +14,13 @@ author_profile: false
 
 ## Thank you for a great meeting!
 
-![](assets/images/gent_images/participants_preview.jpg)
+![Participants](assets/images/gent_images/participants_preview.jpg)
+
 [Download large picture](assets/images/gent_images/participants.JPG)
 
 The 2023 meeting will continue the tradition of previous meetings by soliciting content across all relevant disciplines, with this year a particular emphasis on Ultrasound and nuclear medicine alongside MRI.
 
-**Be part of our next for our next International Meeting on Renal Imaging in Ghent!**
-
 The abstract submission is now closed.
-
-<!--
-<center><a href="https://docs.google.com/forms/d/e/1FAIpQLSfsJpl6NQoZb_z02oUEPyXkqG0QN8hh51H1Yte2xygZcCk0Jw/viewform?usp=sf_link" class="btn btn--primary btn--large">Submit Abstract</a></center>
-<center><a href="#abstract-guidelines">Abstract Guidelines</a></center>
-<br>
--->
 
 Registration is closed.
 
