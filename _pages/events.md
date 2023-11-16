@@ -10,7 +10,7 @@ author_profile: false
 
 ## 6th international renal imaging meeting
 
-[![promo](/assets/images/BannerRenalmeeting_2025.png)](/assets/images/BannerRenalmeeting_2025.png)
+[![promo](/assets/images/BannerRenalmeeting_2025.png)](https://renalmri.org/events/pamplona2025)
 
 # Renal imaging meetings - vision and principles
 
