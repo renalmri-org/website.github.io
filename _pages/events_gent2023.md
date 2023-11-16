@@ -108,20 +108,20 @@ Latest update: Aug 30, 2023
 |09:00|Welcome and Objectives|Pieter De Visschere and Pim Pullens (Ghent, Belgium)|
 |09:15|[renalMRI.org](http://renalmri.org/)|Alexandra Ljimani (Duesseldorf, Germany)|
 |09:30|Renal imaging in ESUR|Geert Villeirs (Ghent, Belgium) (chairman radiology department Ghent University Hospital and president elect of ESUR)|
-|09:45|Renal imaging in ISMRM|Eric Sigmund (NY, USA)|
+|09:45|[Renal imaging in ISMRM](https://drive.google.com/file/d/1w3yILUI26Q59xqho79VEeP-_g2IUdPc9/view?usp=drive_link)|Eric Sigmund (NY, USA)|
 |10:00-10:30|Break||
 |**10:30-12:10**|**Renal urological imaging**||
 |10:30|Speed dating Radiology/Urology: clinical needs of the urologist|Tim Muilwijk (Ghent, Belgium)|
-|10:50|Imaging solid renal lesions: new developments in US, CT and MRI|Rebeca Miron Mombiela (Kopenhagen, Denmark)|
+|10:50|[Imaging solid renal lesions: new developments in US, CT and MRI](https://drive.google.com/file/d/1dHzuRZGhW2t5aaWS3UzFu6crG6CHFc5k/view?usp=drive_link)|Rebeca Miron Mombiela (Kopenhagen, Denmark)|
 |11:10|Imaging in urological interventions|Pieter De Backer (Ghent, Belgium)|
 |11:30|MR urography: adults + pediatric|Sila Kurugol (Boston, USA)|
-|11:50|How to protect kidney: contrast agent safety and novel developments|Aart van der Molen (Leiden, NL)|
+|11:50|[How to protect kidney: contrast agent safety and novel developments](https://drive.google.com/file/d/1ofNq-bieNBETc11u4zDkbVCtjXvI3pa3/view?usp=drive_link)|Aart van der Molen (Leiden, NL)|
 |12:10-13:30|Lunch and poster session||
 |13:30-14:00|[Power pitch session 1 (3 minutes talks)](powerpitch.md#power-pitch-1)||
 |**14:00-16:30**|**Imaging renal function**||
-|14:00|Speed dating Radiology/Nephrology: clinical needs of the nephrologist|Marijn Speeckaert (Ghent, Belgium)|
-|14:20|Development and Validation of a Modified Full Age Spectrum Creatinine-Based Equation to Estimate Glomerular Filtration Rate|Hans Pottel (KU Leuven-Kortrijk, NL)|
-|15:00|MRI: opportunities for functional renal imaging|Iosif Mendichovsky (Cambridge, UK)|
+|14:00|[Speed dating Radiology/Nephrology: clinical needs of the nephrologist](https://drive.google.com/file/d/14FnxR5EXB6_HESIA6QLMTPPpqPz8VZM4/view?usp=drive_link)|Marijn Speeckaert (Ghent, Belgium)|
+|14:20|[Development and Validation of a Modified Full Age Spectrum Creatinine-Based Equation to Estimate Glomerular Filtration Rate](https://drive.google.com/file/d/10AVop7t1rAgk6_sPjFhLxY-ynOV7eGye/view?usp=drive_link)|Hans Pottel (KU Leuven-Kortrijk, NL)|
+|15:00|[MRI: opportunities for functional renal imaging](https://docs.google.com/presentation/d/1qCfPnBvXtwhXeIO-gfIbuzXpC0XefZS0/edit?usp=drive_link&ouid=106018552683615877989&rtpof=true&sd=true)|Iosif Mendichovsky (Cambridge, UK)|
 |15:20|Functional imaging using Renal DCE|Ebony Gunwhy (Sheffield, UK)|
 |15:40|US: Functional reserve imaging using CEUS and other techniques|Menno Pruijm (Lausanne, CH)|
 |16:00|MRI: New developments in targeted MRI tracers for renal filtration and perfusion|Kevin Bennet (St. Louis, Missouri, USA)|
@@ -136,27 +136,27 @@ Latest update: Aug 30, 2023
 |---|---|---|
 | 8:30-9:00   | Coffee desk upon arrival||
 | **9:00-10:30**  | **CKD imaging**                                                                                                                   |                                      |
-| 09:00       | Clinical trials on added value of MRI in CKD                                                                                  | Iris Friedli (Uppsala, Sweden)       |
+| 09:00       | [Clinical trials on added value of MRI in CKD](https://drive.google.com/file/d/17NTkQfuvexpbfwvlGuupJp8tL5KgWPOz/view?usp=sharing)                                                                                  | Iris Friedli (Uppsala, Sweden)       |
 | 09:20       | MRI: fibrosis imaging and possibilities for the kidney                                                                        | Julia Stabinska (Hopkins, USA)       |
 | 09:40       | Imaging in ADPKD: beyond total kidney volume                                                                                  | Michela Bozzetto (Bergamo, Italy)         |
-| 10:00       | Validation of MRI biomarkers by histopathology                                                                                | Ilona Dekkers (Leiden, NL)           |
+| 10:00       | [Validation of MRI biomarkers by histopathology](https://drive.google.com/file/d/1oIiAzYvkwJERy0WJAFRWIMcb0Jw1-PID/view?usp=sharing)                                                                                | Ilona Dekkers (Leiden, NL)           |
 | 10:30-11:00 | Break                                                                                                                         |                                      |
 | 11:00-11:30 | [Power pitch session 3 (3 minutes talks)](powerpitch.md#power-pitch-3)                                                                                      |                                      |
 | **11:30-12:30** | **AKI imaging**                                                                                                                   |                                      |
 | 11:30       | [General talk on AKI](https://drive.google.com/file/d/1GvSB1X3g15-FaEsvls8VTLf7Gh4WHnHi/view?usp=sharing)                                                                                                           | Lena Berchtold (Geneve, CH)          |
 | 11:45       | Multiparametric MRI assessment of renal structure and function in acute kidney injury and renal recovery                      | Sue Francis (Nottingham, UK)         |
-| 12:00       | NUC: Renal scintigraphy to predict kidney rejection                                                                           | Jouret Francois (Liege, Belgium)     |
-| 12:15       | Multi-modality renal imaging (CEUS/scintigraphy/mpMRI) in dogs (and humans)                                                   | Amber Hillaert (Ghent, Belgium)      |
+| 12:00       | [NUC: Renal scintigraphy to predict kidney rejection](https://drive.google.com/file/d/1R5JHl0GtRNdR_vBoKLyyXY9iFPQAjj7f/view?usp=sharing)                                                                           | Jouret Francois (Liege, Belgium)     |
+| 12:15       | [Multi-modality renal imaging (CEUS/scintigraphy/mpMRI) in dogs (and humans)](https://drive.google.com/file/d/1U0rQ7ogrktyduMSrowYplfFDCbbvxecT/view?usp=sharing)                                                   | Amber Hillaert (Ghent, Belgium)      |
 | 12:30-13:30 | Lunch and poster session                                                                                                                         |                                      |
 | 13:30-14:00 | [Power pitch session 4 (3 minutes talks)](powerpitch.md#power-pitch-4)                                                                                      |                                      |
 | **14:00-15:30** | **Transplant imaging and imaging of DKD**                                                                                         |                                      |
 | 14:00       | Diagnostics in renal transplant care and imaging opportunities                                                                | Suraj Serai (Philadelphia, USA)      |
 | 14:20       | [mpMRI before and after kidney transplantation? -> overview of clinical trials](https://drive.google.com/file/d/1mZOiCjVTZaPTfwhoyg-gNKcEXwCAtwXD/view?usp=sharing)                                                 | Lena Berchtold (Geneve, CH)          |
-| 14:40       | Prognostic imaging biomarkers for diabetic kidney disease (iBEAt)                                                             | Steven Sourbron (Sheffield, UK)      |
+| 14:40       | [Prognostic imaging biomarkers for diabetic kidney disease (iBEAt)](https://drive.google.com/file/d/1kke5i9cp7KeTnNQffGI4P7N6P1Pznhnz/view?usp=drive_link)                                                             | Steven Sourbron (Sheffield, UK)      |
 | 15:00       | Renal maging biomarkers in oncological diseases                                                                               | Romans Zukovs (Düsseldorf, Germany)  |
 | 15:30-16:00 | Break                                                                                                                         |                                      |
 | **16:00-17:00** | **Image processing in the clinic**                                                                                                              |                                      |
-| 16:00       | Image processing in a clinical environment: where do we stand?                                                                | Siemens: Andreas Pohlmann            |
+| 16:00       | [Image processing in a clinical environment: where do we stand?](https://drive.google.com/file/d/1SsXqChSe0r9tW5bgWfxziBSV3mVMFSUB/view?usp=drive_link)                                                                | Siemens: Andreas Pohlmann            |
 | 16:20       | Image processing in a clinical environment: where do we stand?                                                                | Philips: Hans Peeters                |
 |             |                                                                                                                               |                                      |
 | **16:45-17:15** | **Closing (+voting host next meeting)**                                                                                           | Pieter De Visschere, Pim Pullens, Alexandra Ljimani, Eric Sigmund |
