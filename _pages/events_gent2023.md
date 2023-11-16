@@ -143,7 +143,7 @@ Latest update: Aug 30, 2023
 | 10:30-11:00 | Break                                                                                                                         |                                      |
 | 11:00-11:30 | [Power pitch session 3 (3 minutes talks)](powerpitch.md#power-pitch-3)                                                                                      |                                      |
 | **11:30-12:30** | **AKI imaging**                                                                                                                   |                                      |
-| 11:30       | General talk on AKI                                                                                                           | Lena Berchtold (Geneve, CH)          |
+| 11:30       | [General talk on AKI](https://drive.google.com/file/d/1GvSB1X3g15-FaEsvls8VTLf7Gh4WHnHi/view?usp=sharing)                                                                                                           | Lena Berchtold (Geneve, CH)          |
 | 11:45       | Multiparametric MRI assessment of renal structure and function in acute kidney injury and renal recovery                      | Sue Francis (Nottingham, UK)         |
 | 12:00       | NUC: Renal scintigraphy to predict kidney rejection                                                                           | Jouret Francois (Liege, Belgium)     |
 | 12:15       | Multi-modality renal imaging (CEUS/scintigraphy/mpMRI) in dogs (and humans)                                                   | Amber Hillaert (Ghent, Belgium)      |
