@@ -151,7 +151,7 @@ Latest update: Aug 30, 2023
 | 13:30-14:00 | [Power pitch session 4 (3 minutes talks)](powerpitch.md#power-pitch-4)                                                                                      |                                      |
 | **14:00-15:30** | **Transplant imaging and imaging of DKD**                                                                                         |                                      |
 | 14:00       | Diagnostics in renal transplant care and imaging opportunities                                                                | Suraj Serai (Philadelphia, USA)      |
-| 14:20       | mpMRI before and after kidney transplantation? -> overview of clinical trials                                                 | Lena Berchtold (Geneve, CH)          |
+| 14:20       | [mpMRI before and after kidney transplantation? -> overview of clinical trials](https://drive.google.com/file/d/1mZOiCjVTZaPTfwhoyg-gNKcEXwCAtwXD/view?usp=sharing)                                                 | Lena Berchtold (Geneve, CH)          |
 | 14:40       | Prognostic imaging biomarkers for diabetic kidney disease (iBEAt)                                                             | Steven Sourbron (Sheffield, UK)      |
 | 15:00       | Renal maging biomarkers in oncological diseases                                                                               | Romans Zukovs (Düsseldorf, Germany)  |
 | 15:30-16:00 | Break                                                                                                                         |                                      |
