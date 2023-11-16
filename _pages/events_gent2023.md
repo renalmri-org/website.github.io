@@ -14,9 +14,9 @@ author_profile: false
 
 ## Thank you for a great meeting!
 
-![Participants](assets/images/gent_images/participants_preview.jpg)
+![Participants](/assets/images/gent_images/participants_preview.jpg)
 
-[Download large picture](assets/images/gent_images/participants.JPG)
+[Download large picture](/assets/images/gent_images/participants.JPG)
 
 The 2023 meeting will continue the tradition of previous meetings by soliciting content across all relevant disciplines, with this year a particular emphasis on Ultrasound and nuclear medicine alongside MRI.
 
