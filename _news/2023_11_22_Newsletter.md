@@ -1,6 +1,6 @@
 ---
-title: "2023-09-22 Newsletter"
-excerpt: "Vote: Next renal imaging meeting location"
+title: "2023-11-22 Newsletter"
+excerpt: "Call for Vice-Chair; Next meeting: Pamplona 2025; Ghent presentations online"
 ---
 
 ![image-center](/assets/images/newsletter_renalMRI.png)
