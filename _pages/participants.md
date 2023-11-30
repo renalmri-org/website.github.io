@@ -163,7 +163,7 @@ If you want to join us or the newsletter, please read and consent to our [privac
 * Erling Andersen
 * Mr. Christian Aalborg
 * Professor Hans-Peter MARTI
-* Tor Hatlestad Qvale
+* Dr. Tor H. Qvale
 
 ## 🇵🇱️ Poland
 * Prof. Andrzej Materka
