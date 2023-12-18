@@ -1,6 +1,6 @@
 ---
 title: "2023-12-18 Newsletter"
-excerpt: "VOTE: Vice-chair & new book out"
+excerpt: "VOTE: Vice-Chair & New Book out"
 ---
 
 ![image-center](/assets/images/newsletter_renalMRI.png)
