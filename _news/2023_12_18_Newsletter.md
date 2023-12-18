@@ -18,10 +18,9 @@ Please use the same email, as registered in renalmri.org. The vote will be open 
 
 We are delighted to announce the release of the latest book on “Advanced Clinical MRI of the Kidney” by editors Suraj D. Serai and Kassa Darge! 
 Secure your copy: https://link.springer.com/book/10.1007/978-3-031-40169-5
-
-
-
-
+ 
+ 
+ 
 Best regards,
 
 renalMRI Coreteam
