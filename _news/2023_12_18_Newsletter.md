@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "2023-12-18 Newsletter"
 excerpt: "VOTE: Vice-Chair & New Book out"
 ---
 
