@@ -20,6 +20,7 @@ We are delighted to announce the release of the latest book on “Advanced Clini
 Secure your copy: https://link.springer.com/book/10.1007/978-3-031-40169-5
 
 
+
 Best regards,
 
 renalMRI Coreteam
