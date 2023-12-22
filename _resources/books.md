@@ -11,7 +11,7 @@ excerpt: "Books on renal MRI"
 
 We recently had a book release on Kidney MRI.
 
-![image-center](/assets/images/resources/books/advancedclinicalmriofthekidney/book_cover.png)
+![image-center](/assets/images/resources/books/advancedclinicalmriofthekidney/book_cover_small.png)
 
 It is available on Springer website: [LINK](https://link.springer.com/book/10.1007/978-3-031-40169-5)
 
