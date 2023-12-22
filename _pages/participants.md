@@ -248,6 +248,7 @@ If you want to join us or the newsletter, please read and consent to our [privac
 * Miss Saba Shirvani
 * Mr Joao Almeida e Sousa
 * Ines Horvat Menih
+* Andrew Priest
 
 ## 🇪🇬️ Egypt
 * Prof. Mohamed Abouelghar
