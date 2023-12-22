@@ -153,6 +153,7 @@ If you want to join us or the newsletter, please read and consent to our [privac
 * Dr. Arjen van Zuilen
 * Dr. Ilona Dekkers
 * Benthe Ariëns
+* Begawan Siadari
 
 ## 🇳🇴️ Norway
 * Eli Eikefjord
