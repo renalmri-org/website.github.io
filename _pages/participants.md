@@ -85,7 +85,7 @@ If you want to join us or the newsletter, please read and consent to our [privac
 * Dr. Chacon Caldera Jorge
 * Prof. Dr. Nagel Armin
 * Dr. Alexandra Ljimani
-* Dr. Cecilia Zhang
+* Dr. Cecilia Liang
 * Irene Brumer
 * Dr. Christian Radu
 * Jonas Jasse
