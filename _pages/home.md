@@ -15,7 +15,7 @@ feature_row:
   - image_path: assets/images/authors/pim-pullens.jpeg
     image_caption: "[DR. IR. PIM PULLENS](https://unsplash.com/)"
     alt: "DR. IR. PIM PULLENS"
-  - image_path: assets/images/authors/Jose_Maria_Mora_Gutierrez.png
+  - image_path: assets/images/Jose_Maria_Mora_Gutierrez.png
     alt: "JOSE MARÍA MORA GUTIÉRREZ"
     image_caption: "[JOSE MARÍA MORA GUTIÉRREZ](https://unsplash.com/)"
   - image_path: assets/images/authors/alexandra-ljimani.jpeg
