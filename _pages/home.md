@@ -12,15 +12,15 @@ intro:
   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
 
 feature_row:
-  - image_path: assets/images/authors/alexandra-ljimani.jpeg
-    image_caption: "[DR. ALEXANDRA LJIMANI](https://unsplash.com/)"
-    alt: "DR. ALEXANDRA LJIMANI"
   - image_path: assets/images/authors/pim-pullens.jpeg
-    alt: "DR. IR. PIM PULLENS"
     image_caption: "[DR. IR. PIM PULLENS](https://unsplash.com/)"
-  - image_path: /assets/images/authors/anna-caroli.jpeg
-    alt: "DR. ANNA CAROLI"
-    image_caption: "[DR. ANNA CAROLI](https://unsplash.com/)"
+    alt: "DR. IR. PIM PULLENS"
+  - image_path: assets/images/authors/Jose_Maria_Mora_Gutierrez.png
+    alt: "JOSE MARÍA MORA GUTIÉRREZ"
+    image_caption: "[JOSE MARÍA MORA GUTIÉRREZ](https://unsplash.com/)"
+  - image_path: assets/images/authors/alexandra-ljimani.jpeg
+    alt: "DR. ALEXANDRA LJIMANI"
+    image_caption: "[DR. ALEXANDRA LJIMANI](https://unsplash.com/)"
 feature_row2:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
@@ -79,9 +79,9 @@ In recent years, the clinical interest in renal MRI has accelerated research and
 RENALMRI.org is a bottom-up member-led network coordinated by a governing committee consisting of a chair, past chair and vice chair. See [here](https://renalmri.org/governance/) for more detail.
 
 Membership is open - if you want to join the network please contact the chair. The current RENALMRI.org governing committee consists of the following members:
-- [Alexandra Ljimani](mailto:alexandra_ljimani@yahoo.de) (Chair)
-- [Pim Pullens](mailto:Pim.Pullens@uzgent.be) (vice chair)
-- [Anna Caroli](mailto:acaroli@marionegri.it) (past chair)
+- [Pim Pullens](mailto:Pim.Pullens@uzgent.be) (Chair)
+- [Jose María Mora Gutiérrez](mailto:tobe@announced.later) (Vice-Chair)
+- [Alexandra Ljimani](mailto:alexandra_ljimani@yahoo.de) (Past-Chair)
 {% endcapture %}
 
 
@@ -97,7 +97,7 @@ Membership is open - if you want to join the network please contact the chair. T
 {% capture mrs-workshop-text %}
 RENALMRI.org aims to be the go-to place for information on renal imaging, but keeping this content up to date in a rapidly changing field is a challenging task. To manage this, we are forming an editorial committee whose members take ownership of a small part of the website and commit to keeping the content and format up to date. 
 
-We are currently looking for editors in the roles below. if you are interested in one of these roles, please contact the chair [Alexandra Ljimani](mailto:alexandra_ljimani@yahoo.de):
+We are currently looking for editors in the roles below. if you are interested in one of these roles, please contact the chair [Pim Pullens](mailto:Pim.Pullens@uzgent.be):
 
 - *Communities editor*: your role will be to ensure that all relevant international communities are represented on the [communities page](https://renalmri.org/community/). You will work with the relevant communities to identify a contact person who will provide the content for the page and keep it up to date. You will remove non-response or non-active communities from the page.
 - *Resources editor*: your role will be to ensure that all resources that are relevant to the community are represented on the [resources page](https://renalmri.org/resources/). You will actively research the literature, conference proceedings and other sources that can be listed on the page, and remove resources that are no longer up to date or relevant. You will work with the editors of the individual resources (see below) to ensure consistency between the pages and avoid overlapping content.
