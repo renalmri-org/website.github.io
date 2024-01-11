@@ -10,6 +10,7 @@ Dear renalmri.org Community,
 Happy New Year! Cheers to an incredible year and new projects ahead!
 
 - **Jose María Mora Gutiérrez (Pamplona, Spain) - New Vice-Chair of renalmri.org**
+
 We had a great call for the 2024 Vice-Chair position with Iosif A Mendichovszky and Jose María Mora Gutiérrez, which is also reflected by the vote. It was a close call, however, with a lead of 55.7 %, we are happy to announce Jose María Mora Gutiérrez (Pamplona, Spain) as our new Vice-chair for renalmri.org. His expertise and dedication will undoubtedly bring valuable contributions to our team. 
 Thank you for your participation, and congratulations to the winner! 
 
