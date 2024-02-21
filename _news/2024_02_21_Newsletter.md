@@ -18,6 +18,7 @@ Please use this form to add or update your studies.
 - **ISMRM Perfusion study group [Virtual Meeting](https://www.ismrm.org/virtual-meetings/). March 1, 2024**
 
 For Sustainable Perfusion Networks: Why We Should Join One!
+
 01 March 2024 at 16:00 UTC
 
 Moderators: Patricia Clement, Ph.D., Luis Hernandez-Garcia, & Yuriko Suzuki, Ph.D.
