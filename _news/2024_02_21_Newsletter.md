@@ -27,6 +27,7 @@ Moderators: Patricia Clement, Ph.D., Luis Hernandez-Garcia, & Yuriko Suzuki, Ph.
 Networking and collaboration are not only essential for significant advancements in the scientific field but also serve as valuable avenues for gaining new experiences and enhancing research quality. Within the perfusion community, we recognize the importance of these principles. In our upcoming meeting, four prominent perfusion-related networks—OSIPI, **RenalMRI**, BIDS, and GliMR—will provide updates on their work. Additionally, they will elaborate on the advantages of joining their respective networks and engage in discussions about the challenges they encounter.
 
 - **Recent renal imaging publications**
+
 We plan to share recent publications through our newsletter. Please use this google form ([https://forms.gle/M5SYrH2BXnQwEwTv8](https://forms.gle/M5SYrH2BXnQwEwTv8)) to share your recent publications.
 
 **Upcoming conferences including renal MRI**
