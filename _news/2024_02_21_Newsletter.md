@@ -29,7 +29,7 @@ Networking and collaboration are not only essential for significant advancements
 - **Recent renal imaging publications**
 We plan to share recent publications through our newsletter. Please use this google form ([https://forms.gle/M5SYrH2BXnQwEwTv8](https://forms.gle/M5SYrH2BXnQwEwTv8)) to share your recent publications.
 
-- **Upcoming conferences including renal MRI**
+**Upcoming conferences including renal MRI**
 
 - March 26-28, ISMRM Workshop “Moving forward with IVIM”, Erlangen, DE
 - May 2-9, ISMRM Annual Meeting, Singapore
