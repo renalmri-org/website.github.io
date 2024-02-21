@@ -15,9 +15,8 @@ This should help to foster collaborations between the different groups.
 Please use this form to add or update your studies. 
 [https://forms.gle/RbN5PUda6Auzuiho9](https://forms.gle/RbN5PUda6Auzuiho9)
 
-- **ISMRM Perfusion study group Virtual Meeting. March 1, 2024**
+- **ISMRM Perfusion study group [Virtual Meeting](https://www.ismrm.org/virtual-meetings/). March 1, 2024**
 
-[https://www.ismrm.org/virtual-meetings/](https://www.ismrm.org/virtual-meetings/)
 For Sustainable Perfusion Networks: Why We Should Join One!
 01 March 2024 at 16:00 UTC
 
