@@ -16,43 +16,43 @@ Mark your calendars! We are pleased to share important announcements from the IS
 - Mark your schedules for the following sessions with Renal MR focus:
 
 Saturday, 04 May 2024 09:10 - 09:40
-Imaging of Fibrosis Across the Body, MRI of Renal Fibrosis; Lilach Lerman (Mayo Clinic)
+**Imaging of Fibrosis Across the Body**, MRI of Renal Fibrosis; Lilach Lerman (Mayo Clinic)
 
 Saturday, 04 May 2024 16:00 - 16:30
-IVIM Across Organs, Clinical Application of IVIM in the Liver, Kidneys, Pancreas & Bowel; Shintaro Ichikawa (Hamamatsu University School of Medicine)
+**IVIM Across Organs, Clinical Application of IVIM in the Liver**, Kidneys, Pancreas & Bowel; Shintaro Ichikawa (Hamamatsu University School of Medicine)
 
 Monday, 06 May 2024 08:15 - 09:15
-Quantitative Imaging for Body Applications, Body
+**Quantitative Imaging for Body Applications**, Body
 
 Tuesday, 07 May 2024 09:15 - 10:15
-Diffusion Clinical Applications: Body, Diffusion
+**Diffusion Clinical Applications: Body**, Diffusion
 
 Tuesday, 07 May 2024 09:15 - 10:15
-IVIM Methodology, Diffusion
+**IVIM Methodology**, Diffusion
 
 Tuesday, 07 May 2024 13:30 - 14:30 SGT Room: Exhibition Hall
-Flushing Out: Kidney & Bladder I
+**Flushing Out: Kidney & Bladder I**
 
 Tuesday, 07 May  2024 14:30 - 15:30 SGT Room: Exhibition Hall
-Flushing Out: Kidney & Bladder II
+**Flushing Out: Kidney & Bladder II**
 
 Tuesday, 07 May  2024 15:45 – 17:45 SGT Educational Sessions
-Kidney & Bladder: What's New?
+**Kidney & Bladder: What's New?**
 
 Wednesday, 08 May 2024 08:15 - 10:15
-Urinary Disturbance, Body                     
+**Urinary Disturbance, Body**                     
 
 Thursday, 09 May 2024 13:45 - 14:45
-Tissue Composition & Characterization I, Body                      
+**Tissue Composition & Characterization I, Body**                      
 
 
 Last but not least, check out the following **recent renal imaging publications**:
 
-- Tobias Klein et al., Dynamic parametric MRI and deep learning: Unveiling renal pathophysiology through accurate kidney size quantification. [https://doi.org/10.1002/nbm.5075](https://doi.org/10.1002/nbm.5075)
-- Ehsan Tasbihi et al., In vivo monitoring of renal tubule volume fraction using dynamic parametric MRI. [https://doi.org/10.1002/mrm.30023](https://doi.org/10.1002/mrm.30023)
-- Jonas Jasse et al., Toward Optimal Fitting Parameters for Multi-Exponential DWI Image Analysis of the Human Kidney: A Simulation Study Comparing Different Fitting Algorithms. [https://doi.org/10.3390/math12040609](https://doi.org/10.3390/math12040609)
-- Mohamed M. Elsingergy et al., Imaging fibrosis in pediatric kidney transplantation: A pilot study. [https://doi.org/10.1111/petr.14540](https://doi.org/10.1111/petr.14540)
-- Marcos Wolf et al., Magnetic resonance elastography resolving all gross anatomical segments of the kidney during controlled hydration. [http://dx.doi.org/10.3389/fphys.2024.1327407](http://dx.doi.org/10.3389/fphys.2024.1327407)
+- Tobias Klein et al., *Dynamic parametric MRI and deep learning: Unveiling renal pathophysiology through accurate kidney size quantification*. [https://doi.org/10.1002/nbm.5075](https://doi.org/10.1002/nbm.5075)
+- Ehsan Tasbihi et al., *In vivo monitoring of renal tubule volume fraction using dynamic parametric MRI*. [https://doi.org/10.1002/mrm.30023](https://doi.org/10.1002/mrm.30023)
+- Jonas Jasse et al., *Toward Optimal Fitting Parameters for Multi-Exponential DWI Image Analysis of the Human Kidney: A Simulation Study Comparing Different Fitting Algorithms*. [https://doi.org/10.3390/math12040609](https://doi.org/10.3390/math12040609)
+- Mohamed M. Elsingergy et al., *Imaging fibrosis in pediatric kidney transplantation: A pilot study*. [https://doi.org/10.1111/petr.14540](https://doi.org/10.1111/petr.14540)
+- Marcos Wolf et al., *Magnetic resonance elastography resolving all gross anatomical segments of the kidney during controlled hydration*. [http://dx.doi.org/10.3389/fphys.2024.1327407](http://dx.doi.org/10.3389/fphys.2024.1327407)
 
 
 Do you also want to share your recent publications through our newsletter? Please use this [google form](https://forms.gle/M5SYrH2BXnQwEwTv8).
