@@ -11,7 +11,7 @@ We have the following updates for you:
 
 - **SAVE THE DATE**: 6th International Renal Imaging Meeting, **October 13 & 14, 2025**
 ![image-center](/assets/images/pamplona2025/BannerRenalmeeting_2025.png)
-- Would you like to assist in organizing the 6th international renal imaging meeting? Volunteer for the scientific programme committee! The committee is responsible for the scientific content, programme, and inviting speakers. Any level of experience is welcome to join (PhD student to full professor). Send a short message to renalimagingmeeting@gmail.com
+- Would you like to assist in organizing the 6th international renal imaging meeting? Volunteer for the scientific programme committee! The committee is responsible for the scientific content, programme, and inviting speakers. Any level of experience is welcome to join (PhD student to full professor). Send a short message to (renalimagingmeeting@gmail.com)[mailto:renalimagingmeeting@gmail.com]
 
 Last but not least, check out the following recent renal imaging publications:
 
