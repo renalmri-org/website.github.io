@@ -1,6 +1,6 @@
 ---
-title: "2024-04-25 Newsletter"
-excerpt: "Renal MR Study Group Updates for the ISMRM"
+title: "2024-09-04 Newsletter"
+excerpt: "Renal Imaging Meeting Updates"
 ---
 
 ![image-center](/assets/images/newsletter_renalMRI.png)
