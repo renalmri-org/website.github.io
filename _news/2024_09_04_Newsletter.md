@@ -15,11 +15,11 @@ We have the following updates for you:
 
 Last but not least, check out the following recent renal imaging publications:
 
-- Anna Caroli et al., Diffusion magnetic resonance imaging for kidney cyst volume quantification and non‑cystic tissue characterisation in ADPKD. https://doi.org/10.1007/s00330-023-09601-4
-- Giulia Villa et al., Functional Magnetic Resonance Imaging to Monitor Disease Progression: A Prospective Study in Patients with Primary Membranoproliferative Glomerulonephritis. https://doi.org/10.1159/000534893
-- Thoralf Niendorf et al., MRI of kidney size matters. https://doi.org/10.1007/s10334-024-01168-5
-- Steven P. Rowea et al., Molecular imaging for non-invasive risk stratification of renal masses. https://doi.org/10.1016/j.diii.2024.07.003
-- Amber Hillaert et al. Assessment of pharmacologically induced changes in canine kidney function by multiparametric magnetic resonance imaging and contrast enhanced ultrasound. https://doi.org/10.3389/fvets.2024.1406343
+- Anna Caroli et al., *Diffusion magnetic resonance imaging for kidney cyst volume quantification and non‑cystic tissue characterisation in ADPKD.* https://doi.org/10.1007/s00330-023-09601-4
+- Giulia Villa et al., *Functional Magnetic Resonance Imaging to Monitor Disease Progression: A Prospective Study in Patients with Primary Membranoproliferative Glomerulonephritis.* https://doi.org/10.1159/000534893
+- Thoralf Niendorf et al., *MRI of kidney size matters.* https://doi.org/10.1007/s10334-024-01168-5
+- Steven P. Rowea et al., *Molecular imaging for non-invasive risk stratification of renal masses.* https://doi.org/10.1016/j.diii.2024.07.003
+- Amber Hillaert et al. *Assessment of pharmacologically induced changes in canine kidney function by multiparametric magnetic resonance imaging and contrast enhanced ultrasound.* https://doi.org/10.3389/fvets.2024.1406343
 
 Do you also want to share your recent publications through our newsletter? Please use this google form (https://forms.gle/M5SYrH2BXnQwEwTv8).
 
