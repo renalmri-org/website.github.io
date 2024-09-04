@@ -25,9 +25,9 @@ Do you also want to share your recent publications through our newsletter? Pleas
 
 **Upcoming conferences including renal MRI**
 - ESUR 2024 (https://lisbon2024.esur.org/) - September 19-22
-
-
-
+ 
+ 
+ 
 Best wishes, 
 
 renalMRI Coreteam
