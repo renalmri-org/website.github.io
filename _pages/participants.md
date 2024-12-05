@@ -195,6 +195,7 @@ If you want to join us or the newsletter, please read and consent to our [privac
 * Prof. Alberto Ortiz
 * Leyre García Ruiz
 * Jose María Mora Gutiérrez
+* Dra. Verónica Aramendía Vidaurreta
 
 ## 🇸🇪️ Sweden
 * Prof. Paul Hockings
