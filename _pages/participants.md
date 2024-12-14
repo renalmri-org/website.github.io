@@ -202,6 +202,7 @@ If you want to join us or the newsletter, please read and consent to our [privac
 * Dr. Per Liss
 * Dr. Moritz Schneider
 * Dr. Lisa Jarl
+* Felix Berglund
 
 ## 🇨🇭️ Switzerland
 * Prof. Jean Paul Vallee
