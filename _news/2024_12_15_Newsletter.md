@@ -1,5 +1,5 @@
 ---
-title: "2024-12-14 Newsletter"
+title: "2024-12-15 Newsletter"
 excerpt: "ISMRM Body MRI Workshop"
 ---
 
