@@ -25,7 +25,7 @@ The renal MRI community has been organising bi-annual international meeting sinc
 
 # Past meetings
 
-## [11/12 Sept 2023 - 5th international renal imaging meeting](https://renalmri.org/events/gent2023)
+## [11/12 Sept 2023 - 5th international renal imaging meeting (Gent)](https://renalmri.org/events/gent2023)
 [![promo](/assets/images/gent_images/gent_promo.png)](https://renalmri.org/events/gent2023)
 
 ## [2021 - 4th international renal imaging meeting (Lisbon & Philadelphia)](https://www.ismrm.org/workshops/2021/Kidney/)
