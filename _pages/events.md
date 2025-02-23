@@ -8,7 +8,7 @@ author_profile: false
 
 # Future international renal imaging meetings
 
-## 6th international renal imaging meeting
+## [13/14 Oct 2025 - 6th international renal imaging meeting](https://renalmri.org/events/pamplona2025)
 
 [![promo](/assets/images/BannerRenalmeeting_2025.png)](https://renalmri.org/events/pamplona2025)
 
