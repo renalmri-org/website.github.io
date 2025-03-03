@@ -141,7 +141,7 @@ Latest update: Feb 23, 2025
 |9:00|From molecules to images: Proteomics and renal MRI for precision nephrology|Marta Ruiz (Madrid, Spain)|
 |9:15|What can Onco-Nephrology learn from Onco-Cardiology?|Leyre Zubiri (Harvard MGH, Boston)|
 |9:30|MR Urography|Beatrice Damasio, Istituto Giannina Gaslini, Italy|
-|9:45	Pediatric kidney transplant|Hansel J. Otero (CHOP, Philadelphia)|
+|9:45|Pediatric kidney transplant|Hansel J. Otero (CHOP, Philadelphia)|
 |10:00|The role of renal MRI in transplant medicine|Cecilia Liang (Thübingen, Germany)|
 |10:15|Quantitative kidney MRI before and after dialysis?|Menno Prujim (Geneve, Switzerland)|
 
