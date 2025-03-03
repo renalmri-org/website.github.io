@@ -65,11 +65,11 @@ Download a template [link](add_link).
 
 | <!-- --> | <!-- --> |
 |-----|-----|
-**Alexandra Ljimani, MD**<br>Location<br>Düsseldorf, DE |**Suraj Serai, Title**<br>Location<br>Philadelphia, US
-**Pim Pullens, Dr**<br>Location<br>City, Countrycode |**Iosif A Mendichovszky, MD**<br>Location<br>City, Countrycode
-**Rebeca Echeverria Chasco, Title**<br>Location<br>City, ES |**Hreedi Dev, Title**<br>Location<br>City, Countrycode|
-**Frank Zöllner, Prof Dr**<br>Location<br>Heidelberg, DE |**Paul Summers, Prof**<br>Location<br>City, Countrycode|
-**Marcos Wolf, MD**<br>Location<br>City, Countrycode|**José María Mora Gutiérrez**<br>Location<br>City, ES|
+|**Rebeca Echeverria Chasco, Title**<br>Location<br>City, ES|**Hreedi Dev, BA**<br>Weill Cornell Medicine<br>New York, US|
+|**José María Mora Gutiérrez**<br>Location<br>City, ES|**Alexandra Ljimani, MD**<br>Location<br>Düsseldorf, DE|
+|**Pim Pullens, Dr**<br>Location<br>City, Countrycode|**Iosif A Mendichovszky, MD**<br>Location<br>City, Countrycode|
+|**Suraj Serai, Title**<br>Location<br>Philadelphia, US|**Paul Summers, Prof**<br>Location<br>City, Countrycode|
+|**Frank Zöllner, Prof Dr**<br>Location<br>Heidelberg, DE|**Marcos Wolf, MD**<br>University Hospital of St Pölten<br>St Pölten, AT|
 
 ## Local Organising committee
 
