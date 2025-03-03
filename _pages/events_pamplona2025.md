@@ -66,16 +66,17 @@ Download a template [link](add_link).
 | <!-- --> | <!-- --> |
 |-----|-----|
 |**Rebeca Echeverria Chasco, Title**<br>Location<br>City, ES|**Hreedi Dev, BA**<br>Weill Cornell Medicine<br>New York, US|
-|**José María Mora Gutiérrez**<br>Location<br>City, ES|**Alexandra Ljimani, MD**<br>Location<br>Düsseldorf, DE|
-|**Pim Pullens, Dr**<br>Location<br>City, Countrycode|**Iosif A Mendichovszky, MD**<br>Location<br>City, Countrycode|
-|**Suraj Serai, Title**<br>Location<br>Philadelphia, US|**Paul Summers, Prof**<br>Location<br>City, Countrycode|
-|**Frank Zöllner, Prof Dr**<br>Location<br>Heidelberg, DE|**Marcos Wolf, MD**<br>University Hospital of St Pölten<br>St Pölten, AT|
+|**Maria A. Fernández-Seara, Research Prof**<br>Clínica Universidad de Navarra<br>Pamplona, ES|**José María Mora Gutiérrez**<br>Location<br>City, ES|
+|**Alexandra Ljimani, MD**<br>Location<br>Düsseldorf, DE|**Pim Pullens, Dr**<br>Location<br>City, Countrycode|
+|**Iosif A Mendichovszky, MD**<br>Location<br>City, Countrycode|**Suraj Serai, Title**<br>Location<br>Philadelphia, US|
+|**Paul Summers, Prof**<br>Location<br>City, Countrycode|**Frank Zöllner, Prof Dr**<br>Location<br>Heidelberg, DE|
+|**Marcos Wolf, MD**<br>University Hospital of St Pölten<br>St Pölten, AT|
 
 ## Local Organising committee
 
 | <!-- --> | <!-- --> |
 |-----|-----|
-**José María Mora Gutiérrez**<br>renalmri.org vice-chair<br>Position at Locationy<br>memberships| **Name, Title**<br>position at Location<br>memberships|
+**José María Mora Gutiérrez**<br>renalmri.org vice-chair<br>Position at Locationy<br>memberships|**Maria A. Fernández-Seara, Research Prof**<br>Clínica Universidad de Navarra<br>Pamplona, ES|
 **Name, Title**<br>Position at Location<br>memberships||
 
 # Program
