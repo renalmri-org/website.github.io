@@ -12,7 +12,7 @@ We are currently preparing the next meeting and setting up the homepage.
 Subscribe to our [newsletter](mailto:renalmri@gmail.com) to get informed when we are done. 
 
 Short excerpt/introduction to the meeting
-Registration Fee: Residents and PhD students €XXX, Regular Fee €XXX
+Registration Fee: Residents and PhD students €150, Regular Fee €300
 
 **Please note that you will only receive a confirmation of your participation after your payment is processed. This may take a couple of days.**
 
@@ -65,10 +65,11 @@ Download a template [link](add_link).
 
 | <!-- --> | <!-- --> |
 |-----|-----|
-**Name, Title**<br>Location<br>City, Countrycode |**Name, Title**<br>Location<br>City, Countrycode
-**Name, Title**<br>Location<br>City, Countrycode |**Name, Title**<br>Location<br>City, Countrycode
-**Name, Title**<br>Location<br>City, Countrycode |**Name, Title**<br>Location<br>City, Countrycode|
-**José María Mora Gutiérrez**<br>Location<br>City, ES||
+**Alexandra Ljimani, MD**<br>Location<br>Düsseldorf, DE |**Suraj Serai, Title**<br>Location<br>Philadelphia, US
+**Pim Pullens, Dr**<br>Location<br>City, Countrycode |**Iosif A Mendichovszky, MD**<br>Location<br>City, Countrycode
+**Rebeca Echeverria Chasco, Title**<br>Location<br>City, ES |**Hreedi Dev, Title**<br>Location<br>City, Countrycode|
+**Frank Zöllner, Prof Dr**<br>Location<br>Heidelberg, DE |**Paul Summers, Prof**<br>Location<br>City, Countrycode|
+**Marcos Wolf, MD**<br>Location<br>City, Countrycode|**José María Mora Gutiérrez**<br>Location<br>City, ES|
 
 ## Local Organising committee
 
@@ -86,8 +87,9 @@ Latest update: Feb 23, 2025
 | <!-- --> | <!-- -->  |  <!-- --> |
 |---|---|---|
 |8:30-9:00|Coffee desk upon arrival||
-|**9:00-10:00**|**Opening**||
-|09:00|Welcome and Objectives|María Fernández Seara - Nuria García Fernández (Local Steering Committe, (Pamplona, Spain)|
+|**9:00-10:00**|**Opening**|chairs: María Fernández Seara, Nuria García Fernández |
+|09:00|Welcome and Objectives|María Fernández Seara - Nuria García Fernández (Local Steering Committe|
+|09:15|renalMRI.org: The Widening Spread of Renal MRI: Nephrology-Engineering-Radiology Working Together (Barrers and Accesibility)|José María Mora Gutiérrez|
 
 ## Tuesday, September 12
 
