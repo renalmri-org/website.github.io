@@ -75,19 +75,19 @@ Download a template [link](add_link).
 
 | <!-- --> | <!-- --> |
 |-----|-----|
-|**Rebeca Echeverria Chasco, Title**<br>Location<br>City, ES|**Hreedi Dev, BA**<br>Weill Cornell Medicine<br>New York, US|
-|**Maria A. Fernández-Seara, Research Prof**<br>Clínica Universidad de Navarra<br>Pamplona, ES|**José María Mora Gutiérrez**<br>Location<br>City, ES|
-|**Alexandra Ljimani, MD**<br>Location<br>Düsseldorf, DE|**Pim Pullens, Dr**<br>Location<br>City, Countrycode|
-|**Iosif A Mendichovszky, MD**<br>Location<br>City, Countrycode|**Suraj Serai, Title**<br>Location<br>Philadelphia, US|
-|**Paul Summers, Prof**<br>Location<br>City, Countrycode|**Frank Zöllner, Prof Dr**<br>Location<br>Heidelberg, DE|
-|**Marcos Wolf, MD**<br>University Hospital of St Pölten<br>St Pölten, AT|
+|**Rebeca Echeverria Chasco, Dra**<br>Clínica Universidad de Navarra<br>Pamplona, ES|**Hreedi Dev, BA**<br>Weill Cornell Medicine<br>New York, US|
+|**María A. Fernández-Seara, Dra**<br>Clínica Universidad de Navarra<br>Pamplona, ES|**Nuria García Fernández, Dra**<br>Clínica Universidad de Navarra<br>Pamplona, ES|
+|**José María Mora Gutiérrez, Dr**<br>Clínica Universidad de Navarra<br>Pamplona, ES|**Alexandra Ljimani, MD**<br>University Hospital Düsseldorf<br>Düsseldorf, DE|
+|**Pim Pullens, Prof Dr**<br>Ghent University Hospital<br>Ghent, BE|**Iosif A Mendichovszky, MD**<br>Cambridge University Hospitals<br>Cambridge, UK|
+|**Suraj Serai, PhD**<br>Children's Hospital of Philadelphia<br>Philadelphia, US|**Paul Summers, Prof**<br>Location<br>City, IT|
+|**Marcos Wolf, MD**<br>University Hospital of St Pölten<br>St Pölten, AT|**Frank Zöllner, Prof Dr**<br>Universität Heidelberg<br>Heidelberg, DE|
 
 ## Local Organising committee
 
 | <!-- --> | <!-- --> |
 |-----|-----|
-**José María Mora Gutiérrez**<br>renalmri.org vice-chair<br>Position at Locationy<br>memberships|**Maria A. Fernández-Seara, Research Prof**<br>Clínica Universidad de Navarra<br>Pamplona, ES|
-**Name, Title**<br>Position at Location<br>memberships||
+**José María Mora Gutiérrez, Dr**<br>renalmri.org vice-chair<br>Specialist in Nephrology|**Nuria García Fernández, Dra**<br>Director of the Nephrology Service<br>Specialist in Neohrology|
+|**María A. Fernández-Seara, Dra**<br>Researcher. Biomedical Engineer Phd|**Rebeca Echeverria Chasco, Dra**<br>Researcher. Biomedical Engineer Phd|
 
 # Program
 
