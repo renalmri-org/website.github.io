@@ -21,11 +21,21 @@ Registration Fee: Residents and PhD students €150, Regular Fee €300
 # Housing
  
 The list of hotels that offer discount fees see below:
-- [Hotel](add_link)
+- [Occidental Pamplona Hotel](https://www.barcelo.com/es-es/occidental-pamplona) (1.3km. 17 minutes walking)
+- [Albret Hotel](https://www.hotelalbret.com) (1.8km. 25 minutes walking)
+- [NH Iruña Park Hotel](https://www.nh-hotels.com/es/hotel/nh-pamplona-iruna-park) (1.7km. 23 minutes walking)
+- [Blanca de Navarra Hotel](https://www.hotelblancadenavarra.com/) (950mts. 13 minutes walking)
+- [Tres Reyes Hotel](https://www.hotel3reyes.com/es/hotel-tres-reyes/) (2.5km. 34 minutes walking)
+- [Alda Hotel](https://www.aldahotels.es/hoteles/navarra) (2.6km. 36 minutes walking)
+- [Maisonnave Hotel](https://www.hotelmaisonnave.es/) (2.6km. 36 minutes walking)
+- [Ronces Hotel](https://www.booking.com/hotel/es/residencia-roncesvalles-pamplona.es) (1.9km. 26 minutes walking)
+- [Sancho Ramírez Hotel](https://www.hotelsanchoramirez.com) (1.2km. 17 minutes walking)
 
-The information about how to get the hotel discount fees will be e-mailed after registration.
+The information about how to get the hotel discount fees will be e-mailed after registration. Expected price range (depending on the room and hotel setting) is EUR 72-195
 
 # Abstract Guidelines
+
+**Abstracts Submission Deadline: June 20th at 23:59 CET**
 
 [Abstract Submission form](add_Link) (maybe Google login will be needed)
 
@@ -181,9 +191,7 @@ Latest update: Feb 23, 2025
 
 ## City of Pamplona, Spain
 
-"known for ..."
-
-Integration location with the aim of this meeting. 
+Pamplona, the capital of Spain’s Navarra region, is best known for the **Running of the Bulls (San Fermín festival)**, held every July. This historic city boasts a charming medieval old town, **well-preserved city walls**, and the impressive **Cathedral of Santa María la Real**. With a rich cultural heritage, excellent gastronomy (famous for pintxos and regional wines), and a strategic location on the **Camino de Santiago**, Pamplona blends tradition with modernity, offering visitors a mix of history, nature, and vibrant local life.
 
 ![Pamplonaimage](/assests/images/pamplona2025/BannerRenalmeeting_2025.png)
 
