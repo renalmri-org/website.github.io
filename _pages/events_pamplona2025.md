@@ -75,7 +75,7 @@ Download a template [link](add_link).
 
 | <!-- --> | <!-- --> |
 |-----|-----|
-|**Rebeca Echeverria Chasco, Dra**<br>Clínica Universidad de Navarra<br>Pamplona, ES|**Hreedi Dev, BA**<br>Weill Cornell Medicine<br>New York, US|
+|**Rebeca Echeverria Chasco, PhD**<br>Clínica Universidad de Navarra<br>Pamplona, ES|**Hreedi Dev, BA**<br>Weill Cornell Medicine<br>New York, US|
 |**María A. Fernández-Seara, Dra**<br>Clínica Universidad de Navarra<br>Pamplona, ES|**Nuria García Fernández, Dra**<br>Clínica Universidad de Navarra<br>Pamplona, ES|
 |**José María Mora Gutiérrez, Dr**<br>Clínica Universidad de Navarra<br>Pamplona, ES|**Alexandra Ljimani, MD**<br>University Hospital Düsseldorf<br>Düsseldorf, DE|
 |**Pim Pullens, Prof Dr**<br>Ghent University Hospital<br>Ghent, BE|**Iosif A Mendichovszky, MD**<br>Cambridge University Hospitals<br>Cambridge, UK|
@@ -87,7 +87,7 @@ Download a template [link](add_link).
 | <!-- --> | <!-- --> |
 |-----|-----|
 **José María Mora Gutiérrez, Dr**<br>renalmri.org vice-chair<br>Specialist in Nephrology|**Nuria García Fernández, Dra**<br>Director of the Nephrology Service<br>Specialist in Neohrology|
-|**María A. Fernández-Seara, Dra**<br>Researcher. Biomedical Engineer Phd|**Rebeca Echeverria Chasco, Dra**<br>Researcher. Biomedical Engineer Phd|
+|**María A. Fernández-Seara, Dra**<br>Researcher. Biomedical Engineer Phd|**Rebeca Echeverria Chasco, PhD**<br>Researcher. Biomedical Engineer Phd|
 
 # Program
 
