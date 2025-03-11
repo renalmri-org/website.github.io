@@ -87,7 +87,7 @@ Download a template [link](add_link).
 | <!-- --> | <!-- --> |
 |-----|-----|
 **José María Mora Gutiérrez, Dr**<br>renalmri.org vice-chair<br>Specialist in Nephrology|**Nuria García Fernández, Dra**<br>Director of the Nephrology Service<br>Specialist in Neohrology|
-|**María A. Fernández-Seara, Dra**<br>Researcher. Biomedical Engineer Phd|**Rebeca Echeverria Chasco, PhD**<br>Researcher. Biomedical Engineer Phd|
+|**María A. Fernández-Seara, Dra**<br>Researcher. Biomedical Engineer PhD|**Rebeca Echeverria Chasco, PhD**<br>Researcher. Biomedical Engineer PhD|
 
 # Program
 
