@@ -13,7 +13,7 @@ Subscribe to our [newsletter](mailto:renalmri@gmail.com) to get informed when we
 
 Short excerpt/introduction to the meeting
 
-<font size="7">Registration Fee:</font>
+<font size="5">Registration Fee:</font>
 <p align="center">Residents and PhD students €150</p>
 <p align="center">Regular Fee €300</p>
 
