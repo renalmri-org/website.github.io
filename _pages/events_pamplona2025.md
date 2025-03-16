@@ -12,7 +12,12 @@ We are currently preparing the next meeting and setting up the homepage.
 Subscribe to our [newsletter](mailto:renalmri@gmail.com) to get informed when we are done. 
 
 Short excerpt/introduction to the meeting
-Registration Fee: Residents and PhD students €150, Regular Fee €300
+
+Registration Fee: 
+
+Residents and PhD students €150
+
+Regular Fee €300
 
 **Please note that you will only receive a confirmation of your participation after your payment is processed. This may take a couple of days.**
 
