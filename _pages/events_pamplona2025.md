@@ -16,10 +16,10 @@ Short excerpt/introduction to the meeting
 **Registration Fee:** 
 <p align="center">
 Residents and PhD students €150
- 
+</p>
+<p align="center">
 Regular Fee €300
 </p>
-
 
 **Please note that you will only receive a confirmation of your participation after your payment is processed. This may take a couple of days.**
 
