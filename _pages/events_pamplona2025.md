@@ -79,7 +79,7 @@ Download a template [link](add_link).
 |**María A. Fernández-Seara, Dra**<br>Clínica Universidad de Navarra<br>Pamplona, ES|**Nuria García Fernández, Dra**<br>Clínica Universidad de Navarra<br>Pamplona, ES|
 |**José María Mora Gutiérrez, Dr**<br>Clínica Universidad de Navarra<br>Pamplona, ES|**Alexandra Ljimani, MD**<br>University Hospital Düsseldorf<br>Düsseldorf, DE|
 |**Pim Pullens, Prof Dr**<br>Ghent University Hospital<br>Ghent, BE|**Iosif A Mendichovszky, MD**<br>Cambridge University Hospitals<br>Cambridge, UK|
-|**Suraj Serai, PhD**<br>Children's Hospital of Philadelphia<br>Philadelphia, US|**Paul Summers, Prof**<br>Location<br>City, IT|
+|**Suraj Serai, PhD**<br>Children's Hospital of Philadelphia<br>Philadelphia, US|**Paul Summers, PhD**<br>SFU ImageTech Lab<br>Surrey, CA|
 |**Marcos Wolf, MD**<br>University Hospital of St Pölten<br>St Pölten, AT|**Frank Zöllner, Prof Dr**<br>Universität Heidelberg<br>Heidelberg, DE|
 
 ## Local Organising committee
