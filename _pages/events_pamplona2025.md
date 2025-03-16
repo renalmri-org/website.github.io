@@ -16,6 +16,7 @@ Short excerpt/introduction to the meeting
 **Registration Fee:** 
 <p align="center">
 Residents and PhD students €150
+ 
 Regular Fee €300
 </p>
 
