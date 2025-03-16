@@ -13,10 +13,10 @@ Subscribe to our [newsletter](mailto:renalmri@gmail.com) to get informed when we
 
 Short excerpt/introduction to the meeting
 
-Registration Fee: 
-
+**Registration Fee:** 
+<p align="center">
 Residents and PhD students €150
-
+</p>
 Regular Fee €300
 
 **Please note that you will only receive a confirmation of your participation after your payment is processed. This may take a couple of days.**
@@ -25,7 +25,7 @@ Regular Fee €300
 
 # Housing
  
-The list of hotels that offer discount fees see below:
+The following hotels are offering discounted rates::
 - [Occidental Pamplona Hotel](https://www.barcelo.com/es-es/occidental-pamplona) (1.3km. 17 minutes walking)
 - [Albret Hotel](https://www.hotelalbret.com) (1.8km. 25 minutes walking)
 - [NH Iruña Park Hotel](https://www.nh-hotels.com/es/hotel/nh-pamplona-iruna-park) (1.7km. 23 minutes walking)
