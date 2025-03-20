@@ -20,11 +20,11 @@ Short excerpt/introduction to the meeting
 
 **Please note that you will only receive a confirmation of your participation after your payment is processed. This may take a couple of days.**
 
-[Program](#program) | [Abstract Guidelines](#abstract-guidelines) | [Registration](https://congrezzo.ugent.be/international_renal_imaging_meeting_2023/) | [Organisers](#program-committee) | [Travel](#location-and-travel) | [Housing](#housing)
+[Registration](https://forms.microsoft.com/Pages/ResponsePage.aspx?id=FiQRprAHpUGbsdFGtXXJdYCxLXGnEoFFrrAUyLxxVdxUMk9aTkpIRTdRRldESVNFNk4xWUNGWVNMTC4u&origin=Invitation&channel=0) | [Organisers](#program-committee) | [Program](#program) | [Abstract Guidelines](#abstract-guidelines) | [Housing](#housing) | [Travel](#location-and-travel) | 
 
 # Housing
  
-The following hotels are offering discounted rates::
+The following hotels are close to the venue:
 - [Occidental Pamplona Hotel](https://www.barcelo.com/es-es/occidental-pamplona) (1.3km. 17 minutes walking)
 - [Albret Hotel](https://www.hotelalbret.com) (1.8km. 25 minutes walking)
 - [NH Iruña Park Hotel](https://www.nh-hotels.com/es/hotel/nh-pamplona-iruna-park) (1.7km. 23 minutes walking)
@@ -35,7 +35,7 @@ The following hotels are offering discounted rates::
 - [Ronces Hotel](https://www.booking.com/hotel/es/residencia-roncesvalles-pamplona.es) (1.9km. 26 minutes walking)
 - [Sancho Ramírez Hotel](https://www.hotelsanchoramirez.com) (1.2km. 17 minutes walking)
 
-Information about how to obtain the discounted hotel rates will be e-mailed after registration. Expected price range (depending on the room and hotel setting) is EUR 72-195
+Further information about the hotel rates will be e-mailed after registration. Expected price range (depending on the room and hotel setting) is EUR 72-195.
 
 # Abstract Guidelines
 
@@ -80,7 +80,7 @@ Download a template [link](add_link).
 | <!-- --> | <!-- --> |
 |-----|-----|
 |**Rebeca Echeverria Chasco, PhD**<br>Clínica Universidad de Navarra<br>Pamplona, ES|**Hreedi Dev, BA**<br>Weill Cornell Medicine<br>New York, US|
-|**María A. Fernández-Seara, Dra**<br>Clínica Universidad de Navarra<br>Pamplona, ES|**Nuria García Fernández, Dra**<br>Clínica Universidad de Navarra<br>Pamplona, ES|
+|**Maria A. Fernández-Seara, Research Prof**<br>Clínica Universidad de Navarra<br>Pamplona, ES|**Nuria García Fernández, Dra**<br>Clínica Universidad de Navarra<br>Pamplona, ES|
 |**José María Mora Gutiérrez, Dr**<br>Clínica Universidad de Navarra<br>Pamplona, ES|**Alexandra Ljimani, MD**<br>University Hospital Düsseldorf<br>Düsseldorf, DE|
 |**Pim Pullens, Prof Dr**<br>Ghent University Hospital<br>Ghent, BE|**Iosif A Mendichovszky, MD**<br>Cambridge University Hospitals<br>Cambridge, UK|
 |**Suraj Serai, PhD**<br>Children's Hospital of Philadelphia<br>Philadelphia, US|**Paul Summers, PhD**<br>SFU ImageTech Lab<br>Surrey, CA|
@@ -91,7 +91,7 @@ Download a template [link](add_link).
 | <!-- --> | <!-- --> |
 |-----|-----|
 **José María Mora Gutiérrez, Dr**<br>renalmri.org vice-chair<br>Specialist in Nephrology|**Nuria García Fernández, Dra**<br>Director of the Nephrology Service<br>Specialist in Neohrology|
-|**María A. Fernández-Seara, Dra**<br>Researcher. Biomedical Engineer PhD|**Rebeca Echeverria Chasco, PhD**<br>Researcher. Biomedical Engineer PhD|
+|**Maria A. Fernández-Seara, Research Prof**<br>Researcher. Biomedical Engineer PhD|**Rebeca Echeverria Chasco, PhD**<br>Researcher. Biomedical Engineer PhD|
 
 # Program
 
@@ -104,44 +104,44 @@ Latest update: Feb 23, 2025
 |8:30-9:00|Coffee desk upon arrival||
 |**9:00-10:00**|**Opening**|**Chairs: María Fernández Seara, Nuria García Fernández**|
 |09:00|Welcome and Objectives|María Fernández Seara - Nuria García Fernández (Local Steering Committe|
-|09:15|renalMRI.org: The Widening Spread of Renal MRI: Nephrology-Engineering-Radiology Working Together (Barrers and Accesibility)|José María Mora Gutiérrez|
-|09:30|CKD: The burden of disease invisible to research funders|Alberto Ortiz Arduan / Beatriz Fernández (Madrid, Spain)|
-|09:45|Renal imaging in ISMRM - new updates|Octavia Bane and Suraj Serai|
+|09:15|renalMRI.org: The Widening Spread of Renal MRI: Nephrology-Engineering-Radiology Working Together (Barrers and Accesibility)|TBC|
+|09:30|CKD: The burden of disease invisible to research funders|TBC|
+|09:45|Renal imaging in ISMRM - new updates|TBC|
 
 |10:00-10:30|Break||
 
 |**10:30-12:00**|**Cardiovascular-Kidney-Metabolic Health**|**Chairs: TBA**|
-|10:30|New strategies for protecting kidney function in CKD|José Luis Gorriz (Valencia, Spain)|
-|10:45|Obesity and Kidney. What can Renal MRI tell us?|Petter Bjornstad (Colorado, USA)|
-|11:00|Fat in and around the kidneys - what does it mean?|Hildo Lamb (Leiden, Netherlands)|
-|11:15|The Art of measuring GFR non-invasively, rather than "estimating"|Esteban Porrini (Canarias, Spain)|
-|11:30|New insights on Diabetic Kidney Disease evaluated by non-invasive MRI|Nuria García Fernández (Pamplona, Spain)|
-|11:45|**Workshop** Cardiac MRI: Bridging the Gap for Integrated Heart and Kidney Health|Gorka Bastarrika (Pamplona, Spain)|
+|10:30|New strategies for protecting kidney function in CKD|TBC|
+|10:45|Obesity and Kidney. What can Renal MRI tell us?|TBC|
+|11:00|Fat in and around the kidneys - what does it mean?|TBC|
+|11:15|The Art of measuring GFR non-invasively, rather than "estimating"|TBC|
+|11:30|New insights on Diabetic Kidney Disease evaluated by non-invasive MRI|TBC|
+|11:45|**Workshop** Cardiac MRI: Bridging the Gap for Integrated Heart and Kidney Health|TBC|
 
 |12:00-13:30|Lunch (+poster viewing)||
 
 |**13:30-14:00**|**Power Pitch Session 1** (3 minutes talks)|**Chairs: TBA**|
 
 |**14:00-16:00**|**Best Practice**|**Chairs: Suraj Serai, Pim Pullens**|
-|14:00|Have the PARENCHIMA consensus papers had an effect on the way renal MRI is performed?|Iosif Mendichovsky (Cambridge, UK)|
-|14:15|Current efforts on standardization of renal MRI data acquisition and post-processing|Eric Sigmund (NYU, USA)|
-|14:30|Best Practice: Acquisition|Sue Francis (Nottingham, UK)|
-|14:45|What's new in BOLD imaging?|Octavia Bane (Mt Sinai, USA)|
-|15:00|What's new in diffusion imaging?|Julia Stabinska (J. Hopkins, USA)|
-|15:15|What's new in non-contrast perfusion imaging?|María Fernández Seara (Pamplona, Spain)|
-|15:30|Best Practice: Post-processing|Frank Zöllner (Heidelberg, Germany), Anika Strittmatter (Heidelberg, Germany)|
-|15:45|Software post-processing for quantitative Kidney MRI|Suraj D. Serai (Philadelphia, USA)|
+|14:00|Have the PARENCHIMA consensus papers had an effect on the way renal MRI is performed?|TBC|
+|14:15|Current efforts on standardization of renal MRI data acquisition and post-processing|TBC|
+|14:30|Best Practice: Acquisition|TBC|
+|14:45|What's new in BOLD imaging?|TBC|
+|15:00|What's new in diffusion imaging?|TBC|
+|15:15|What's new in non-contrast perfusion imaging?|TBC|
+|15:30|Best Practice: Post-processing|TBC|
+|15:45|Software post-processing for quantitative Kidney MRI|TBC|
 
 |16:00-16:30|Break||
 
 |**16:30-17:00**|**Power Pitch Session 2** (3 minutes talks)|**Chairs: TBA**|
 
 |**17:00-18:15**|**Immunonephrology and Multiparametric MRI: Unraveling the Pathogenesis**|**Chairs: Jose Mora, Alexandra Ljimani**|
-|17:00|Complement mediated-glomerulonephritis and the role of MRI on pathophysiology|Felix Poppelaars (Groningen, The Netherlands)|
-|17:15|Renal protective evaluation on glomerulonephritis: the link between histology and imaging|Chee Kay Cheung (Leicester, UK)|
-|17:30|The Role of Renal MRI in Autoimmune Diseases: a window for Rheumatology|Marie Scheuer (Düsseldorf, Germany)|
-|17:45|Renal MRI: A Game Changer for Nephrologists?|LaTonya J. Hickson (Mayo Clinic, USA)|
-|18:00|Histological Validation of MRI Biomarkers|Peter Boor (Aachen, Germany)|
+|17:00|Complement mediated-glomerulonephritis and the role of MRI on pathophysiology|TBC|
+|17:15|Renal protective evaluation on glomerulonephritis: the link between histology and imaging|TBC|
+|17:30|The Role of Renal MRI in Autoimmune Diseases: a window for Rheumatology|TBC|
+|17:45|Renal MRI: A Game Changer for Nephrologists?|TBC|
+|18:00|Histological Validation of MRI Biomarkers|TBC|
 
 |**18:15-18:30**|**Closure**|**Chairs: María Fernández Seara, Nuria García Fernández**|
 |**20:00-21:00**|**University of Navarra**||
@@ -153,42 +153,42 @@ Latest update: Feb 23, 2025
 |---|---|---|
 |8:30-9:00| Coffee desk upon arrival||
 |**9:00-10:30**|**Expanding Clinical Applications of Renal MRI**|**Chair: Beatriz Suarez, Rebeca Echeverria**|
-|9:00|From molecules to images: Proteomics and renal MRI for precision nephrology|Marta Ruiz (Madrid, Spain)|
-|9:15|What can Onco-Nephrology learn from Onco-Cardiology?|Leyre Zubiri (Harvard MGH, Boston)|
-|9:30|MR Urography|Beatrice Damasio, Istituto Giannina Gaslini, Italy|
-|9:45|Pediatric kidney transplant|Hansel J. Otero (CHOP, Philadelphia)|
-|10:00|The role of renal MRI in transplant medicine|Cecilia Liang (Thübingen, Germany)|
-|10:15|Quantitative kidney MRI before and after dialysis?|Menno Prujim (Geneve, Switzerland)|
+|9:00|From molecules to images: Proteomics and renal MRI for precision nephrology|TBC|
+|9:15|What can Onco-Nephrology learn from Onco-Cardiology?|TBC|
+|9:30|MR Urography|TBC|
+|9:45|Pediatric kidney transplant|TBC|
+|10:00|The role of renal MRI in transplant medicine|TBC|
+|10:15|Quantitative kidney MRI before and after dialysis?|TBC|
 
 |10:30-11:00|Break||
 
 |**11:00-11:30**|**Power Pitch Session 3** (3 minutes talks)|**Chairs: TBA**|
 
 |**11:30-12:45**|**Renal MRI News: Latest Trends and Innovations**|**Chairs: Iosif Mendichovsky, Marcos Wolf**|
-|11:30|MRI: New developments in targeted MRI tracers for renal filtration and perfusion|Kevin Bennet (St. Louis, Missouri, USA)|
-|11:45|Quantitative kidney - Diabetic (IBEAT)|Steven Sourbron (Sheffield, UK)|
-|12:00|Quantitative kidney - RESPECT|Anna Caroli (Bergamo, Italy)|
-|12:15|AFiRM Study|Nick Selby (Nottigham, UK)|
-|12:30|SUGAR Study|Naveed Sattar (Glasgow, UK)|
+|11:30|MRI: New developments in targeted MRI tracers for renal filtration and perfusion|TBC|
+|11:45|Quantitative kidney - Diabetic (IBEAT)|TBC|
+|12:00|Quantitative kidney - RESPECT|TBC|
+|12:15|AFiRM Study|TBC|
+|12:30|SUGAR Study|TBC|
 
 |12:45-13:45|Lunch||	
 
 |**13:45-14:15**|**Power Pitch Session 4** (3 minutes talks)|**Chairs: TBA**|
 
 |**14:15-15:00**|**AI in Renal Imaging**|**Chairs: Hreedi Dev, Markus Henningsson**|
-|14:15|Tracking kidney volumes with AI to assess PKD|Martin Prince (New York, USA)|
-|14:30|Kidney segmentation AI algorithms|Alex Daniel (Nottingham, UK)|
-|14:45|Accelerated AI generated images (fastMRI)|Florian Knoll (NYU, New York, USA)|
+|14:15|Tracking kidney volumes with AI to assess PKD|TBC|
+|14:30|Kidney segmentation AI algorithms|TBC|
+|14:45|Accelerated AI generated images (fastMRI)|TBC|
 
 |15:00-15:30|Break||
 
 |**15:30-17:00**|**Exhibitors - Industry Speakers**|**Chairs: Alexandra, Pim, Marcos, Jose**|
-|15:30|CSL Vifor|TBC|
-|15:45|Perspectum|Matthew D. Robson|
-|16:00|Antaros - Renal MRI Biomarkers: The Latest in Clinical Trials|TBC: Paul Hockings, Iris Friedli|
-|16:15|Philips|Hans Peeters, Matthew Clemence|
+|15:30|TBC|TBC|
+|15:45|TBC|TBC|
+|16:00|TBC|TBC|
+|16:15|TBC|TBC|
 |16:30|GE|TBC|
-|16:45|Lily|TBC|
+|16:45|TBC|TBC|
 |17:00-17:30	Closing (+ voting host next meeting)	Chairs: Alexandra, Pim, Marcos, Jose|
 
 # Location and Travel
