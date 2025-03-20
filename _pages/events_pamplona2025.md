@@ -8,12 +8,13 @@ author_profile: false
 ![promo](/assets/images/BannerRenalmeeting_2025.png)
 
 **NEWS** 
+
 We are currently preparing the next meeting and setting up the homepage. 
 Subscribe to our [newsletter](mailto:renalmri@gmail.com) to get informed when we are done. 
 
 Short excerpt/introduction to the meeting
 
-<font size="6">Registration Fee:</font>
+**Registration Fee:**
 - Residents and PhD students €150
 - Regular Fee €300
 
