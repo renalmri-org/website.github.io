@@ -34,7 +34,7 @@ The following hotels are offering discounted rates::
 - [Ronces Hotel](https://www.booking.com/hotel/es/residencia-roncesvalles-pamplona.es) (1.9km. 26 minutes walking)
 - [Sancho Ramírez Hotel](https://www.hotelsanchoramirez.com) (1.2km. 17 minutes walking)
 
-The information about how to get the hotel discount fees will be e-mailed after registration. Expected price range (depending on the room and hotel setting) is EUR 72-195
+Information about how to obtain the discounted hotel rates will be e-mailed after registration. Expected price range (depending on the room and hotel setting) is EUR 72-195
 
 # Abstract Guidelines
 
