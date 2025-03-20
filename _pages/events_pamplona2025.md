@@ -71,7 +71,7 @@ Abstracts should be submitted as Microsoft Word document (\*.docx). The body of 
 
 ## Abstract Template
 
-Download a template [link](add_link).
+Download a template [link](https://renalmri.org/assets/RenalMRI_Template.docx).
 
 # Program committee
 
