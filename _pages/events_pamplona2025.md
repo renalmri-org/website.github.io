@@ -219,7 +219,7 @@ The following hotels are close to the venue:
 - [Ronces Hotel](https://www.booking.com/hotel/es/residencia-roncesvalles-pamplona.es) (1.9km. 26 minutes walking)
 - [Sancho Ramírez Hotel](https://www.hotelsanchoramirez.com) (1.2km. 17 minutes walking)
 
-Further information about the hotel rates will be e-mailed after registration. Expected price range (depending on the room and hotel setting) is EUR 72-195.
+Expected price range (depending on the room and hotel setting) is EUR 72-195.
 
 ## Travel
 - Pamplona is located ....
