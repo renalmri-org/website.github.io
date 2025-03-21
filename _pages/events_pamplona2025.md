@@ -20,58 +20,7 @@ Short excerpt/introduction to the meeting
 
 **Please note that you will only receive a confirmation of your participation after your payment is processed. This may take a couple of days.**
 
-[Registration](https://forms.microsoft.com/Pages/ResponsePage.aspx?id=FiQRprAHpUGbsdFGtXXJdYCxLXGnEoFFrrAUyLxxVdxUMk9aTkpIRTdRRldESVNFNk4xWUNGWVNMTC4u&origin=Invitation&channel=0) | [Organisers](#program-committee) | [Program](#program) | [Abstract Guidelines](#abstract-guidelines) | [Housing](#housing) | [Travel](#location-and-travel) | 
-
-# Housing
- 
-The following hotels are close to the venue:
-- [Occidental Pamplona Hotel](https://www.barcelo.com/es-es/occidental-pamplona) (1.3km. 17 minutes walking)
-- [Albret Hotel](https://www.hotelalbret.com) (1.8km. 25 minutes walking)
-- [NH Iruña Park Hotel](https://www.nh-hotels.com/es/hotel/nh-pamplona-iruna-park) (1.7km. 23 minutes walking)
-- [Blanca de Navarra Hotel](https://www.hotelblancadenavarra.com/) (950mts. 13 minutes walking)
-- [Tres Reyes Hotel](https://www.hotel3reyes.com/es/hotel-tres-reyes/) (2.5km. 34 minutes walking)
-- [Alda Hotel](https://www.aldahotels.es/hoteles/navarra) (2.6km. 36 minutes walking)
-- [Maisonnave Hotel](https://www.hotelmaisonnave.es/) (2.6km. 36 minutes walking)
-- [Ronces Hotel](https://www.booking.com/hotel/es/residencia-roncesvalles-pamplona.es) (1.9km. 26 minutes walking)
-- [Sancho Ramírez Hotel](https://www.hotelsanchoramirez.com) (1.2km. 17 minutes walking)
-
-Further information about the hotel rates will be e-mailed after registration. Expected price range (depending on the room and hotel setting) is EUR 72-195.
-
-# Abstract Guidelines
-
-**Abstracts Submission Deadline: June 20th at 23:59 CET**
-
-[Abstract Submission form](add_Link) (maybe Google login will be needed)
-
-Abstracts should be submitted as Microsoft Word document (\*.docx). The body of the abstract should contain the following sections:
-
-* Introduction
-“Why was this study/research performed? What unsolved problem are you addressing?”
-
-* Methods
-“How did you study this problem?”
-
-* Results
-“Report the data, analyses and/or outcomes”
-
-* Discussion
-“How do you interpret the results?”
-
-* Conclusion
-“What is the relevance to clinical practice or future research?”
-
-* References (not part of the body of the abstract)
-
-## Formatting
-
-* Title: max 125 characters
-* Body of the abstract: max 850 words
-* Arial 10.5pt
-* Maximum of 5 figures only, with maximum 500 character caption.
-
-## Abstract Template
-
-Download a template [link](https://renalmri.org/assets/RenalMRI_Template.docx).
+[Registration](https://forms.microsoft.com/Pages/ResponsePage.aspx?id=FiQRprAHpUGbsdFGtXXJdYCxLXGnEoFFrrAUyLxxVdxUMk9aTkpIRTdRRldESVNFNk4xWUNGWVNMTC4u&origin=Invitation&channel=0) | [Organisers](#program-committee) | [Program](#program) | [Abstract Guidelines](#abstract-guidelines) | [Travel](#location-and-travel) | [Housing](#housing) | 
 
 # Program committee
 
@@ -90,12 +39,12 @@ Download a template [link](https://renalmri.org/assets/RenalMRI_Template.docx).
 
 | <!-- --> | <!-- --> |
 |-----|-----|
-**José María Mora Gutiérrez, Dr**<br>renalmri.org vice-chair<br>Specialist in Nephrology|**Nuria García Fernández, Dra**<br>Director of the Nephrology Service<br>Specialist in Neohrology|
+**José María Mora Gutiérrez, Dr**<br>renalmri.org vice-chair<br>Specialist in Nephrology|**Nuria García Fernández, Dra**<br>Director of the Nephrology Service<br>Specialist in Nephrology|
 |**Maria A. Fernández-Seara, Research Prof**<br>Researcher. Biomedical Engineer PhD|**Rebeca Echeverria Chasco, PhD**<br>Researcher. Biomedical Engineer PhD|
 
 # Program
 
-Latest update: Feb 23, 2025
+Latest update: Mar 21, 2025
 
 ## Monday, October 13
 
@@ -147,7 +96,7 @@ Latest update: Feb 23, 2025
 |**20:00-21:00**|**University of Navarra**||
 |**21:00**|**Networking Dinner**||
 
-## Tuesday, September 12
+## Tuesday, October 14
 
 | <!-- -->  |  <!-- --> | <!-- -->  | 
 |---|---|---|
@@ -191,6 +140,42 @@ Latest update: Feb 23, 2025
 |16:45|TBC|TBC|
 |17:00-17:30	Closing (+ voting host next meeting)	Chairs: Alexandra, Pim, Marcos, Jose|
 
+# Abstract Guidelines
+
+**Abstracts Submission Deadline: June 20th at 23:59 CET**
+
+[Abstract Submission form](add_Link) (maybe Google login will be needed)
+
+Abstracts should be submitted as Microsoft Word document (\*.docx). The body of the abstract should contain the following sections:
+
+* Introduction
+“Why was this study/research performed? What unsolved problem are you addressing?”
+
+* Methods
+“How did you study this problem?”
+
+* Results
+“Report the data, analyses and/or outcomes”
+
+* Discussion
+“How do you interpret the results?”
+
+* Conclusion
+“What is the relevance to clinical practice or future research?”
+
+* References (not part of the body of the abstract)
+
+## Formatting
+
+* Title: max 125 characters
+* Body of the abstract: max 850 words
+* Arial 10.5pt
+* Maximum of 5 figures only, with maximum 500 character caption.
+
+## Abstract Template
+
+Download a template [link](https://renalmri.org/assets/RenalMRI_Template.docx).
+
 # Location and Travel
 
 ## City of Pamplona, Spain
@@ -201,7 +186,7 @@ Pamplona, the capital of Spain’s Navarra region, is best known for the **Runn
 
 [TouristInformation](add_link)
 
-### Conference Location/Center "Name"
+## Conference Location/Center "Name"
 
 location description, what is close by (maybe add subtitles like "Safety, Stability, Sustainability)
 
@@ -215,6 +200,21 @@ Telefon, Email, Link
 ![Conference center image](/assests/images/pamplona2025/BannerRenalmeeting_2025.png)
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2507.9888990122!2d3.719349687557983!3d51.05329277360496!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c371416c5282c1%3A0x76f8ffd99df5a019!2sHet%20Pand!5e0!3m2!1sen!2sbe!4v1669894123982!5m2!1sen!2sbe" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+# Housing
+ 
+The following hotels are close to the venue:
+- [Occidental Pamplona Hotel](https://www.barcelo.com/es-es/occidental-pamplona) (1.3km. 17 minutes walking)
+- [Albret Hotel](https://www.hotelalbret.com) (1.8km. 25 minutes walking)
+- [NH Iruña Park Hotel](https://www.nh-hotels.com/es/hotel/nh-pamplona-iruna-park) (1.7km. 23 minutes walking)
+- [Blanca de Navarra Hotel](https://www.hotelblancadenavarra.com/) (950mts. 13 minutes walking)
+- [Tres Reyes Hotel](https://www.hotel3reyes.com/es/hotel-tres-reyes/) (2.5km. 34 minutes walking)
+- [Alda Hotel](https://www.aldahotels.es/hoteles/navarra) (2.6km. 36 minutes walking)
+- [Maisonnave Hotel](https://www.hotelmaisonnave.es/) (2.6km. 36 minutes walking)
+- [Ronces Hotel](https://www.booking.com/hotel/es/residencia-roncesvalles-pamplona.es) (1.9km. 26 minutes walking)
+- [Sancho Ramírez Hotel](https://www.hotelsanchoramirez.com) (1.2km. 17 minutes walking)
+
+Further information about the hotel rates will be e-mailed after registration. Expected price range (depending on the room and hotel setting) is EUR 72-195.
 
 ## Travel
 - Pamplona is located ....
