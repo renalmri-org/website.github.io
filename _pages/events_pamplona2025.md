@@ -12,7 +12,12 @@ author_profile: false
 We are currently preparing the next meeting and setting up the homepage. 
 Subscribe to our [newsletter](mailto:renalmri@gmail.com) to get informed when we are done. 
 
-Short excerpt/introduction to the meeting
+We are delighted to host the **6th International Renal MRI Meeting** in Pamplona, Spain, **October 13-14, 2025**. 
+This biennial event unites **nephrologists**, **urologists**, **radiologists**, **physicists**, and **researchers** to advance renal MRI in clinical practice.
+
+This year’s meeting will spotlight **expanding clinical applications**, including **non-invasive GFR measurement**, **diabetic kidney disease**, **obesity** and **renal health**, **AI in renal imaging**, and **MRI in transplant medicine**. The program features **keynote lectures, hands-on workshops, and rapid Power Pitch sessions**, fostering collaboration and innovation.
+
+Join us in **shaping the future of renal imaging** to **improve patient outcomes** worldwide.
 
 **REGISTRATION FEE**
 - Residents and PhD students €150
