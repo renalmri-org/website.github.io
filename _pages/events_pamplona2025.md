@@ -75,7 +75,7 @@ Latest update: Mar 21, 2025
 |14:00|Have the PARENCHIMA consensus papers had an effect on the way renal MRI is performed?|TBC|
 |14:15|Current efforts on standardization of renal MRI data acquisition and post-processing|TBC|
 |14:30|Best Practice: Acquisition|TBC|
-|14:45|What's new in BOLD imaging?|TBC|
+|14:45|What's new in BOLD imaging?|TBC|GE
 |15:00|What's new in diffusion imaging?|TBC|
 |15:15|What's new in non-contrast perfusion imaging?|TBC|
 |15:30|Best Practice: Post-processing|TBC|
@@ -136,7 +136,7 @@ Latest update: Mar 21, 2025
 |15:45|TBC|TBC|
 |16:00|TBC|TBC|
 |16:15|TBC|TBC|
-|16:30|GE|TBC|
+|16:30|TBC|TBC|
 |16:45|TBC|TBC|
 |17:00-17:30	Closing (+ voting host next meeting)	Chairs: Alexandra, Pim, Marcos, Jose|
 
