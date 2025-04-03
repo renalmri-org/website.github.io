@@ -21,6 +21,7 @@ Join us in **shaping the future of renal imaging** to **improve patient outco
 
 **REGISTRATION FEE**
 - Residents and PhD students €150
+- Postdocs €200
 - Regular Fee €300
 
 **Please note that you will only receive a confirmation of your participation after your payment is processed. This may take a couple of days.**
