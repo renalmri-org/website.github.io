@@ -94,6 +94,7 @@ If you want to join us or the newsletter, please read and consent to our [privac
 * Markus Henningsson
 * Tobias Klein
 * Darius Gerlach
+* Patrik Gallinnis
 
 ## 🇬🇷️ Greece
 * Prof. George Kagadis
