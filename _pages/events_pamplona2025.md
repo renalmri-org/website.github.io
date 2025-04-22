@@ -7,6 +7,7 @@ author_profile: false
 
 ![promo](/assets/images/BannerRenalmeeting_2025.png)
 
+
 **NEWS** 
 
 We are currently preparing the next meeting and setting up the homepage. 
@@ -28,6 +29,7 @@ Join us in **shaping the future of renal imaging** to **improve patient outco
 
 [Registration](https://forms.microsoft.com/Pages/ResponsePage.aspx?id=FiQRprAHpUGbsdFGtXXJdYCxLXGnEoFFrrAUyLxxVdxUMk9aTkpIRTdRRldESVNFNk4xWUNGWVNMTC4u&origin=Invitation&channel=0) | [Organisers](#program-committee) | [Program](#program) | [Abstract Guidelines](#abstract-guidelines) | [Travel](#location-and-travel) | [Housing](#housing) | 
 
+
 # Program committee
 
  The program committee is responsible for selecting topics, speakers, and proffered papers from submitted abstracts.
@@ -41,12 +43,14 @@ Join us in **shaping the future of renal imaging** to **improve patient outco
 |**Suraj Serai, PhD**<br>Children's Hospital of Philadelphia<br>Philadelphia, US|**Paul Summers, PhD**<br>SFU ImageTech Lab<br>Surrey, CA|
 |**Marcos Wolf, MD**<br>University Hospital of St Pölten<br>St Pölten, AT|**Frank Zöllner, Prof Dr**<br>Universität Heidelberg<br>Heidelberg, DE|
 
+
 ## Local Organising committee
 
 | <!-- --> | <!-- --> |
 |-----|-----|
 **José María Mora Gutiérrez, Dr**<br>renalmri.org vice-chair<br>Specialist in Nephrology|**Nuria García Fernández, Dra**<br>Director of the Nephrology Service<br>Specialist in Nephrology|
 |**Maria A. Fernández-Seara, Research Prof**<br>Researcher. Biomedical Engineer PhD|**Rebeca Echeverria Chasco, PhD**<br>Researcher. Biomedical Engineer PhD|
+
 
 # Program
 
@@ -106,6 +110,7 @@ Latest update: Apr 22, 2025
 
 |**20:30**|**Networking Dinner**||
 
+
 ## Tuesday, October 14
 
 | <!-- -->  |  <!-- --> | <!-- -->  | 
@@ -153,6 +158,7 @@ Latest update: Apr 22, 2025
 
 |**17:50-18:10**|**Closing (+ voting host next meeting)**|**Chairs: Alexandra, Pim, Marcos, Jose**|
 
+
 # Abstract Guidelines
 
 **Abstracts Submission Deadline: June 20th at 23:59 CET**
@@ -178,6 +184,7 @@ Abstracts should be submitted as Microsoft Word document (\*.docx). The body of 
 
 * References (not part of the body of the abstract)
 
+
 ## Formatting
 
 * Title: max 125 characters
@@ -185,11 +192,14 @@ Abstracts should be submitted as Microsoft Word document (\*.docx). The body of 
 * Arial 10.5pt
 * Maximum of 5 figures only, with maximum 500 character caption.
 
+
 ## Abstract Template
 
 Download a template [link](https://renalmri.org/assets/RenalMRI_Template.docx).
 
+
 # Location and Travel
+
 
 ## City of Pamplona, Spain
 
@@ -198,6 +208,7 @@ Pamplona, the capital of Spain’s Navarra region, is best known for the **Runn
 ![Pamplonaimage](/assests/images/pamplona2025/BannerRenalmeeting_2025.png)
 
 [TouristInformation](add_link)
+
 
 ## Conference Location/Center "Name"
 
@@ -214,6 +225,7 @@ Telefon, Email, Link
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2507.9888990122!2d3.719349687557983!3d51.05329277360496!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c371416c5282c1%3A0x76f8ffd99df5a019!2sHet%20Pand!5e0!3m2!1sen!2sbe!4v1669894123982!5m2!1sen!2sbe" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
+
 # Housing
  
 The following hotels are close to the venue:
@@ -228,6 +240,7 @@ The following hotels are close to the venue:
 - [Sancho Ramírez Hotel](https://www.hotelsanchoramirez.com) (1.2km. 17 minutes walking)
 
 Expected price range (depending on the room and hotel setting) is EUR 72-195.
+
 
 ## Travel
 - Pamplona is located ....
