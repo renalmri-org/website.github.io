@@ -8,10 +8,7 @@ author_profile: false
 ![promo](/assets/images/BannerRenalmeeting_2025.png)
 
 
-**NEWS** 
-
-We are currently preparing the next meeting and setting up the homepage. 
-Subscribe to our [newsletter](mailto:renalmri@gmail.com) to get informed when we are done. 
+**NEWS**  
 
 We are delighted to host the **6th International Renal MRI Meeting** in Pamplona, Spain, **October 13-14, 2025**. 
 This biennial event unites **nephrologists**, **urologists**, **radiologists**, **physicists**, and **researchers** to advance renal MRI in clinical practice.
