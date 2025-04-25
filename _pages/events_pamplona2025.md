@@ -160,7 +160,7 @@ Latest update: Apr 22, 2025
 
 **Abstracts Submission Deadline: June 20th at 23:59 CET**
 
-[Abstract Submission form](add_Link) (maybe Google login will be needed)
+[Abstract Submission form](https://forms.office.com/r/vCf2WEjBm4)
 
 Abstracts should be submitted as Microsoft Word document (\*.docx). The body of the abstract should contain the following sections:
 
