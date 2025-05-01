@@ -162,7 +162,9 @@ Latest update: Apr 22, 2025
 
 [Abstract Submission form](https://forms.office.com/r/vCf2WEjBm4)
 
-Abstracts should be submitted as Microsoft Word document (\*.docx). The body of the abstract should contain the following sections:
+After your abstract submission (link above), please send us your abstract as Microsoft Word document (\*.docx) to renalmri@gmail.com. 
+
+The body of the abstract should contain the following sections:
 
 * Introduction
 “Why was this study/research performed? What unsolved problem are you addressing?”
