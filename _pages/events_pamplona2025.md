@@ -206,23 +206,27 @@ Pamplona, the capital of Spain’s Navarra region, is best known for the **Runn
 
 ![Pamplonaimage](/assests/images/pamplona2025/BannerRenalmeeting_2025.png)
 
-[TouristInformation](add_link)
+[Pamplona’s Official Tourist Information Office](https://www.pamplona.es/en/tourist-information-office)
 
 
-## Conference Location/Center "Name"
+## Conference venue: Clinica Universidad de Navarra
 
-location description, what is close by (maybe add subtitles like "Safety, Stability, Sustainability)
+The event will take place at the Institute of Culture and Society at the University of Navarra, located inside the Campus of the Universidad de Navarra.
 
-Address: 
-
-Name<br>
-Street<br>
-zip-code city<br> 
-Telefon, Email, Link 
+Address: Av. de Pío XII, 36, 31008 Pamplona, Navarra
+Telephone: 948 25 54 00
+Link: https://www.cun.es/ 
 
 ![Conference center image](/assests/images/pamplona2025/BannerRenalmeeting_2025.png)
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2507.9888990122!2d3.719349687557983!3d51.05329277360496!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c371416c5282c1%3A0x76f8ffd99df5a019!2sHet%20Pand!5e0!3m2!1sen!2sbe!4v1669894123982!5m2!1sen!2sbe" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2927.181237786061!2d-1.6638654!3d42.805656!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd5092644b13f33d%3A0xa818ef8981ef545d!2sClinica%20Universidad%20de%20Navarra!5e0!3m2!1sen!2sat!4v1746335050521!5m2!1sen!2sat" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+
+## Travel
+
+- There are several ways to get to Pamplona. The fastest way is to fly to **Noain Airport (PNA)**, located 9 km outside of Pamplona. From Noain Airport, you reach your accommodation via taxi in about **10 min**.
+- Alternatively, the **Renfe Train** runs between Madrid and Pamplona, which takes about **3.5h**. From Barcelona it takes about 4h; From Vitoria/Gasteiz 1h 5min - 5 €; From Zaragoza 2h aprox - 12 €.
+The **Pamplona train station** is located inside the city, so once you arrive, you can take a taxi to your accommodation (10 min).
 
 
 # Housing
@@ -239,11 +243,3 @@ The following hotels are close to the venue:
 - [Sancho Ramírez Hotel](https://www.hotelsanchoramirez.com) (1.2km. 17 minutes walking)
 
 Expected price range (depending on the room and hotel setting) is EUR 72-195.
-
-
-## Travel
-- Pamplona is located ....
-- Easy to reach ... (1-2hr)
-- Close to ... (1-2hr)
-
-![Location Gent](/assests/images/pamplona2025/BannerRenalmeeting_2025.png)
