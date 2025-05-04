@@ -204,8 +204,6 @@ Download a template [link](https://renalmri.org/assets/RenalMRI_Template.docx).
 
 Pamplona, the capital of Spain’s Navarra region, is best known for the **Running of the Bulls (San Fermín festival)**, held every July. This historic city boasts a charming medieval old town, **well-preserved city walls**, and the impressive **Cathedral of Santa María la Real**. With a rich cultural heritage, excellent gastronomy (famous for pintxos and regional wines), and a strategic location on the **Camino de Santiago**, Pamplona blends tradition with modernity, offering visitors a mix of history, nature, and vibrant local life.
 
-![Pamplonaimage](/assests/images/pamplona2025/BannerRenalmeeting_2025.png)
-
 [Pamplona’s Official Tourist Information Office](https://www.pamplona.es/en/tourist-information-office)
 
 
