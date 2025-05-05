@@ -175,9 +175,6 @@ The body of the abstract should contain the following sections:
 * Results
 “Report the data, analyses and/or outcomes”
 
-* Discussion
-“How do you interpret the results?”
-
 * Conclusion
 “What is the relevance to clinical practice or future research?”
 
