@@ -62,7 +62,7 @@ Latest update: Apr 22, 2025
 |9:00|Welcome and Objectives|María Fernández Seara - Nuria García Fernández (Local Steering Committe)|
 |9:10|renalMRI.org: The Widening Spread of Renal MRI: Nephrology-Engineering-Radiology Working Together (Barrers and Accesibility)|José María Mora Gutiérrez|
 |9:30|CKD: The burden of disease invisible to research funders|Alberto Ortiz Arduan|
-|9:50|Renal imaging in ISMRM - new updates|Suraj Serai|
+|9:50|Renal imaging at ISMRM - new updates|Suraj Serai|
 
 |**10:10-10:30**|**Break**||
 
@@ -138,7 +138,7 @@ Latest update: Apr 22, 2025
 
 |**14:30-15:50**|**AI in Renal Imaging**|**Chairs: Hreedi Dev, Markus Henningsson**|
 
-|14:30|Software post-processing for quantitative Kidney MRI|Suraj D. Serai (Philadelphia, USA)|
+|14:30|Software post-processing for quantitative Kidney MRI|Suraj D. Serai & Hansel J. Otero (Philadelphia, USA)|
 |14:50|Tracking kidney volumes with AI to assess PKD|Martin Prince (New York, USA)|
 |15:10|Kidney segmentation AI algorithms|Alex Daniel (Nottingham, UK)|
 |15:30|Accelerated AI generated images (fastMRI)|TBA|
