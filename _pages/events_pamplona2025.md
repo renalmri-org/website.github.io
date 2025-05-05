@@ -212,7 +212,9 @@ Pamplona, the capital of Spain’s Navarra region, is best known for the **Runn
 The event will take place at the Institute of Culture and Society at the University of Navarra, located inside the Campus of the Universidad de Navarra.
 
 Address: Av. de Pío XII, 36, 31008 Pamplona, Navarra
+
 Telephone: 948 25 54 00
+
 Link: https://www.cun.es/ 
 
 ![Conference center image](/assets/images/BannerRenalmeeting_2025.png)
