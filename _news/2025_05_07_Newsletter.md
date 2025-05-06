@@ -23,7 +23,7 @@ Further details regarding registration, abstract submission, and the full progra
 
 We look forward to welcoming you to Pamplona!
 
-<hr>
+<hr style="border-width: 2px;">
 
 Last but not least, check out the following **recent renal imaging publications**:
 
