@@ -219,8 +219,6 @@ Telephone: 948 25 54 00
 
 Link: https://www.cun.es/ 
 
-![Conference center image](/assets/images/BannerRenalmeeting_2025.png)
-
 <iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2927.3943974787567!2d-1.656892!3d42.801151!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNDLCsDQ4JzA0LjEiTiAxwrAzOScyNC44Ilc!5e0!3m2!1sen!2sat!4v1746600593992!5m2!1sen!2sat" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
