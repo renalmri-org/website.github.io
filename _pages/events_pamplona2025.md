@@ -17,7 +17,7 @@ This year’s meeting will spotlight **expanding clinical applications**, inclu
 
 Join us in **shaping the future of renal imaging** to **improve patient outcomes** worldwide.
 
-**EARLY [REGISTRATION](https://forms.microsoft.com/Pages/ResponsePage.aspx?id=FiQRprAHpUGbsdFGtXXJdYCxLXGnEoFFrrAUyLxxVdxUMk9aTkpIRTdRRldESVNFNk4xWUNGWVNMTC4u&origin=Invitation&channel=0) FEE TILL September 12**
+**EARLY [REGISTRATION](https://forms.microsoft.com/Pages/ResponsePage.aspx?id=FiQRprAHpUGbsdFGtXXJdYCxLXGnEoFFrrAUyLxxVdxUMk9aTkpIRTdRRldESVNFNk4xWUNGWVNMTC4u&origin=Invitation&channel=0) FEE UNTIL September 12**
 - Residents and PhD students €150
 - Postdocs €200
 - Regular Fee €300
