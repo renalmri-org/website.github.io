@@ -108,7 +108,7 @@ Latest update: May 05, 2025
 
 |**18:40**|**Closure**|**Chairs: María Fernández Seara, Nuria García Fernández**|
 
-|**19:00 - 20:00**|**Unwinding with Art: A Cultural Break for Scientific Minds**|**Museo Universidad de Navarra.  https://youtu.be/o1aFIsCPw1w?si=ChkaY5WLH2Cdyz0I**|
+|**19:00 - 20:00**|**Unwinding with Art: A Cultural Break for Scientific Minds**|**[Museo Universidad de Navarra](  https://youtu.be/o1aFIsCPw1w?si=ChkaY5WLH2Cdyz0I)**|
 
 |**20:30**|**Networking Dinner**||
 
