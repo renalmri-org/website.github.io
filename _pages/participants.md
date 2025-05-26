@@ -253,6 +253,7 @@ If you want to join us or the newsletter, please read and consent to our [privac
 * Mr Joao Almeida e Sousa
 * Ines Horvat Menih
 * Andrew Priest
+* Dr. Hannah Preston
 
 ## 🇪🇬️ Egypt
 * Prof. Mohamed Abouelghar
