@@ -163,7 +163,7 @@ Latest update: May 05, 2025
 
 # Abstract Guidelines
 
-**Abstracts Submission Deadline: June 20th at 23:59 CET**
+**Abstracts Submission Deadline: July 20th at 23:59 CET**
 
 [Abstract Submission form](https://forms.office.com/r/vCf2WEjBm4)
 
