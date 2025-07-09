@@ -56,7 +56,7 @@ Join us in **shaping the future of renal imaging** to **improve patient outco
 
 # Program
 
-Latest update: May 05, 2025
+Latest update: Jul 09, 2025
 
 ## Monday, October 13
 
