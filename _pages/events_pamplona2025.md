@@ -130,7 +130,7 @@ Latest update: May 05, 2025
 
 |**11:00-13:00**|**Renal MRI News: Latest Trends and Innovations**|**Chairs: Iosif Mendichovsky, Marcos Wolf**|
 
-|11:00|MRI: New developments in targeted MRI tracers for renal filtration and perfusion|TBA)|
+|11:00|Measuring nephron number, distribution, and function using targeted contrast agents and non- contrast techniques|Kevin Bennet (St. Louis, Missouri, USA))|
 |11:20|Quantitative kidney - Diabetic (IBEAT)|Steven Sourbron (Sheffield, UK)|
 |11:40|Quantitative kidney - RESPECT|Anna Caroli (Bergamo, Italy)|
 |12:00|AFiRM Study|Nick Selby (Nottigham, UK)|
