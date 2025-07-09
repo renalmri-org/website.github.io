@@ -87,7 +87,7 @@ Latest update: May 05, 2025
 |**14:00-16:20**|**Best Practice**|**Chairs: Suraj Serai, Pim Pullens**|
 
 |14:00|Have the PARENCHIMA consensus papers had an effect on the way renal MRI is performed?|Iosif Mendichovsky (Cambridge, UK)|
-|14:20|Current efforts on standardization of renal MRI data acquisition and post-processing|TBA|
+|14:20|MR Urography|Beatrice Damasio (Gaslini, Italy)|
 |14:40|Best Practice: Acquisition|Sue Francis (Nottingham, UK)|
 |15:00|What's new in BOLD imaging?|Octavia Bane (Mt Sinai, USA)|
 |15:20|What's new in diffusion imaging?|Julia Stabinska (J. Hopkins, USA)|
