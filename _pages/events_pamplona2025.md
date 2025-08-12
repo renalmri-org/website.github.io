@@ -42,7 +42,10 @@ _____________________________________________________________________________
 
 
 
-| [Program](#program) | [Abstract Guidelines](#abstract-guidelines) | [Travel](#location-and-travel) | [Housing](#housing) | 
+
+[Program](#program) | [Abstract Guidelines](#abstract-guidelines) | [Organisers](#program-committee) | [Travel](#location-and-travel) | [Housing](#housing)
+
+
 
 
 # Program committee
