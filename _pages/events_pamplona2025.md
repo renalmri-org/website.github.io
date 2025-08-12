@@ -27,7 +27,7 @@ Join us in **shaping the future of renal imaging** to **improve patient outco
 - Postdocs €300
 - Regular Fee €400
 
-
+__________________________________________________________
 
 [Program](#program) | [Abstract Guidelines](#abstract-guidelines) | [Organisers](#program-committee) | [Travel](#location-and-travel) | [Housing](#housing)
 
