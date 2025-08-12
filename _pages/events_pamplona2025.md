@@ -27,6 +27,7 @@ Join us in **shaping the future of renal imaging** to **improve patient outco
 - Postdocs €300
 - Regular Fee €400
 
+
 <body>
     <iframe src=
 "https://media.geeksforgeeks.org/wp-content/uploads/20240206111438/uni2.html"
@@ -34,6 +35,7 @@ Join us in **shaping the future of renal imaging** to **improve patient outco
             width="680">
     </iframe>
 </body>
+
 
 [Program](#program) | [Abstract Guidelines](#abstract-guidelines) | [Travel](#location-and-travel) | [Housing](#housing) | 
 
