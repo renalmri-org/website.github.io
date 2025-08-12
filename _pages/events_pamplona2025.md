@@ -37,7 +37,8 @@ Join us in **shaping the future of renal imaging** to **improve patient outco
 </body>
 
 
-[Program](#program) | [Abstract Guidelines](#abstract-guidelines) | [Travel](#location-and-travel) | [Housing](#housing) | 
+
+| [Program](#program) | [Abstract Guidelines](#abstract-guidelines) | [Travel](#location-and-travel) | [Housing](#housing) | 
 
 
 # Program committee
