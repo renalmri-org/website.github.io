@@ -31,8 +31,8 @@ Join us in **shaping the future of renal imaging** to **improve patient outco
 <body>
     <iframe src=
 "https://media.geeksforgeeks.org/wp-content/uploads/20240206111438/uni2.html"
-            height="480"
-            width="680">
+            height="600"
+            width="600">
     </iframe>
 </body>
 
