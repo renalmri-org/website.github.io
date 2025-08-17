@@ -17,19 +17,19 @@ This year’s meeting will spotlight **expanding clinical applications**, inclu
 
 Join us in **shaping the future of renal imaging** to **improve patient outcomes** worldwide.
 
-**EARLY REGISTRATION FEE  until September 12**
+**EARLY [REGISTRATION](https://en.unav.edu/renalmri-meeting) FEE  until September 12**
 - Residents and PhD students €150
 - Postdocs €200
 - Regular Fee €300
 
-**LATE REGISTRATION FEE**
+**LATE [REGISTRATION](https://en.unav.edu/renalmri-meeting) FEE**
 - Residents and PhD students €250
 - Postdocs €300
 - Regular Fee €400
 
 __________________________________________________________
 
-[Program](#program) | [Abstract Guidelines](#abstract-guidelines) | [Organisers](#program-committee) | [Travel](#location-and-travel) | [Housing](#housing)
+[Registration](https://en.unav.edu/renalmri-meeting) | [Program](#program) | [Abstract Guidelines](#abstract-guidelines) | [Organisers](#program-committee) | [Travel](#location-and-travel) | [Housing](#housing)
 
 
 
