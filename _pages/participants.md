@@ -274,6 +274,7 @@ If you want to join us or the newsletter, please read and consent to our [privac
 * Hreedi Dev
 * PhD. Octavia Bane
 * Ass.Prof. Qin Qin
+* Mira M. Liu, Ph.D.
 
 ## 🇦🇺️ Australia
 * Prof. Roger Evans
