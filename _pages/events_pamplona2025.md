@@ -58,7 +58,7 @@ __________________________________________________________
 
 # Program
 
-Latest update: Jul 09, 2025
+Latest update: Sep 10, 2025
 
 ## Monday, October 13
 
