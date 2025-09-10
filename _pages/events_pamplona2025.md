@@ -68,12 +68,12 @@ Latest update: Sep 10, 2025
 
 |9:00|Welcome and Objectives|María Fernández Seara, Nuria García Fernández, Rebeca Echeverria, José María Mora Gutiérrez, Gorka Bastarrika (Local Steering Committe)|
 |9:10|renalMRI.org: The Widening Spread of Renal MRI: Nephrology-Engineering-Radiology Working Together (Barrers and Accesibility)|José María Mora Gutiérrez (Pamplona, Spain)|
-|9:30|CKD: The burden of disease invisible to research funders|Alberto Ortiz Arduan|
-|9:50|Renal imaging at ISMRM - new updates|Suraj Serai|
+|9:30|CKD: The burden of disease invisible to research funders|Alberto Ortiz Arduan (Madrid, Spain)|
+|9:50|Renal imaging at ISMRM - new updates|Suraj Serai (Philadelphia, USA)|
 
 |**10:10-10:30**|**Break**||
 
-|**10:30-12:30**|**Cardiovascular-Kidney-Metabolic Health**|**Chairs:  Beatriz Fernández   (Madrid, Spain)**|
+|**10:30-12:30**|**Cardiovascular-Kidney-Metabolic Health**|**Chairs:  Beatriz Fernández**|
 
 |10:30|New strategies for protecting kidney function in CKD|José Luis Gorriz (Valencia, Spain)|
 |10:50|Obesity and Kidney. What can Renal MRI tell us?|Petter Bjornstad (Colorado, USA)|
@@ -91,8 +91,8 @@ Latest update: Sep 10, 2025
 |14:00|Have the PARENCHIMA consensus papers had an effect on the way renal MRI is performed?|Iosif Mendichovsky (Cambridge, UK)|
 |14:20|MR Urography|Beatrice Damasio (Gaslini, Italy)|
 |14:40|Best Practice: Acquisition|Sue Francis (Nottingham, UK)|
-|15:00|What's new in BOLD imaging?|Octavia Bane (Mt Sinai, USA)|
-|15:20|What's new in diffusion imaging?|Julia Stabinska (J. Hopkins, USA)|
+|15:00|What's new in BOLD imaging?|Octavia Bane (New York, USA)|
+|15:20|What's new in diffusion imaging?|Julia Stabinska (Baltimore, USA)|
 |15:40|What's new in non-contrast perfusion imaging?|María Fernández Seara (Pamplona, Spain)|
 |16:00|Best Practice: Post-processing|Frank Zöllner (Heidelberg, Germany), Anika Strittmatter (Heidelberg, Germany)|
 
@@ -121,7 +121,7 @@ Latest update: Sep 10, 2025
 
 |9:00|From molecules to images: Proteomics and renal MRI for precision nephrology|Marta Ruiz (Madrid, Spain)|
 |9:20|MRI for Detecting Kidney Fibrosis and Predicting Disease Progression|Lena Bertchold (Geneva, Switzerland)|
-|9:40|Pediatric kidney transplant|Hansel J. Otero (CHOP, Philadelphia)|
+|9:40|Pediatric kidney transplant|Hansel J. Otero (Philadelphia, USA)|
 |10:00|The role of renal MRI in transplant medicine|Cecilia Liang (Thübingen, Germany)|
 
 |**10:20-10:40**|**Power Pitch Session 3 (3 minutes talks)**||
@@ -130,12 +130,12 @@ Latest update: Sep 10, 2025
 
 |**11:00-13:00**|**Renal MRI News: Latest Trends and Innovations**|**Chairs: Iosif Mendichovsky, Marcos Wolf**|
 
-|11:00|Measuring nephron number, distribution, and function using targeted contrast agents and non- contrast techniques|Kevin Bennet (St. Louis, Missouri, USA)|
+|11:00|Measuring nephron number, distribution, and function using targeted contrast agents and non- contrast techniques|Kevin Bennet (St. Louis, USA)|
 |11:20|Quantitative kidney - Diabetic (IBEAT)|Steven Sourbron (Sheffield, UK)|
 |11:40|Quantitative kidney - RESPECT|Anna Caroli (Bergamo, Italy)|
 |12:00|AFiRM Study|Nick Selby (Nottigham, UK)|
 |12:20|SUGAR Study|Naveed Sattar (Glasgow, UK)|
-|12:40|What can Onco-Nephrology learn from Onco-Cardiology?|Leyre Zubiri (Harvard MGH, Boston)|
+|12:40|What can Onco-Nephrology learn from Onco-Cardiology?|Leyre Zubiri (Boston, USA)|
 
 |**13:00-13:20**|**Power Pitch Session 4 (3 minutes talks)**||
 
