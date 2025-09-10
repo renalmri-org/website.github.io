@@ -62,7 +62,7 @@ Latest update: Jul 09, 2025
 
 ## Monday, October 13
 
-| <!-- --> | <!-- -->  |  <!-- --> |
+| <!-- --> | <!-- --> | <!-- --> |
 |---|---|---|
 |**9:00-10:10**|**Opening**|**Chairs: María Fernández Seara, Nuria García Fernández**|
 
