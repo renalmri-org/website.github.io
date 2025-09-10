@@ -64,7 +64,7 @@ Latest update: Sep 10, 2025
 
 | <!-- --> | <!-- --> | <!-- --> |
 |---|---|---|
-|**9:00-10:10**|**Opening**|**Chairs: María Fernández Seara, Nuria García Fernández**|
+|**09:00-10:10**|**Opening**|**Chairs: María Fernández Seara, Nuria García Fernández**|
 
 |9:00|Welcome and Objectives|María Fernández Seara, Nuria García Fernández, Rebeca Echeverria, José María Mora Gutiérrez, Gorka Bastarrika (Local Steering Committe)|
 |9:10|renalMRI.org: The Widening Spread of Renal MRI: Nephrology-Engineering-Radiology Working Together (Barrers and Accesibility)|José María Mora Gutiérrez (Pamplona, Spain)|
