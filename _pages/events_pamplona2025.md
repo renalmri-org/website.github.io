@@ -153,7 +153,7 @@ Latest update: Sep 10, 2025
 
 |16:10|European Kidney Patients' Federation|Juan Carlos Julia|
 |16:30|Perspectum|Matt Robson|
-|16:50|Antaros - Renal MRI Biomarkers: The Latest in Clinical Trials|Paul Hockings, Iris Friedli|
+|16:50|Antaros - Expanding Horizons: MRI in Kidney Disease Drug Development|Paul Hockings, Iris Friedli|
 |17:10|TBA|TBA|
 |17:30|TBA|TBA|
 
