@@ -138,6 +138,7 @@ If you want to join us or the newsletter, please read and consent to our [privac
 * Dr. Maria Beatrice Damasio
 * Professor Stefano Palmucci
 * Siria Pasini
+* Luisa Altabella
 
 ## 🇲🇹️ Malta
 * Dr. Valerie Said Conti
