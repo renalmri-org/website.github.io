@@ -141,7 +141,7 @@ Latest update: Sep 10, 2025
 
 |**13:30-14:30**|**Lunch (+poster viewing)**||
 
-|**14:30-15:50**|**AI in Renal Imaging**|**Chairs: Hreedi Dev, Markus Henningsson**|
+|**14:30-15:50**|**AI in Renal Imaging**|**Chairs: Anne Oyarzun, Markus Henningsson**|
 
 |14:30|Software post-processing for quantitative Kidney MRI|Suraj D. Serai (Philadelphia, USA), Hansel J. Otero (Philadelphia, USA)|
 |14:50|Tracking kidney volumes with AI to assess PKD|Martin Prince (New York, USA)|
