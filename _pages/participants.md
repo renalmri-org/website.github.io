@@ -95,6 +95,7 @@ If you want to join us or the newsletter, please read and consent to our [privac
 * Tobias Klein
 * Darius Gerlach
 * Patrik Gallinnis
+* Dr Jannis Hanspach
 
 ## 🇬🇷️ Greece
 * Prof. George Kagadis
