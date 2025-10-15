@@ -255,6 +255,7 @@ If you want to join us or the newsletter, please read and consent to our [privac
 * Ines Horvat Menih
 * Andrew Priest
 * Dr. Hannah Preston
+* Dr Alexander Daniel
 
 ## 🇪🇬️ Egypt
 * Prof. Mohamed Abouelghar
