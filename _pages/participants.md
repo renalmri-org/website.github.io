@@ -206,6 +206,7 @@ If you want to join us or the newsletter, please read and consent to our [privac
 * Dr. Moritz Schneider
 * Dr. Lisa Jarl
 * Felix Berglund
+* Maria Gomez, PhD
 
 ## 🇨🇭️ Switzerland
 * Prof. Jean Paul Vallee
