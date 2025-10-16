@@ -271,14 +271,15 @@ If you want to join us or the newsletter, please read and consent to our [privac
 * Suraj Serai
 * Dr. Alex de Crespigny
 * Professor Srinivas Sridhar
-* Timothy L. Kline, Ph.D.
+* Timothy L. Kline, PhD
 * Dr. Julia Stabinska
 * Gonzalo Matzumura, MD
 * Ananth J. Madhuranthakam, Ph.D.
 * Hreedi Dev
 * PhD. Octavia Bane
 * Ass.Prof. Qin Qin
-* Mira M. Liu, Ph.D.
+* Mira M. Liu, PhD
+* Leyre Oteiza Zubiri, MD, PhD
 
 ## 🇦🇺️ Australia
 * Prof. Roger Evans
