@@ -280,6 +280,7 @@ If you want to join us or the newsletter, please read and consent to our [privac
 * Ass.Prof. Qin Qin
 * Mira M. Liu, PhD
 * Leyre Oteiza Zubiri, MD, PhD
+* Anand Srivastava, MD, MPH
 
 ## 🇦🇺️ Australia
 * Prof. Roger Evans
