@@ -199,6 +199,7 @@ If you want to join us or the newsletter, please read and consent to our [privac
 * Leyre García Ruiz
 * Jose María Mora Gutiérrez
 * Dra. Verónica Aramendía Vidaurreta
+* Anne Oyarzun, PhD
 
 ## 🇸🇪️ Sweden
 * Prof. Paul Hockings
