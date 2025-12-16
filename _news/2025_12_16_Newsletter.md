@@ -22,7 +22,7 @@ The year 2026 is approaching, and hence, we want to look back and explore the fu
     The vote will be open from the 1st of January 2026 to the 14th of January 2026.
   - Last but not least, as discussed during the Pamplona meeting, we need to decide for the **next international renal imaging meeting location. Please send us a short excerpt**, including a short presentation of you and your team, the location as well as your special focus and motivation. You can add up to 3 images. Send your resume to renalmri@gmail.com.
     **Deadline: 30th of December 2025**.
-    We will use the given information to present you to the community and to facilitate the vote.
+    We will use the given information to present your proposal to the community and to facilitate the vote.
     The vote will be open from the 1st of January 2026 to the 14th of January 2026.
 
 
