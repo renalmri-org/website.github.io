@@ -12,7 +12,7 @@ The year 2026 is approaching, and hence, we want to look back and explore the fu
 - Looking back,
   The **6th International Renal Imaging Meeting in Pamplona**, Spain: What an inspiring meeting with excellent contributions and many stimulating discussions!
   We would like to thank you all for making this possible.
-  ![image-center](https://github.com/renalmri-org/website.github.io/blob/main/assets/images/Pamplona_2025.png)
+  ![image-center](/assets/images/Pamplona_2025.png)
   Every contribution and every discussion, as small as it might appear at the first glance, is key to advanced renal imaging in clinical practice. 
 - Looking forward,
   - Take the chance, and shape the future of renal MRI, and **submit your candidacy for the next renalMRI.org vice-chair position**. Both junior and senior researchers are warmly encouraged to engage with us!
