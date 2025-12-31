@@ -6,7 +6,7 @@ author_profile: false
 ---
 
 ![promo](/assets/images/BannerRenalmeeting_2025.png)
-
+![promo](/assets/images/Pamplona_2025.png)
 
 **NEWS**  
 
