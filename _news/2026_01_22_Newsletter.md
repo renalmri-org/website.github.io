@@ -21,6 +21,7 @@ Also take notice of the upcoming [ISMRM Renal MRI Study Group Virtual meeting](h
     With my established track record in renal MRI and strong commitment to the mission of renalMRI.org, I would be honored to serve as Vice Chair and to further enhance the group’s international visibility and clinical impact. Thank you for considering my candidacy.
 
 
+
   - ![image-left](/assets/images/Iosif_Mendichovszky.png)  
     **Iosif A Mendichovszky**
     Clinical Radiologist based at Cambridge University Hospitals NHS Foundation Trust and affiliated to the Department of Radiology, University of Cambridge in the United Kingdom.
