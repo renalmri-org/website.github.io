@@ -13,7 +13,7 @@ Also take notice of the upcoming [ISMRM Renal MRI Study Group Virtual meeting](h
 <hr style="border-width: 2px;">
 
 - For the next Vice-Chair position: 
-  - ![image-left](/assets/images/Octavia_Bane.png)
+  - <img align="left" src="/assets/images/Octavia_Bane.png" alt="Octavia_Bane">
     **Octavia Bane**
     Assistant Professor in the BioMedical Engineering and Imaging Institute (BMEII) and the Department of Radiology at the  Icahn School of Medicine at Mount Sinai in New York, NY, USA
     My initial meeting with renalMRI.org, when I attended the 2nd International Renal Imaging Meeting in Berlin in 2017 as a young postdoctoral researcher, led to invaluable formative opportunities. Although initially funded through an EU grant, renalMRI.org fostered global collaboration. As Vice Chair of renalMRI.org, my first priority would be to strengthen and expand our group’s international reach. 
