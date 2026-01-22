@@ -27,9 +27,9 @@ Also take notice of the upcoming [ISMRM Renal MRI Study Group Virtual meeting](h
 <hr style="border-width: 2px;">
 
 - For the next International Renal Imaging Meeting (alphabetic order of the country): 
-    - Uppsala, Sweden (slides, pdf)
+    - **Uppsala, Sweden** (slides, pdf)
       [https://drive.google.com/file/d/1VVkfWPbK9bj2DLGCtT8JDBqb5WlYcUf-/view?usp=sharing](https://drive.google.com/file/d/1VVkfWPbK9bj2DLGCtT8JDBqb5WlYcUf-/view?usp=sharing)
-    - New York, United States of America (video; best viewed with google chrome)
+    - **New York, United States of America** (video; best viewed with google chrome)
       [https://drive.google.com/file/d/19WN2IcnmXVbNwqd_O8c8S91tbtszRfJN/view](https://drive.google.com/file/d/19WN2IcnmXVbNwqd_O8c8S91tbtszRfJN/view)
 
 <hr style="border-width: 2px;">
