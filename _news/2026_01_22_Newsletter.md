@@ -36,7 +36,7 @@ Also take notice of the upcoming [ISMRM Renal MRI Study Group Virtual meeting](h
 
 <p align="center"><strong>Place your votes here</strong></p>
 
-<p align="center"><strong>[https://forms.gle/Tfwz8i3XiyhvG1Ku6](https://forms.gle/Tfwz8i3XiyhvG1Ku6)</strong></p>
+<p align="center"><strong>https://forms.gle/Tfwz8i3XiyhvG1Ku6</strong></p>
 
 <p align="center"><strong>DEADLINE: February 09, 2026 at 12:59 PM GMT+1</strong></p>
 
