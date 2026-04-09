@@ -96,6 +96,7 @@ If you want to join us or the newsletter, please read and consent to our [privac
 * Darius Gerlach
 * Patrik Gallinnis
 * Dr Jannis Hanspach
+* Matthias Deitermann
 
 ## 🇬🇷️ Greece
 * Prof. George Kagadis
@@ -305,6 +306,7 @@ If you want to join us or the newsletter, please read and consent to our [privac
 
 ## 🇯🇵️ Japan
 * Akira Sumiyoshi
+* Daishi Hirano MD, PhD, MPH
 
 ## 🇨🇦️ Canada
 * Adel Moideen
