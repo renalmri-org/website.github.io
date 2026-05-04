@@ -9,7 +9,7 @@ author_profile: false
 # Future international renal imaging meetings
 
 ## 11/12 Oct 2027 - 7th international renal imaging meeting (Uppsala)
-[![promo](/assets/images/uppsala2027/banner_uppsala_2027)](https://renalmri.org/events/uppsala2027)
+[![promo](/assets/images/uppsala2027/banner_uppsala_2027.png)](https://renalmri.org/events/uppsala2027)
 More updates are comming soon.
 
 # Renal imaging meetings - vision and principles
