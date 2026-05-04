@@ -8,9 +8,8 @@ author_profile: false
 
 # Future international renal imaging meetings
 
-## [13/14 Oct 2025 - 6th international renal imaging meeting (Pamplona)](https://renalmri.org/events/pamplona2025)
+## 10/11 Oct 2027 - 7th international renal imaging meeting (Uppsala)
 
-[![promo](/assets/images/BannerRenalmeeting_2025.png)](https://renalmri.org/events/pamplona2025)
 
 # Renal imaging meetings - vision and principles
 
@@ -24,6 +23,9 @@ The renal MRI community has been organising bi-annual international meeting sinc
 
 
 # Past meetings
+
+## [13/14 Oct 2025 - 6th international renal imaging meeting (Pamplona)](https://renalmri.org/events/pamplona2025)
+[![promo](/assets/images/BannerRenalmeeting_2025.png)](https://renalmri.org/events/pamplona2025)
 
 ## [11/12 Sept 2023 - 5th international renal imaging meeting (Ghent)](https://renalmri.org/events/gent2023)
 [![promo](/assets/images/gent_images/gent_promo.png)](https://renalmri.org/events/gent2023)
