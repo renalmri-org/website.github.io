@@ -10,7 +10,7 @@ author_profile: false
 We are delighted to announce that the **7th International Renal MRI Meeting** will take place in Uppsala, Sweden, **October 11-12, 2027**. 
 And the day before, October 10, 2027, there will be a welcome reception.
 
-We will update this page regularly, however, the most recent updates can be accessed directly via the Uppsala Conference Homepage: [https://www.renalmri2027.se/](https://www.renalmri2027.se/)
+We will update this page regularly, however, the most recent updates can be accessed directly via the **Uppsala Conference Homepage**: [https://www.renalmri2027.se/](https://www.renalmri2027.se/)
 
 In continuum of the preceding meetings, you can expect excellent lectures and discussion of the fast developments and clinical relevance of functional renal MRI. Join us in Sweden to foster the development of local, national and international collaborations to explore multi-disciplinary imaging approaches by connecting to our broad community, including, basic scientists, clinical scientists and clinicians from physiology, nephrology, radiology, internal medicine and related fields, as well as experts in imaging sciences and physics from all levels, ranging from students to advanced users and international experts.
 
