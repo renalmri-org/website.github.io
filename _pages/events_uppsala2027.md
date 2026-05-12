@@ -56,14 +56,14 @@ Uppsala is a small university town with around 50,000 students and Uppsala Unive
 
 ## Travel
 
-**Bus**
+### Bus
 Bus 801 runs between Arlanda (Airport) and central Uppsala throughout the day. The journey takes approx. 45 minutes.
 
 You can purchase tickets with a credit card on the bus, but cash is not accepted. There are also vending machines at Arlanda airport terminals 2, 4 and 5 where you can purchase a one way ticket (credit cards only). There is a price reduction when buying tickets from the vending machines compared to onboard the bus.
 
 [Time tables and ticket fares can be found on this link.](http://www.ul.se/en/)
 
-**Train**
+### Train
 Trains leave Arlanda Airport for Uppsala Central Station directly from Sky City next to Terminal 5. The journey time is approx. 20 minutes.
 
 Tickets may be purchased at the ticket desk in Sky City, or online in advance. Please note that both local commuter trains (SL/UL), and national long distance trains (SJ) operates the distance Arlanda airport – Uppsala. Make sure to enter the correct train, the tickets are not compatible on both train companies.
@@ -71,7 +71,7 @@ Tickets may be purchased at the ticket desk in Sky City, or online in advance. P
 * [Time tables and ticket fares – local commuter train UL](http://www.ul.se/en/)
 * [Time tables and ticket fares – long distance trains SJ](https://www.sj.se/en/)
 
-**Taxi**
+### Taxi
 Taxis leave from outside of the arrival hall. The journey time to Uppsala is about 30-35 minutes. Free price setting applies to taxi rides in Sweden since the taxi market is deregulated. Choose the company and car that best suits you, you do not need to take the car that is first in line.
 
 Make sure to ask the driver for a fixed price in advance. You can pay by credit card or by cash. The maximum fixed price to one address in Uppsala for a car 1-4 persons should be SEK 695.
