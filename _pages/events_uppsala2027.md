@@ -16,11 +16,13 @@ In continuum of the preceding meetings, you can expect excellent lectures and di
 
 Professor Per Liss at the Department of Radiology at Uppsala University has already initiated the first organizational steps, so more information will be presented shortly here.   
 
-Registration dates will be shared here.
-
 __________________________________________________________
 
-[Organizing Committee](#organizer-committee) | [Program](#program) | [Program](#program) | [Location and Travel](#location-and-travel) | [Sponsors and Exhibitors](#sponsors-exhibitors) | [Abstract Guidelines](#abstract-guidelines)
+[Registration](#registration) | [Organizing Committee](#organizer-committee) | [Program](#program) | [Location and Travel](#location-and-travel) | [Sponsors and Exhibitors](#sponsors-exhibitors) | [Abstract Guidelines](#abstract-guidelines)
+
+# Registration
+
+Registration dates and fees will be shared here.
 
 # Organizing Committee
 
