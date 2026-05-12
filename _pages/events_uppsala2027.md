@@ -90,6 +90,8 @@ Academic Conferences
 Email: renalmri2027@akademikonferens.se
 Phone: +46 18-67 15 39 or +46 18 67 10 03
 
+![promo](https://www.akademikonferens.se/)
+
 # Sponsors and Exhibitors 
 
 A warm welcome to participate in the Conference as a sponsor or exhibitor!
