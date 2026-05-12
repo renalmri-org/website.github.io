@@ -16,6 +16,7 @@ In continuum of the preceding meetings, you can expect excellent lectures and di
 
 Professor Per Liss at the Department of Radiology at Uppsala University has already initiated the first organizational steps, so more information will be presented shortly here.   
 
+Registration dates will be shared here.
 
 __________________________________________________________
 
@@ -93,3 +94,7 @@ A warm welcome to participate in the Conference as a sponsor or exhibitor!
 A sponsorship package will be published later.
 
 Please contact renalmri2027@akademikonferens.se for more information.
+
+# Abstract Guidelines
+
+Abstract Guidelines, Submission and Confirmation dates will be found here.
