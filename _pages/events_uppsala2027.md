@@ -14,7 +14,7 @@ We will update this page regularly, however, the most recent updates can be acce
 
 In continuum of the preceding meetings, you can expect excellent lectures and discussion of the fast developments and clinical relevance of functional renal MRI. Join us in Sweden to foster the development of local, national and international collaborations to explore multi-disciplinary imaging approaches by connecting to our broad community, including, basic scientists, clinical scientists and clinicians from physiology, nephrology, radiology, internal medicine and related fields, as well as experts in imaging sciences and physics from all levels, ranging from students to advanced users and international experts.
 
-Professor Per Liss at the Department of Radiology at Uppsala University has already initiated the first organizational steps, so more information will be presented shortly here and on a [dedicated local homepage](https://www.renalmri2027.se/sponsors-and-exhibitors/).   
+Professor Per Liss at the Department of Radiology at Uppsala University has already initiated the first organizational steps, so more information will be presented shortly here.   
 
 
 __________________________________________________________
