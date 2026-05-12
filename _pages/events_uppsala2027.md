@@ -87,7 +87,9 @@ We recommend Uppsala Taxi. You can pre-book a taxi on the uppsalataxi.se website
 ## Local contact information
 
 Academic Conferences
+
 Email: renalmri2027@akademikonferens.se
+
 Phone: +46 18-67 15 39 or +46 18 67 10 03
 
 ![promo](https://www.renalmri2027.se/wp-content/uploads/sites/130/2026/04/AK-logga.png)
