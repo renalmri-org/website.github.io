@@ -41,14 +41,16 @@ The schedule for the second day of the conference is being prepared. Come back f
 
 # Location and Travel
 
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d184290.59480752898!2d17.65436927813518!3d59.626891203965386!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x465fcbfb8532ab8d%3A0xaa4fe90a85820807!2sUppsala%2C%20Sweden!5e0!3m2!1sen!2srs!4v1778590535198!5m2!1sen!2srs" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+General information can be found here: [https://www.renalmri2027.se/general-information/](https://www.renalmri2027.se/general-information/)
+
 ## Venue
 
 ![promo](https://www.renalmri2027.se/wp-content/uploads/sites/130/2026/05/2026-05-10-Uppsala-Town-3-1280x740.jpg)
 courtesy of the Uppsala Conference Homepage
 
 Brusewitz Lecture Hall is located at Uppsala University, within the Gamla Torget campus area in central Uppsala. The lecture hall is situated in the building at **Gamla Torget 6 / Östra Ågatan 19**, close to the city center.
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d350.8885392685028!2d17.636143852353776!3d59.8591272665228!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x465fcbf7273c9c19%3A0x10af6fdee2fbdafa!2sUppsala%20universitet%20Avd%20f%20U-landsfr%C3%A5gor!5e0!3m2!1sen!2srs!4v1778589636758!5m2!1sen!2srs" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 Uppsala is a small university town with around 50,000 students and Uppsala University is the oldest university in the Nordic countries, founded in 1477. Uppsala is situated 80 km north of Stockholm and Arlanda, the main international airport is 40 km from Uppsala (around 30 minutes by train).
 
