@@ -55,7 +55,7 @@ courtesy of the Uppsala Conference Homepage
 
 Brusewitz Lecture Hall is located at Uppsala University, within the Gamla Torget campus area in central Uppsala. The lecture hall is situated in the building at **Gamla Torget 6 / Östra Ågatan 19**, close to the city center.
 
-Uppsala is a small university town with around 50,000 students and Uppsala University is the oldest university in the Nordic countries, founded in 1477. Uppsala is situated 80 km north of Stockholm and Arlanda, the main international airport is 40 km from Uppsala (around 30 minutes by train).
+Uppsala is a small university town with around 50,000 students and Uppsala University is the oldest university in the Nordic countries, founded in 1477. Uppsala is situated 80 km north of Stockholm and Arlanda, the main international airport is 40 km from Uppsala.
 
 ## Travel
 
