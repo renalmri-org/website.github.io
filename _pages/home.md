@@ -12,15 +12,15 @@ intro:
   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
 
 feature_row:
-  - image_path: assets/images/authors/pim-pullens.jpeg
-    image_caption: "[DR. IR. PIM PULLENS](https://unsplash.com/)"
-    alt: "DR. IR. PIM PULLENS"
   - image_path: assets/images/Jose_Maria_Mora_Gutierrez.png
     alt: "JOSE MARÍA MORA GUTIÉRREZ"
     image_caption: "[JOSE MARÍA MORA GUTIÉRREZ](https://unsplash.com/)"
-  - image_path: assets/images/authors/alexandra-ljimani.jpeg
-    alt: "DR. ALEXANDRA LJIMANI"
-    image_caption: "[DR. ALEXANDRA LJIMANI](https://unsplash.com/)"
+  - image_path: assets/images/Octavia_Bane.png
+    alt: "Octavia Bane"
+    image_caption: "[Octavia Bane](https://unsplash.com/)"
+  -image_path: assets/images/authors/pim-pullens.jpeg
+    image_caption: "[PIM PULLENS](https://unsplash.com/)"
+    alt: "PIM PULLENS"
 feature_row2:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
