@@ -16,9 +16,9 @@ feature_row:
     alt: "JOSE MARÍA MORA GUTIÉRREZ"
     image_caption: "[JOSE MARÍA MORA GUTIÉRREZ](https://unsplash.com/)"
   - image_path: assets/images/Octavia_Bane.png
-    alt: "Octavia Bane"
-    image_caption: "[Octavia Bane](https://unsplash.com/)"
-  -image_path: assets/images/authors/pim-pullens.jpeg
+    alt: "OCTAVIA BANE"
+    image_caption: "[OCTAVIA BANE](https://unsplash.com/)"
+  - image_path: assets/images/authors/pim-pullens.jpeg
     image_caption: "[PIM PULLENS](https://unsplash.com/)"
     alt: "PIM PULLENS"
 feature_row2:
