@@ -79,9 +79,9 @@ In recent years, the clinical interest in renal MRI has accelerated research and
 RENALMRI.org is a bottom-up member-led network coordinated by a governing committee consisting of a chair, past chair and vice chair. See [here](https://renalmri.org/governance/) for more detail.
 
 Membership is open - if you want to join the network please contact the chair. The current RENALMRI.org governing committee consists of the following members:
-- [Pim Pullens](mailto:Pim.Pullens@uzgent.be) (Chair)
-- [Jose María Mora Gutiérrez](mailto:jmora@unav.es) (Vice-Chair)
-- [Alexandra Ljimani](mailto:alexandra_ljimani@yahoo.de) (Past-Chair)
+- [Jose María Mora Gutiérrez](mailto:jmora@unav.es) (Chair)
+- [Octavia Bane](mailto:) (Vice-Chair)
+- [Pim Pullens](mailto:Pim.Pullens@uzgent.be)  (Past-Chair)
 {% endcapture %}
 
 
