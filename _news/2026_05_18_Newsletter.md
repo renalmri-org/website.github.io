@@ -40,7 +40,7 @@ Furthermore, we want to put the spotlight on some renalMRI.org members who atten
 The Renal MRI Study Group met on Sunday, May 10th, in a joint business meeting with the MRI in Drug Research Study Group. The 2025-2026 Chair of the Renal MRI study group, Dr. Octavia Bane, presented an overview of the group’s activities in 2025, a recommended Walk-Through-the-Week of ISMRM 2026 presentations, introduced the Trainee Abstract Competition, and the new group leadership. The ISMRM Renal MRI Study group will be led in 2026-2027 by Dr. Iosif A Mendichovszky as Chair, Prof. Sue Francis as Secretary, and Dr. Rebeca Echeverria-Chasco as Trainee Representative. Prof. Sue Francis led a joint discussion of the two study groups, on the topic “Which MRI biomarker is ready for FDA/EMA qualification, similar to TKV in ADPKD?”. The study groups plan to organise joint virtual workshops in the future.
 
 
-The Renal Study Group members voted among 5 finalists in the Trainee Abstract Competition. Congratulations to our winers and finalists, all members of renalMRI.org!
+The Renal Study Group members voted among 5 finalists in the Trainee Abstract Competition. Congratulations to our winners and finalists, all members of renalMRI.org!
 
 
 **First Prize**
