@@ -15,7 +15,7 @@ First, 61.7 % of the renalMRI.org community has chosen to have the **next bienni
 We will send you regular updates, and you can find further updates and information on our [renalMRI.org event page](https://renalmri.org/events/uppsala2027) or [local conference page](https://www.renalmri2027.se/). 
 
 
-![image-center](assets/images/uppsala2027/banner_uppsala_2027.png)
+![image-center](/assets/images/uppsala2027/banner_uppsala_2027.png)
 
 
 <img align="left" src="/assets/images/Octavia_Bane.png" alt="Octavia_Bane" style="width:100px;height:auto;margin:0 10px 10px 0;"> Second, 59.6 % of the renalMRI.org community has chosen as the next **vice char, Octavia Bane**, PhD, Assistant Professor in the BioMedical Engineering and Imaging Institute (BMEII) and the Department of Radiology at the Icahn School of Medicine at Mount Sinai, New York, NY, USA.
