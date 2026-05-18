@@ -16,7 +16,7 @@ We will send you regular updates, and you can find further updates and informati
 ![image-center](assets/images/uppsala2027/banner_uppsala_2027.png)
 
 
-<img align="left" src="/assets/images/Octavia_Bane.png" alt="Octavia_Bane" style="width:128px;height:auto;margin:0 10px 10px 0;"> Second, 59.6 % of the renalMRI.org community has chosen as the next **vice char, Octavia Bane**, PhD, Assistant Professor in the BioMedical Engineering and Imaging Institute (BMEII) and the Department of Radiology at the Icahn School of Medicine at Mount Sinai, New York, NY, USA.
+<img align="left" src="/assets/images/Octavia_Bane.png" alt="Octavia_Bane" style="width:100px;height:auto;margin:0 10px 10px 0;"> Second, 59.6 % of the renalMRI.org community has chosen as the next **vice char, Octavia Bane**, PhD, Assistant Professor in the BioMedical Engineering and Imaging Institute (BMEII) and the Department of Radiology at the Icahn School of Medicine at Mount Sinai, New York, NY, USA.
 
 
 <hr style="border-width: 2px;">
