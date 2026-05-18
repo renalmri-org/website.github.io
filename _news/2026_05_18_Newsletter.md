@@ -34,7 +34,7 @@ The consortium will refine imaging and biochemical methods, validate these bioma
 
 Furthermore, we want to put the spotlight on some renalMRI.org members who attended the **ISMRM & ISMRT Annual Meeting & Exhibition 2026 (May 9th-May 14th, 2026)**, in Cape Town, South Africa, and virtually: 
 
-<img align="left" src="assets/images/newsletter_images/Mira_Liu.png" alt="Mira_Liu" style="width:100px;height:auto;margin:0 10px 10px 0;"> **Mira Liu**, PhD, postdoctoral fellow at the Icahn School of Medicine at Mount Sinai in New York and Renal MRI Study Group Trainee Representative (2025-2026), received the ISMRM W.S. Moore Young Investigator Award for clinical research, for her research article “[Multiparametric MRI Predicting Renal Function Deterioration & Chronic Kidney Disease Development in Patients Undergoing Nephrectomy for Renal Masses: A Pilot Study.](https://onlinelibrary.wiley.com/doi/10.1002/jmri.70213)”  The Moore Young Investigator Award is very prestigious in the MRI community, and we are very proud that this year it went to a renal imager. Heartfelt congratulations, Mira!
+<img align="left" src="assets/images/newsletter/Mira_Liu.png" alt="Mira_Liu" style="width:100px;height:auto;margin:0 10px 10px 0;"> **Mira Liu**, PhD, postdoctoral fellow at the Icahn School of Medicine at Mount Sinai in New York and Renal MRI Study Group Trainee Representative (2025-2026), received the ISMRM W.S. Moore Young Investigator Award for clinical research, for her research article “[Multiparametric MRI Predicting Renal Function Deterioration & Chronic Kidney Disease Development in Patients Undergoing Nephrectomy for Renal Masses: A Pilot Study.](https://onlinelibrary.wiley.com/doi/10.1002/jmri.70213)”  The Moore Young Investigator Award is very prestigious in the MRI community, and we are very proud that this year it went to a renal imager. Heartfelt congratulations, Mira!
 
 
 The Renal MRI Study Group met on Sunday, May 10th, in a joint business meeting with the MRI in Drug Research Study Group. The 2025-2026 Chair of the Renal MRI study group, Dr. Octavia Bane, presented an overview of the group’s activities in 2025, a recommended Walk-Through-the-Week of ISMRM 2026 presentations, introduced the Trainee Abstract Competition, and the new group leadership. The ISMRM Renal MRI Study group will be led in 2026-2027 by Dr. Iosif A Mendichovszky as Chair, Prof. Sue Francis as Secretary, and Dr. Rebeca Echeverria-Chasco as Trainee Representative. Prof. Sue Francis led a joint discussion of the two study groups, on the topic “Which MRI biomarker is ready for FDA/EMA qualification, similar to TKV in ADPKD?”. The study groups plan to organise joint virtual workshops in the future.
@@ -46,7 +46,7 @@ The Renal Study Group members voted among 5 finalists in the Trainee Abstract Co
 **First Prize**
 
 
-<img align="left" src="assets/images/newsletter_images/Cemre_Ariyurek.png" alt="Cemre_Ariyurek" style="width:100px;height:auto;margin:0 10px 10px 0;"> **Cemre Ariyurek**, PhD, Boston Children’s Hospital and Harvard Medical School, Boston, MA, USA.
+<img align="left" src="assets/images/newsletter/Cemre_Ariyurek.png" alt="Cemre_Ariyurek" style="width:100px;height:auto;margin:0 10px 10px 0;"> **Cemre Ariyurek**, PhD, Boston Children’s Hospital and Harvard Medical School, Boston, MA, USA.
 “Diffusion-Exchange MRI for Contrast-Free Renal Function Assessment: A Feasibility Study” 
 Cemre Ariyurek is a researcher focused on motion-robust quantitative MRI for pediatric populations. Her current research investigates diffusion-exchange MRI.
 
@@ -54,7 +54,7 @@ Cemre Ariyurek is a researcher focused on motion-robust quantitative MRI for ped
 **Second Prize**
 
 
-<img align="left" src="assets/images/newsletter_images/Siria_Pasini.png" alt="Siria_Pasini" style="width:100px;height:auto;margin:0 10px 10px 0;"> **Siria Pasini**, MS, Mario Negri Institute for Pharmacological Research, Milan, Italy  
+<img align="left" src="assets/images/newsletter/Siria_Pasini.png" alt="Siria_Pasini" style="width:100px;height:auto;margin:0 10px 10px 0;"> **Siria Pasini**, MS, Mario Negri Institute for Pharmacological Research, Milan, Italy  
 “Choice of IVIM-DWI fitting substantially impacts parameter estimation in multi-center renal studies” 367-06-006
 Siria Pasini is a physicist with a deep passion for medical applications. She is pursuing her PhD in partnership with the University of Aarhus, Denmark. Her doctoral work focuses on the standardization and reproducibility of multi-parametric renal MRI across multi-site and multi-vendor settings. 
 
@@ -62,20 +62,20 @@ Siria Pasini is a physicist with a deep passion for medical applications. She is
 **Third Prize**
 
 
-<img align="left" src="assets/images/newsletter_images/Alex_Daniel.png" alt="Alex_Daniel" style="width:100px;height:auto;margin:0 10px 10px 0;"> **Alex Daniel**, PhD, Sir Peter Mansfield Imaging Centre, University of Nottingham, Nottingham, UK.
+<img align="left" src="assets/images/newsletter/Alex_Daniel.png" alt="Alex_Daniel" style="width:100px;height:auto;margin:0 10px 10px 0;"> **Alex Daniel**, PhD, Sir Peter Mansfield Imaging Centre, University of Nottingham, Nottingham, UK.
 “Parenchymal Tissue Segmentation in a Multi-Vendor Chronic Kidney Disease Cohort” 
 Alex Daniel is a physics research fellow working on the development of quantitative renal MRI methods, specialising in computational analysis and software tools. This work demonstrates accurate automated parenchymal segmentation of a highly heterogenous, multi-vendor, chronic kidney disease cohort.
 
 
 **Finalists (in order of presentation at ISMRM)**:
 
-<img align="left" src="assets/images/newsletter_images/Rebeca_Echeverria-Chasco.png" alt="Alex_Daniel" style="width:100px;height:auto;margin:0 10px 10px 0;"> **Rebeca Echeverria-Chasco**, PhD, Clinica Universidad de Navarra, Navarra, Spain. 
+<img align="left" src="assets/images/newsletter/Rebeca_Echeverria-Chasco.png" alt="Alex_Daniel" style="width:100px;height:auto;margin:0 10px 10px 0;"> **Rebeca Echeverria-Chasco**, PhD, Clinica Universidad de Navarra, Navarra, Spain. 
 “Reproducibility of renal PCASL sequences at 3.0 T: preliminary
 results from a multicenter and multivendor study”
 Rebeca’s work focuses on MR physics and medical image analysis, applying multiparametric MRI techniques in patients with kidney disease, with a particular interest in Arterial Spin Labeling (ASL) technique for measuring perfusion.
 
 
-<img align="left" src="assets/images/newsletter_images/Valensia_Anthony.png" alt="Valensia_Anthony" style="width:100px;height:auto;margin:0 10px 10px 0;"> **Valensia Anthony**, MS, Icahn School of Medicine at Mount
+<img align="left" src="assets/images/newsletter/Valensia_Anthony.png" alt="Valensia_Anthony" style="width:100px;height:auto;margin:0 10px 10px 0;"> **Valensia Anthony**, MS, Icahn School of Medicine at Mount
 Sinai, New York, NY, USA
 “Chemical Exchange Saturation Transfer (CEST) MRI for Non-invasive Molecular Imaging in Renal Transplant Recipients” 
 Valensia N. Anthony is a PhD student focusing on Chemical Exchange Saturation Transfer (CEST) MRI. Her research centres on developing CEST methods for noninvasive molecular imaging, with applications in the kidney and brain.
