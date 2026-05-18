@@ -34,7 +34,6 @@ The consortium will refine imaging and biochemical methods, validate these bioma
 
 Furthermore, we want to put the spotlight on some renalMRI.org members who attended the **ISMRM & ISMRT Annual Meeting & Exhibition 2026 (May 9th-May 14th, 2026)**, in Cape Town, South Africa, and virtually: 
 
-
 <img align="left" src="assets/images/newsletter_images/Mira_Liu.png" alt="Mira_Liu" style="width:100px;height:auto;margin:0 10px 10px 0;"> **Mira Liu**, PhD, postdoctoral fellow at the Icahn School of Medicine at Mount Sinai in New York and Renal MRI Study Group Trainee Representative (2025-2026), received the ISMRM W.S. Moore Young Investigator Award for clinical research, for her research article “[Multiparametric MRI Predicting Renal Function Deterioration & Chronic Kidney Disease Development in Patients Undergoing Nephrectomy for Renal Masses: A Pilot Study.](https://onlinelibrary.wiley.com/doi/10.1002/jmri.70213)”  The Moore Young Investigator Award is very prestigious in the MRI community, and we are very proud that this year it went to a renal imager. Heartfelt congratulations, Mira!
 
 
