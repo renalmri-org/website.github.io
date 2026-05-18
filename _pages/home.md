@@ -80,7 +80,7 @@ RENALMRI.org is a bottom-up member-led network coordinated by a governing commit
 
 Membership is open - if you want to join the network please contact the chair. The current RENALMRI.org governing committee consists of the following members:
 - [Jose María Mora Gutiérrez](mailto:jmora@unav.es) (Chair)
-- [Octavia Bane](mailto:) (Vice-Chair)
+- [Octavia Bane](mailto:octavia.bane@mountsinai.org) (Vice-Chair)
 - [Pim Pullens](mailto:Pim.Pullens@uzgent.be)  (Past-Chair)
 {% endcapture %}
 
