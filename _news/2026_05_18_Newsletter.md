@@ -13,6 +13,8 @@ We are excited to present the results of your votes for the Vice Chair candidate
 
 First, 61.7 % of the renalMRI.org community has chosen to have the **next biennial meeting in Uppsala Sweden** from **Monday, October 11th to Tuesday, October 12th, 2027**. Professor Per Liss at the Department of Radiology at Uppsala University will organise the meeting. 
 We will send you regular updates, and you can find further updates and information on our [renalMRI.org event page](https://renalmri.org/events/uppsala2027) or [local conference page](https://www.renalmri2027.se/). 
+
+
 ![image-center](assets/images/uppsala2027/banner_uppsala_2027.png)
 
 
