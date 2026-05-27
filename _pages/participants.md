@@ -7,6 +7,10 @@ author_profile: false
 
 If you want to join us or the newsletter, please read and consent to our [privacy notice](http://renalmri.org/about/#privacy-notice), and write to the [dissemination task force lead](mailto:renalmri@gmail.com).
 
+## 🇦🇺️ Australia
+* Prof. Roger Evans
+* Dr. Dana Kim
+
 ## 🇦🇹️ Austria
 * Dr. Marcos Wolf
 * Prof. Siegfried Trattnig
@@ -224,6 +228,7 @@ If you want to join us or the newsletter, please read and consent to our [privac
 * Dr. Olivier Bonny
 * Dr. Thomas De Perrot
 * Harriet Thoeny
+* Carl Glessgen
 
 ## 🇬🇧️ United Kingdom
 * Dr. Rosylin Simms
@@ -286,10 +291,6 @@ If you want to join us or the newsletter, please read and consent to our [privac
 * Mira M. Liu, PhD
 * Leyre Oteiza Zubiri, MD, PhD
 * Anand Srivastava, MD, MPH
-
-## 🇦🇺️ Australia
-* Prof. Roger Evans
-* Dr. Dana Kim
 
 ## 🇧🇦️ Bosnia And Herzegovina
 * Prof. Sinisa Ristic
