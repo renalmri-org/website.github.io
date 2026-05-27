@@ -178,6 +178,9 @@ If you want to join us or the newsletter, please read and consent to our [privac
 * Antonio Pinheiro
 * Dr. Pedro Freitas
 
+## 🇸🇦 Saudi Arabia
+* Bashair Alhummiany, PhD
+
 ## 🇷🇸️ Serbia
 * Prof. Dr. Olivera Nikolic
 * Dr. Tijana Mrdjanin
